@@ -1,0 +1,35 @@
+{
+  "entities": {
+    "Q4152": {
+      "pageid": 5072,
+      "ns": 0,
+      "title": "Q4152",
+      "lastrevid": 267216,
+      "modified": "2012-10-31T21:31:37Z",
+      "type": "item",
+      "id": "Q4152",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Schloss Neuschwanstein"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "Schloss bei F\u00fcssen in Bayern"
+        }
+      },
+      "aliases": {},
+      "claims": {},
+      "sitelinks": {
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Schloss Neuschwanstein",
+          "badges": [],
+          "url": "https://de.wikipedia.org/wiki/Schloss_Neuschwanstein"
+        }
+      }
+    }
+  }
+}

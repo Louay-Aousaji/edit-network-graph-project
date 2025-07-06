@@ -1,0 +1,2418 @@
+{
+  "entities": {
+    "Q4152": {
+      "pageid": 5072,
+      "ns": 0,
+      "title": "Q4152",
+      "lastrevid": 1013754228,
+      "modified": "2019-09-15T08:24:59Z",
+      "type": "item",
+      "id": "Q4152",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Schloss Neuschwanstein"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "ch\u00e2teau de Neuschwanstein"
+        },
+        "en": {
+          "language": "en",
+          "value": "Neuschwanstein Castle"
+        },
+        "en-ca": {
+          "language": "en-ca",
+          "value": "Neuschwanstein Castle"
+        },
+        "en-gb": {
+          "language": "en-gb",
+          "value": "Neuschwanstein Castle"
+        },
+        "it": {
+          "language": "it",
+          "value": "castello di Neuschwanstein"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "Slot Neuschwanstein"
+        },
+        "bar": {
+          "language": "bar",
+          "value": "Schloss Neischwanstoa"
+        },
+        "an": {
+          "language": "an",
+          "value": "Castiello de Neuschwanstein"
+        },
+        "ar": {
+          "language": "ar",
+          "value": "\u0642\u0635\u0631 \u0646\u0648\u064a\u0634\u0641\u0627\u0646\u0634\u062a\u0627\u064a\u0646"
+        },
+        "ast": {
+          "language": "ast",
+          "value": "Neuschwanstein"
+        },
+        "be": {
+          "language": "be",
+          "value": "\u041d\u043e\u0439\u0448\u0432\u0430\u043d\u0448\u0442\u0430\u0439\u043d"
+        },
+        "bg": {
+          "language": "bg",
+          "value": "\u041d\u043e\u0439\u0448\u0432\u0430\u043d\u0449\u0430\u0439\u043d"
+        },
+        "br": {
+          "language": "br",
+          "value": "Kastell Neuschwanstein"
+        },
+        "bs": {
+          "language": "bs",
+          "value": "Neuschwanstein"
+        },
+        "ca": {
+          "language": "ca",
+          "value": "castell de Neuschwanstein"
+        },
+        "cs": {
+          "language": "cs",
+          "value": "Neuschwanstein"
+        },
+        "cy": {
+          "language": "cy",
+          "value": "Castell Neuschwanstein"
+        },
+        "da": {
+          "language": "da",
+          "value": "Neuschwanstein"
+        },
+        "eo": {
+          "language": "eo",
+          "value": "Neuschwanstein"
+        },
+        "es": {
+          "language": "es",
+          "value": "Neuschwanstein"
+        },
+        "et": {
+          "language": "et",
+          "value": "Neuschwansteini loss"
+        },
+        "eu": {
+          "language": "eu",
+          "value": "Neuschwanstein"
+        },
+        "fa": {
+          "language": "fa",
+          "value": "\u0646\u0648\u06cc\u200c\u0634\u0648\u0627\u0646\u200c\u0634\u062a\u06cc\u0646"
+        },
+        "fi": {
+          "language": "fi",
+          "value": "Neuschwanstein"
+        },
+        "gl": {
+          "language": "gl",
+          "value": "Neuschwanstein"
+        },
+        "he": {
+          "language": "he",
+          "value": "\u05d8\u05d9\u05e8\u05ea \u05e0\u05d5\u05d9\u05e9\u05d5\u05d5\u05e0\u05e9\u05d8\u05d9\u05d9\u05df"
+        },
+        "hr": {
+          "language": "hr",
+          "value": "Dvorac Neuschwanstein"
+        },
+        "hu": {
+          "language": "hu",
+          "value": "Neuschwanstein"
+        },
+        "id": {
+          "language": "id",
+          "value": "Kastil Neuschwanstein"
+        },
+        "is": {
+          "language": "is",
+          "value": "Neuschwanstein"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "\u30ce\u30a4\u30b7\u30e5\u30f4\u30a1\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3\u57ce"
+        },
+        "ka": {
+          "language": "ka",
+          "value": "\u10dc\u10dd\u10d8\u10e8\u10d5\u10d0\u10dc\u10e8\u10e2\u10d0\u10d8\u10dc\u10d8\u10e1 \u10e1\u10d0\u10e1\u10d0\u10ee\u10da\u10d4"
+        },
+        "ko": {
+          "language": "ko",
+          "value": "\ub178\uc774\uc288\ubc18\uc288\ud0c0\uc778 \uc131"
+        },
+        "la": {
+          "language": "la",
+          "value": "Schloss Neuschwanstein"
+        },
+        "lt": {
+          "language": "lt",
+          "value": "Noi\u0161van\u0161teinas"
+        },
+        "lv": {
+          "language": "lv",
+          "value": "Nei\u0161v\u0101n\u0161teina"
+        },
+        "mk": {
+          "language": "mk",
+          "value": "\u041d\u043e\u0458\u0448\u0432\u0430\u043d\u0448\u0442\u0430\u0458\u043d"
+        },
+        "mr": {
+          "language": "mr",
+          "value": "\u0928\u0949\u092f\u0936\u094d\u0935\u093e\u0928\u0938\u094d\u091f\u093e\u0907\u0928"
+        },
+        "nds-nl": {
+          "language": "nds-nl",
+          "value": "Neuschwanstein"
+        },
+        "nn": {
+          "language": "nn",
+          "value": "Neuschwanstein"
+        },
+        "pl": {
+          "language": "pl",
+          "value": "Neuschwanstein"
+        },
+        "pnb": {
+          "language": "pnb",
+          "value": "\u0646\u06cc\u0648\u0634\u0648\u0627\u0646\u0633\u0679\u0627\u0626\u0646"
+        },
+        "pt": {
+          "language": "pt",
+          "value": "Castelo de Neuschwanstein"
+        },
+        "ro": {
+          "language": "ro",
+          "value": "Castelul Neuschwanstein"
+        },
+        "ru": {
+          "language": "ru",
+          "value": "\u041d\u043e\u0439\u0448\u0432\u0430\u043d\u0448\u0442\u0430\u0439\u043d"
+        },
+        "sk": {
+          "language": "sk",
+          "value": "Neuschwanstein"
+        },
+        "sl": {
+          "language": "sl",
+          "value": "Grad Neuschwanstein"
+        },
+        "sr": {
+          "language": "sr",
+          "value": "\u041d\u043e\u0458\u0448\u0432\u0430\u043d\u0448\u0442\u0430\u0458\u043d"
+        },
+        "sv": {
+          "language": "sv",
+          "value": "Neuschwanstein"
+        },
+        "th": {
+          "language": "th",
+          "value": "\u0e1b\u0e23\u0e32\u0e2a\u0e32\u0e17\u0e19\u0e47\u0e2d\u0e22\u0e0a\u0e27\u0e32\u0e19\u0e0a\u0e44\u0e15\u0e19\u0e4c"
+        },
+        "tr": {
+          "language": "tr",
+          "value": "Neuschwanstein \u015eatosu"
+        },
+        "uk": {
+          "language": "uk",
+          "value": "\u041d\u043e\u0439\u0448\u0432\u0430\u043d\u0448\u0442\u0430\u0439\u043d"
+        },
+        "ur": {
+          "language": "ur",
+          "value": "\u0646\u06cc\u0648\u0634\u0648\u0627\u0646\u0633\u0679\u0627\u0626\u0646"
+        },
+        "vi": {
+          "language": "vi",
+          "value": "L\u00e2u \u0111\u00e0i Neuschwanstein"
+        },
+        "war": {
+          "language": "war",
+          "value": "Neuschwanstein"
+        },
+        "zh": {
+          "language": "zh",
+          "value": "\u65b0\u5929\u9e45\u5821"
+        },
+        "zh-cn": {
+          "language": "zh-cn",
+          "value": "\u65b0\u5929\u9e45\u5821"
+        },
+        "zh-hans": {
+          "language": "zh-hans",
+          "value": "\u65b0\u5929\u9e45\u5821"
+        },
+        "zh-hant": {
+          "language": "zh-hant",
+          "value": "\u65b0\u5929\u9e45\u5821"
+        },
+        "jv": {
+          "language": "jv",
+          "value": "Kastil Neuschwanstein"
+        },
+        "sco": {
+          "language": "sco",
+          "value": "Neuschwanstein Castle"
+        },
+        "nb": {
+          "language": "nb",
+          "value": "Neuschwanstein"
+        },
+        "az": {
+          "language": "az",
+          "value": "N\u00f6y\u015fvan\u015ftayn q\u0259sri"
+        },
+        "de-ch": {
+          "language": "de-ch",
+          "value": "Schloss Neuschwanstein"
+        },
+        "el": {
+          "language": "el",
+          "value": "\u039a\u03ac\u03c3\u03c4\u03c1\u03bf \u039d\u03cc\u03b9\u03c3\u03b2\u03b1\u03bd\u03c3\u03c4\u03b1\u03ca\u03bd"
+        },
+        "pt-br": {
+          "language": "pt-br",
+          "value": "Castelo de Neuschwanstein"
+        },
+        "zea": {
+          "language": "zea",
+          "value": "Neuschwanstein"
+        },
+        "ta": {
+          "language": "ta",
+          "value": "\u0ba8\u0bcb\u0bb8\u0bcd\u0bb5\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b9f\u0bc8\u0baf\u0bcd\u0ba9\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8\u0bae\u0ba9\u0bc8"
+        },
+        "nan": {
+          "language": "nan",
+          "value": "Neuschwanstein Si\u00e2\u207f-p\u00f3"
+        },
+        "be-tarask": {
+          "language": "be-tarask",
+          "value": "\u041d\u043e\u0439\u0448\u0432\u0430\u043d\u0448\u0442\u0430\u0439\u043d"
+        },
+        "ms": {
+          "language": "ms",
+          "value": "Istana kota Neuschwanstein"
+        },
+        "sd": {
+          "language": "sd",
+          "value": "\u0646\u064a\u0648 \u0634\u0648\u0627\u0646\u0633\u067d\u0627\u0626\u0646"
+        },
+        "hy": {
+          "language": "hy",
+          "value": "\u0546\u0578\u0575\u0577\u057e\u0561\u0576\u0577\u057f\u0561\u0575\u0576"
+        },
+        "sh": {
+          "language": "sh",
+          "value": "Dvorac Neuschwanstein"
+        },
+        "hak": {
+          "language": "hak",
+          "value": "S\u00een Thi\u00ean-ng\u00f2-sa\u030dk S\u00e0ng-p\u00e1u"
+        },
+        "ceb": {
+          "language": "ceb",
+          "value": "Schloss Neuschwanstein"
+        },
+        "kk": {
+          "language": "kk",
+          "value": "\u041d\u043e\u0439\u0448\u0432\u0430\u043d\u0448\u0442\u0430\u0439\u043d"
+        },
+        "wuu": {
+          "language": "wuu",
+          "value": "\u65b0\u5929\u9e45\u5821"
+        },
+        "yue": {
+          "language": "yue",
+          "value": "\u65b0\u5929\u9d5d\u5821"
+        },
+        "ia": {
+          "language": "ia",
+          "value": "Castello de Neuschwanstein"
+        },
+        "lb": {
+          "language": "lb",
+          "value": "Schlass Neuschwanstein"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "Schloss bei F\u00fcssen in Bayern"
+        },
+        "it": {
+          "language": "it",
+          "value": "castello di Ludovico II in Baviera"
+        },
+        "es": {
+          "language": "es",
+          "value": "castillo de Alemania"
+        },
+        "en": {
+          "language": "en",
+          "value": "palace in Bavaria, Germany"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "Ch\u00e2teau en Bavi\u00e8re  (Allemagne)"
+        },
+        "cs": {
+          "language": "cs",
+          "value": "z\u00e1mek Neuschwanstein"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "kasteel in Duitsland"
+        },
+        "ru": {
+          "language": "ru",
+          "value": "\u0437\u0430\u043c\u043e\u043a \u0431\u0430\u0432\u0430\u0440\u0441\u043a\u043e\u0433\u043e \u043a\u043e\u0440\u043e\u043b\u044f \u041b\u044e\u0434\u0432\u0438\u0433\u0430 II \u043e\u043a\u043e\u043b\u043e \u0433\u043e\u0440\u043e\u0434\u043a\u0430 \u0424\u044e\u0441\u0441\u0435\u043d \u0438 \u0437\u0430\u043c\u043a\u0430 \u0425\u043e\u044d\u043d\u0448\u0432\u0430\u043d\u0433\u0430\u0443 \u0432 \u044e\u0433\u043e-\u0437\u0430\u043f\u0430\u0434\u043d\u043e\u0439 \u0411\u0430\u0432\u0430\u0440\u0438\u0438"
+        },
+        "pl": {
+          "language": "pl",
+          "value": "zamek (Bawaria, Niemcy)"
+        },
+        "ne": {
+          "language": "ne",
+          "value": "\u091c\u0930\u094d\u092e\u0928\u0940\u0915\u094b \u092c\u093e\u092d\u093e\u0930\u093f\u092e\u093e\u092e\u093e \u0930\u0939\u0947\u0915\u094b \u0926\u0930\u092c\u093e\u0930"
+        },
+        "he": {
+          "language": "he",
+          "value": "\u05d8\u05d9\u05e8\u05d4 \u05d1\u05d2\u05e8\u05de\u05e0\u05d9\u05d4"
+        },
+        "gl": {
+          "language": "gl",
+          "value": "castelo neog\u00f3tico"
+        },
+        "ar": {
+          "language": "ar",
+          "value": "\u0642\u0635\u0631 \u0641\u064a \u0623\u0644\u0645\u0627\u0646\u064a\u0627"
+        },
+        "nb": {
+          "language": "nb",
+          "value": "Kongens koseslott"
+        },
+        "sd": {
+          "language": "sd",
+          "value": "\u0628\u0648\u0627\u0631\u064a\u06c1\u060c \u062c\u0631\u0645\u0646\u064a \u06fe \u0645\u062d\u0644"
+        }
+      },
+      "aliases": {
+        "de": [
+          {
+            "language": "de",
+            "value": "Schlo\u00df Neuschwanstein"
+          }
+        ],
+        "en": [
+          {
+            "language": "en",
+            "value": "Neuschwanstein"
+          }
+        ],
+        "it": [
+          {
+            "language": "it",
+            "value": "castello di Ludwig a F\u00fcssen"
+          }
+        ]
+      },
+      "claims": {
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "3d086dc3173ce27beab2c8ba46591970a3444594",
+              "datavalue": {
+                "value": "Schloss Neuschwanstein 2013.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q4152$cadccda1-47ed-ffe0-9d70-88130c7aabca",
+            "rank": "normal"
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "a9269c53b6be27acc2f06780b28d0bcf4b794bbb",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 16560,
+                  "id": "Q16560"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q4152$df5fa999-49ab-f5c1-c0c0-332f4a28535b",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "9f8f53c005e864670b86a082151ca0136325348c",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 23413,
+                  "id": "Q23413"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q4152$7A2B2461-FAF0-469C-9C34-14088BD18FC5",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "46b80b860a969bc8ec096e7ea119c83e3ed28490",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 751876,
+                  "id": "Q751876"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q4152$5f62edda-47e3-33c8-17c6-c539359d5ae4",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "3112a4026e6f2dbccac39783ee675b4760451ca7",
+                "snaks": {
+                  "P5383": [
+                    {
+                      "snaktype": "value",
+                      "property": "P5383",
+                      "hash": "d4a4e09fc322071648a9fc17a7a802ead647a156",
+                      "datavalue": {
+                        "value": "7020",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ],
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "c619cc6e0e5fe3733a8c4a47939343e5970e0e9d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 265049,
+                          "id": "Q265049"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "6d14dc9d94cb9d5db17d8dcf3b67af81b57ccff1",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2018-07-31T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P5383",
+                  "P248",
+                  "P813"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "acd295a6dc52036dea8eb0527f179013bbd07906",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 570116,
+                  "id": "Q570116"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q4152$e2f283fb-4aad-d1c4-858f-72ca060dc153",
+            "rank": "normal"
+          }
+        ],
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "81de42346cf860c8df3687a3055fde9091d31f9e",
+              "datavalue": {
+                "value": "Neuschwanstein Castle",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "q4152$3F1DE77C-8A61-44A0-956E-B784186E6F18",
+            "rank": "normal"
+          }
+        ],
+        "P227": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P227",
+              "hash": "d404fa407903b4ab528c6bd3d2611a21c5735754",
+              "datavalue": {
+                "value": "4075333-5",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "q4152$dac07a19-4815-1d55-9318-4e32a8e38ead",
+            "rank": "normal"
+          }
+        ],
+        "P625": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P625",
+              "hash": "9cdbafe7c588014907b984f666ce50228adec65d",
+              "datavalue": {
+                "value": {
+                  "latitude": 47.55773,
+                  "longitude": 10.7496457,
+                  "altitude": null,
+                  "precision": 1e-06,
+                  "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+              },
+              "datatype": "globe-coordinate"
+            },
+            "type": "statement",
+            "id": "Q4152$89E01A02-0F76-41E4-90C6-F3F196B89334",
+            "rank": "normal"
+          }
+        ],
+        "P131": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P131",
+              "hash": "34de9a58384634e9f2a97d7de95392b26cd5a892",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 672962,
+                  "id": "Q672962"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q4152$1EE4BD91-0F70-45ED-A891-FCB12349D2BD",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P131",
+              "hash": "15989c33497934076ad231cfc313710a3cf465eb",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 256547,
+                  "id": "Q256547"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q4152$8a57a505-4629-46c6-9d08-3a6a5236d211",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              },
+              {
+                "hash": "3112a4026e6f2dbccac39783ee675b4760451ca7",
+                "snaks": {
+                  "P5383": [
+                    {
+                      "snaktype": "value",
+                      "property": "P5383",
+                      "hash": "d4a4e09fc322071648a9fc17a7a802ead647a156",
+                      "datavalue": {
+                        "value": "7020",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ],
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "c619cc6e0e5fe3733a8c4a47939343e5970e0e9d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 265049,
+                          "id": "Q265049"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "6d14dc9d94cb9d5db17d8dcf3b67af81b57ccff1",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2018-07-31T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P5383",
+                  "P248",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P214": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P214",
+              "hash": "ca1902df7f020f7f1ba9518c3792ba4b9a29accf",
+              "datavalue": {
+                "value": "316963811",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q4152$1384e18a-41e2-9bd1-04a7-355b898067f5",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P214",
+              "hash": "60f36600e1a57ee029f732318b7fe04005aa2693",
+              "datavalue": {
+                "value": "248538736",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q4152$B4354649-400C-40B5-8649-F824BA3A0F9C",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "a15235874a64e3fc22415263fa402977bba8dd11",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "6b7d4330c4aac4caec4ede9de0311ce273f88ecd",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 54919,
+                          "id": "Q54919"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P214": [
+                    {
+                      "snaktype": "value",
+                      "property": "P214",
+                      "hash": "60f36600e1a57ee029f732318b7fe04005aa2693",
+                      "datavalue": {
+                        "value": "248538736",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "71f2e1cf1f8807b3e6265289e98668cc5373d67a",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2018-08-11T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P214",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P935": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P935",
+              "hash": "e928de2fc45cf501ee15c741baa7976c8e4a3855",
+              "datavalue": {
+                "value": "Schloss Neuschwanstein",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q4152$70C3E005-DC3F-47D4-8EC8-ACCF6830CB08",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "3bf39867b037e8e494a8389ae8a03bad6825a7fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "5946b91c53409c48f5f1fb0319ed41fc67a764da",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 191168,
+                          "id": "Q191168"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P646": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P646",
+              "hash": "5c886ed35b8cc5204de1282d40332e507b960c84",
+              "datavalue": {
+                "value": "/m/01jz1z",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q4152$00A026E8-C22C-474B-9D09-D7F9DE30C00D",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 15241312,
+                          "id": "Q15241312"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P577": [
+                    {
+                      "snaktype": "value",
+                      "property": "P577",
+                      "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2013-10-28T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P577"
+                ]
+              }
+            ]
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q4152$8EB93A9D-4423-4633-8410-FBA5D33A94ED",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "bf2de1ecdd9f1e29589dae68b577d20b6208fbeb",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "c619cc6e0e5fe3733a8c4a47939343e5970e0e9d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 265049,
+                          "id": "Q265049"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "1c2aeb96b78dfc88934ce3c410e36af4c25e7c8a",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2018-07-30T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P127": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P127",
+              "hash": "9ba13b0d2d813377be4c071ac5c06599e2e3cc3d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 44039,
+                  "id": "Q44039"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q4152$097DF2C0-4C84-4F67-95B1-BC9B8FF807AB",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P84": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P84",
+              "hash": "2b1220d673bf3b63d493a78db42e2aad5a9061d5",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 573740,
+                  "id": "Q573740"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q4152$ADA288FE-CBB6-4973-BF4A-BDFF69C78E5B",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1566": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1566",
+              "hash": "26f3f1835df7342fb4e0b550c15e53890c3e4ab3",
+              "datavalue": {
+                "value": "2864198",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q4152$7D2EF061-D8AC-41C7-AFB9-35DAAD7F81DB",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "88694a0f4d1486770c269f7db16a1982f74da69d",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "1b3ef912a2bd61e18dd43abd184337eb010b2e96",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 830106,
+                          "id": "Q830106"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248"
+                ]
+              }
+            ]
+          }
+        ],
+        "P244": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P244",
+              "hash": "9cf1eb1fe26024848a315471dc529e15ce787010",
+              "datavalue": {
+                "value": "sh86007802",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q4152$5189840A-AB88-4FBE-8EEC-EB230C168B19",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1435": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1435",
+              "hash": "21283900d181065b03c1cd372839e2da2796c723",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 17297633,
+                  "id": "Q17297633"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q4152$85BD6281-2A10-4FF5-B5D2-4F97EDE5480D",
+            "rank": "normal"
+          }
+        ],
+        "P149": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P149",
+              "hash": "1e49682f91b3efbb16f8ccbee2c5608e13eb7b41",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 744373,
+                  "id": "Q744373"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q4152$77DBF830-6504-4B7E-857C-5C37499E381D",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "b3fd5e254143d8b52cd96cff43af9af5e3a82358",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f13c99a16441677ec69fcea23f221d866f1fc98f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 199693,
+                          "id": "Q199693"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P149",
+              "hash": "94974c25fd300c5aefbd6bff5821baec6d82b310",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 186363,
+                  "id": "Q186363"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q4152$6e731cb2-42a2-9ead-3a4b-076f55f466e6",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P112": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P112",
+              "hash": "1bfe80927be02c044fd557096b06149fb6b80918",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 44039,
+                  "id": "Q44039"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q4152$4B42F370-0283-4D25-A444-319DAEAEE50D",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P268": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P268",
+              "hash": "8aa4dc887fb278008d96fbfda88ac75ee7fa4c5a",
+              "datavalue": {
+                "value": "13086180f",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q4152$c443ad72-4bce-be60-4d2b-3a46004e68bf",
+            "rank": "normal"
+          }
+        ],
+        "P2163": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2163",
+              "hash": "e54949776e7770b06a5141ccdf1e65bf76d0d29a",
+              "datavalue": {
+                "value": "630965",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q4152$bcf79074-4897-625a-dea4-c60b973813cd",
+            "rank": "normal"
+          }
+        ],
+        "P2503": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2503",
+              "hash": "e7454a304a648e934d23fc3d668da01b2d8f5541",
+              "datavalue": {
+                "value": "NEUEIN_W8959",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q4152$a02c7085-4dd2-6497-2490-61d9a140631d",
+            "rank": "normal"
+          }
+        ],
+        "P455": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P455",
+              "hash": "e25609e7929d9a18f3699b2cab37e1b1f129fa17",
+              "datavalue": {
+                "value": "271237",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q4152$0bfef948-4b8b-0a21-2c87-44e2018fabee",
+            "rank": "normal"
+          }
+        ],
+        "P269": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P269",
+              "hash": "f58b4138211bccb83b08a21089f1fc087c71f05d",
+              "datavalue": {
+                "value": "050645390",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q4152$3e721c12-4b79-c2bd-6139-51d9f50b1004",
+            "rank": "normal"
+          }
+        ],
+        "P950": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P950",
+              "hash": "bd0f1870728d4942bfbb0f6b527db1ab747547b7",
+              "datavalue": {
+                "value": "XX4888722",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q4152$7f080da5-47e5-c0d2-48d6-2f21a89a68fe",
+            "rank": "normal"
+          }
+        ],
+        "P454": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P454",
+              "hash": "4553fc69bf8c81e4d2c07d08a59521896ca5ecca",
+              "datavalue": {
+                "value": "20015611",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q4152$5224CD36-9198-48AB-BE3F-51F459EE67D5",
+            "rank": "normal"
+          }
+        ],
+        "P571": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P571",
+              "hash": "61abc401164cba9a3c9720a9632f3b191628947c",
+              "datavalue": {
+                "value": {
+                  "time": "+1869-00-00T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 9,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q4152$507CA472-F092-4503-A16D-3C7A4BEEC766",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "3bf39867b037e8e494a8389ae8a03bad6825a7fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "5946b91c53409c48f5f1fb0319ed41fc67a764da",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 191168,
+                          "id": "Q191168"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1667": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1667",
+              "hash": "7820091bc1cad2b5826eca9d5f7e9a539713dd18",
+              "datavalue": {
+                "value": "7123676",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q4152$031DCB08-61BB-4885-AD30-BD0B779B0C67",
+            "rank": "normal"
+          }
+        ],
+        "P3417": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3417",
+              "hash": "28cad5de5bed86c316c7fc4103ec9f9004164d33",
+              "datavalue": {
+                "value": "Neuschwanstein-Castle",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q4152$8FE0FCCD-4D76-4CFC-8F6C-0B1F5E24A202",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "3b0a5bb3c1f955edce73740124f7d935698092ad",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "3ac9682e789a3a3791d4fd088b265ea03abef101",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 51711,
+                          "id": "Q51711"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248"
+                ]
+              }
+            ]
+          }
+        ],
+        "P2044": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2044",
+              "hash": "98b9c9e9c1df5bacf07f704fcdfe15ad90c97163",
+              "datavalue": {
+                "value": {
+                  "amount": "+940",
+                  "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "id": "Q4152$ebf61de6-4aa3-7b4e-b9c6-b864ce4c64fa",
+            "rank": "normal"
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "a9e3de96a38d84cc06056356ba5067768cbc4cd7",
+              "datavalue": {
+                "value": "http://www.neuschwanstein.com/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q4152$e886dd53-4e8b-9475-e0e5-25073a2e03e2",
+            "rank": "normal"
+          }
+        ],
+        "P791": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P791",
+              "hash": "a230e1279442a7d4f28badc4ffed6cb284739fbf",
+              "datavalue": {
+                "value": "DE-MUS-051612",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q4152$5328C1C4-A924-4AA3-A658-FEA1F25E3A16",
+            "rank": "normal"
+          }
+        ],
+        "P1417": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1417",
+              "hash": "a5957b7127b58174aeefd4ea5cbbcd906cbaef14",
+              "datavalue": {
+                "value": "topic/Neuschwanstein-Castle",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q4152$770FF9A0-642C-40FB-8C68-E6D1F6D27E20",
+            "rank": "normal"
+          }
+        ],
+        "P2048": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2048",
+              "hash": "a273aebe13a1b8eda7972df67cda9b7a3461c58b",
+              "datavalue": {
+                "value": {
+                  "amount": "+65",
+                  "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "id": "Q4152$484cf6b1-4333-2456-2eab-9d5536d113b2",
+            "rank": "normal"
+          }
+        ],
+        "P1705": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1705",
+              "hash": "dad501afa66a30f98d44229e2cd25e6674517388",
+              "datavalue": {
+                "value": {
+                  "text": "Schlo\u00df Neuschwanstein",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q4152$f407a803-4b42-59cd-0ade-ab16f34710be",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P5383": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5383",
+              "hash": "d4a4e09fc322071648a9fc17a7a802ead647a156",
+              "datavalue": {
+                "value": "7020",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q4152$2DB4DB6C-0BF8-4326-94F4-79B84D4ADF0A",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fc5c0700e4ea82f652ee81db5553c3a44446a105",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "bb385bc908e4615b60c060310f5723f66c443109",
+                      "datavalue": {
+                        "value": "https://www.archinform.net/service/wd_aipro.php",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "775e4bc3406f34d4db423a7a92abe6c7af78a5e1",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2018-07-02T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P6573": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6573",
+              "hash": "4cb7a3fe036025914ff0c8c4b37577db27a77545",
+              "datavalue": {
+                "value": "Schloss_Neuschwanstein",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q4152$93BA9F5E-1525-4395-8DFA-876CC71BD42B",
+            "rank": "normal"
+          }
+        ],
+        "P5905": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5905",
+              "hash": "da7353f90ff7e701554132717f1832f9e6303f3f",
+              "datavalue": {
+                "value": "4020-61629",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q4152$92F03C51-895F-4610-B30E-D3B3BFF5880A",
+            "rank": "normal"
+          }
+        ],
+        "P4244": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P4244",
+              "hash": "18dfd14cdf7fe3d68afd731567975913fae190ef",
+              "datavalue": {
+                "value": "D-7-77-169-33",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q4152$84B04E2B-7E91-4521-8CF5-0D810E8F6AEF",
+            "rank": "normal"
+          }
+        ],
+        "P6375": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6375",
+              "hash": "e88cd2152113941cbc3f54bec84dcfb44b9d433f",
+              "datavalue": {
+                "value": {
+                  "text": "Neuschwansteinstra\u00dfe 20",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q4152$F225ACA5-506A-4590-929A-3CC38FD4E9F6",
+            "rank": "normal"
+          }
+        ],
+        "P949": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P949",
+              "hash": "33f8502ddaea1b86fb70fd55426e9aca68f0ea31",
+              "datavalue": {
+                "value": "000593091",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q4152$e50144db-414e-da86-82bf-25d6b887462d",
+            "rank": "normal"
+          }
+        ],
+        "P691": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P691",
+              "hash": "6e054af1cd8b53366d7480fe294b53736efa4ca1",
+              "datavalue": {
+                "value": "kn20090219001",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q4152$3ce0b4bb-49d2-c34d-54f9-05f6f6200ecc",
+            "rank": "normal"
+          }
+        ],
+        "P1015": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1015",
+              "hash": "b45b3feb5edd7897ff4ed708d31a0dd2d172e61a",
+              "datavalue": {
+                "value": "2100035",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q4152$fb635023-4155-c9ad-1718-a30fd9c5e5dd",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "anwiki": {
+          "site": "anwiki",
+          "title": "Castiello de Neuschwanstein",
+          "badges": [],
+          "url": "https://an.wikipedia.org/wiki/Castiello_de_Neuschwanstein"
+        },
+        "arwiki": {
+          "site": "arwiki",
+          "title": "\u0642\u0635\u0631 \u0646\u0648\u064a\u0634\u0641\u0627\u0646\u0634\u062a\u0627\u064a\u0646",
+          "badges": [],
+          "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D9%86%D9%88%D9%8A%D8%B4%D9%81%D8%A7%D9%86%D8%B4%D8%AA%D8%A7%D9%8A%D9%86"
+        },
+        "astwiki": {
+          "site": "astwiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://ast.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "azwiki": {
+          "site": "azwiki",
+          "title": "Noy\u015fvan\u015ftayn q\u0259sri",
+          "badges": [
+            "Q17437796"
+          ],
+          "url": "https://az.wikipedia.org/wiki/Noy%C5%9Fvan%C5%9Ftayn_q%C9%99sri"
+        },
+        "barwiki": {
+          "site": "barwiki",
+          "title": "Schloss Neischwanstoa",
+          "badges": [],
+          "url": "https://bar.wikipedia.org/wiki/Schloss_Neischwanstoa"
+        },
+        "be_x_oldwiki": {
+          "site": "be_x_oldwiki",
+          "title": "\u041d\u043e\u0439\u0448\u0432\u0430\u043d\u0448\u0442\u0430\u0439\u043d",
+          "badges": [],
+          "url": "https://be-tarask.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B9%D1%88%D0%B2%D0%B0%D0%BD%D1%88%D1%82%D0%B0%D0%B9%D0%BD"
+        },
+        "bewiki": {
+          "site": "bewiki",
+          "title": "\u041d\u043e\u0439\u0448\u0432\u0430\u043d\u0448\u0442\u0430\u0439\u043d",
+          "badges": [],
+          "url": "https://be.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B9%D1%88%D0%B2%D0%B0%D0%BD%D1%88%D1%82%D0%B0%D0%B9%D0%BD"
+        },
+        "bgwiki": {
+          "site": "bgwiki",
+          "title": "\u041d\u043e\u0439\u0448\u0432\u0430\u043d\u0449\u0430\u0439\u043d",
+          "badges": [],
+          "url": "https://bg.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B9%D1%88%D0%B2%D0%B0%D0%BD%D1%89%D0%B0%D0%B9%D0%BD"
+        },
+        "brwiki": {
+          "site": "brwiki",
+          "title": "Kastell Neuschwanstein",
+          "badges": [],
+          "url": "https://br.wikipedia.org/wiki/Kastell_Neuschwanstein"
+        },
+        "bswiki": {
+          "site": "bswiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://bs.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "cawiki": {
+          "site": "cawiki",
+          "title": "Castell de Neuschwanstein",
+          "badges": [],
+          "url": "https://ca.wikipedia.org/wiki/Castell_de_Neuschwanstein"
+        },
+        "cebwiki": {
+          "site": "cebwiki",
+          "title": "Schloss Neuschwanstein",
+          "badges": [],
+          "url": "https://ceb.wikipedia.org/wiki/Schloss_Neuschwanstein"
+        },
+        "commonswiki": {
+          "site": "commonswiki",
+          "title": "Schloss Neuschwanstein",
+          "badges": [],
+          "url": "https://commons.wikimedia.org/wiki/Schloss_Neuschwanstein"
+        },
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://cs.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "cywiki": {
+          "site": "cywiki",
+          "title": "Castell Neuschwanstein",
+          "badges": [],
+          "url": "https://cy.wikipedia.org/wiki/Castell_Neuschwanstein"
+        },
+        "dawiki": {
+          "site": "dawiki",
+          "title": "Schloss Neuschwanstein",
+          "badges": [],
+          "url": "https://da.wikipedia.org/wiki/Schloss_Neuschwanstein"
+        },
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Schloss Neuschwanstein",
+          "badges": [
+            "Q17437796"
+          ],
+          "url": "https://de.wikipedia.org/wiki/Schloss_Neuschwanstein"
+        },
+        "dewikivoyage": {
+          "site": "dewikivoyage",
+          "title": "Neuschwanstein",
+          "badges": [
+            "Q17559452"
+          ],
+          "url": "https://de.wikivoyage.org/wiki/Neuschwanstein"
+        },
+        "elwiki": {
+          "site": "elwiki",
+          "title": "\u039a\u03ac\u03c3\u03c4\u03c1\u03bf \u039d\u03bf\u03ca\u03c3\u03b2\u03ac\u03bd\u03c3\u03c4\u03b1\u03ca\u03bd",
+          "badges": [],
+          "url": "https://el.wikipedia.org/wiki/%CE%9A%CE%AC%CF%83%CF%84%CF%81%CE%BF_%CE%9D%CE%BF%CF%8A%CF%83%CE%B2%CE%AC%CE%BD%CF%83%CF%84%CE%B1%CF%8A%CE%BD"
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Neuschwanstein Castle",
+          "badges": [],
+          "url": "https://en.wikipedia.org/wiki/Neuschwanstein_Castle"
+        },
+        "eowiki": {
+          "site": "eowiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://eo.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "eswiki": {
+          "site": "eswiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://es.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "etwiki": {
+          "site": "etwiki",
+          "title": "Neuschwansteini loss",
+          "badges": [],
+          "url": "https://et.wikipedia.org/wiki/Neuschwansteini_loss"
+        },
+        "euwiki": {
+          "site": "euwiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://eu.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "fawiki": {
+          "site": "fawiki",
+          "title": "\u0646\u0648\u06cc\u200c\u0634\u0648\u0627\u0646\u200c\u0634\u062a\u0627\u06cc\u0646",
+          "badges": [],
+          "url": "https://fa.wikipedia.org/wiki/%D9%86%D9%88%DB%8C%E2%80%8C%D8%B4%D9%88%D8%A7%D9%86%E2%80%8C%D8%B4%D8%AA%D8%A7%DB%8C%D9%86"
+        },
+        "fiwiki": {
+          "site": "fiwiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://fi.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "frwiki": {
+          "site": "frwiki",
+          "title": "Ch\u00e2teau de Neuschwanstein",
+          "badges": [],
+          "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Neuschwanstein"
+        },
+        "glwiki": {
+          "site": "glwiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://gl.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "hakwiki": {
+          "site": "hakwiki",
+          "title": "S\u00een Thi\u00ean-ng\u00f2-sa\u030dk S\u00e0ng-p\u00e1u",
+          "badges": [],
+          "url": "https://hak.wikipedia.org/wiki/S%C3%AEn_Thi%C3%AAn-ng%C3%B2-sa%CC%8Dk_S%C3%A0ng-p%C3%A1u"
+        },
+        "hewiki": {
+          "site": "hewiki",
+          "title": "\u05d8\u05d9\u05e8\u05ea \u05e0\u05d5\u05d9\u05e9\u05d5\u05d5\u05e0\u05e9\u05d8\u05d9\u05d9\u05df",
+          "badges": [],
+          "url": "https://he.wikipedia.org/wiki/%D7%98%D7%99%D7%A8%D7%AA_%D7%A0%D7%95%D7%99%D7%A9%D7%95%D7%95%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F"
+        },
+        "hrwiki": {
+          "site": "hrwiki",
+          "title": "Dvorac Neuschwanstein",
+          "badges": [],
+          "url": "https://hr.wikipedia.org/wiki/Dvorac_Neuschwanstein"
+        },
+        "huwiki": {
+          "site": "huwiki",
+          "title": "Neuschwanstein kast\u00e9ly",
+          "badges": [],
+          "url": "https://hu.wikipedia.org/wiki/Neuschwanstein_kast%C3%A9ly"
+        },
+        "hywiki": {
+          "site": "hywiki",
+          "title": "\u0546\u0578\u0575\u0577\u057e\u0561\u0576\u0577\u057f\u0561\u0575\u0576",
+          "badges": [],
+          "url": "https://hy.wikipedia.org/wiki/%D5%86%D5%B8%D5%B5%D5%B7%D5%BE%D5%A1%D5%B6%D5%B7%D5%BF%D5%A1%D5%B5%D5%B6"
+        },
+        "iawiki": {
+          "site": "iawiki",
+          "title": "Castello de Neuschwanstein",
+          "badges": [],
+          "url": "https://ia.wikipedia.org/wiki/Castello_de_Neuschwanstein"
+        },
+        "idwiki": {
+          "site": "idwiki",
+          "title": "Puri Neuschwanstein",
+          "badges": [],
+          "url": "https://id.wikipedia.org/wiki/Puri_Neuschwanstein"
+        },
+        "iswiki": {
+          "site": "iswiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://is.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "itwiki": {
+          "site": "itwiki",
+          "title": "Castello di Neuschwanstein",
+          "badges": [],
+          "url": "https://it.wikipedia.org/wiki/Castello_di_Neuschwanstein"
+        },
+        "jawiki": {
+          "site": "jawiki",
+          "title": "\u30ce\u30a4\u30b7\u30e5\u30f4\u30a1\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3\u57ce",
+          "badges": [],
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%A4%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E5%9F%8E"
+        },
+        "jvwiki": {
+          "site": "jvwiki",
+          "title": "Kastil Neuschwanstein",
+          "badges": [],
+          "url": "https://jv.wikipedia.org/wiki/Kastil_Neuschwanstein"
+        },
+        "kawiki": {
+          "site": "kawiki",
+          "title": "\u10dc\u10dd\u10d8\u10e8\u10d5\u10d0\u10dc\u10e8\u10e2\u10d0\u10d8\u10dc\u10d8\u10e1 \u10e1\u10d0\u10e1\u10d0\u10ee\u10da\u10d4",
+          "badges": [],
+          "url": "https://ka.wikipedia.org/wiki/%E1%83%9C%E1%83%9D%E1%83%98%E1%83%A8%E1%83%95%E1%83%90%E1%83%9C%E1%83%A8%E1%83%A2%E1%83%90%E1%83%98%E1%83%9C%E1%83%98%E1%83%A1_%E1%83%A1%E1%83%90%E1%83%A1%E1%83%90%E1%83%AE%E1%83%9A%E1%83%94"
+        },
+        "kkwiki": {
+          "site": "kkwiki",
+          "title": "\u041d\u043e\u0439\u0448\u0432\u0430\u043d\u0448\u0442\u0430\u0439\u043d",
+          "badges": [],
+          "url": "https://kk.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B9%D1%88%D0%B2%D0%B0%D0%BD%D1%88%D1%82%D0%B0%D0%B9%D0%BD"
+        },
+        "kowiki": {
+          "site": "kowiki",
+          "title": "\ub178\uc774\uc288\ubc18\uc288\ud0c0\uc778 \uc131",
+          "badges": [],
+          "url": "https://ko.wikipedia.org/wiki/%EB%85%B8%EC%9D%B4%EC%8A%88%EB%B0%98%EC%8A%88%ED%83%80%EC%9D%B8_%EC%84%B1"
+        },
+        "lawiki": {
+          "site": "lawiki",
+          "title": "Castrum Swangowe Novum",
+          "badges": [],
+          "url": "https://la.wikipedia.org/wiki/Castrum_Swangowe_Novum"
+        },
+        "lbwiki": {
+          "site": "lbwiki",
+          "title": "Schlass Neuschwanstein",
+          "badges": [],
+          "url": "https://lb.wikipedia.org/wiki/Schlass_Neuschwanstein"
+        },
+        "ltwiki": {
+          "site": "ltwiki",
+          "title": "Noi\u0161van\u0161teinas",
+          "badges": [],
+          "url": "https://lt.wikipedia.org/wiki/Noi%C5%A1van%C5%A1teinas"
+        },
+        "lvwiki": {
+          "site": "lvwiki",
+          "title": "Nei\u0161v\u0101n\u0161teina",
+          "badges": [],
+          "url": "https://lv.wikipedia.org/wiki/Nei%C5%A1v%C4%81n%C5%A1teina"
+        },
+        "mkwiki": {
+          "site": "mkwiki",
+          "title": "\u041d\u043e\u0458\u0448\u0432\u0430\u043d\u0448\u0442\u0430\u0458\u043d",
+          "badges": [],
+          "url": "https://mk.wikipedia.org/wiki/%D0%9D%D0%BE%D1%98%D1%88%D0%B2%D0%B0%D0%BD%D1%88%D1%82%D0%B0%D1%98%D0%BD"
+        },
+        "mrwiki": {
+          "site": "mrwiki",
+          "title": "\u0928\u0949\u092f\u0936\u094d\u0935\u093e\u0928\u0938\u094d\u091f\u093e\u0907\u0928",
+          "badges": [],
+          "url": "https://mr.wikipedia.org/wiki/%E0%A4%A8%E0%A5%89%E0%A4%AF%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A8%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%A8"
+        },
+        "mswiki": {
+          "site": "mswiki",
+          "title": "Istana kota Neuschwanstein",
+          "badges": [],
+          "url": "https://ms.wikipedia.org/wiki/Istana_kota_Neuschwanstein"
+        },
+        "nds_nlwiki": {
+          "site": "nds_nlwiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://nds-nl.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "nlwiki": {
+          "site": "nlwiki",
+          "title": "Slot Neuschwanstein",
+          "badges": [],
+          "url": "https://nl.wikipedia.org/wiki/Slot_Neuschwanstein"
+        },
+        "nnwiki": {
+          "site": "nnwiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://nn.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "nowiki": {
+          "site": "nowiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://no.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "Neuschwanstein",
+          "badges": [
+            "Q17437798"
+          ],
+          "url": "https://pl.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "pnbwiki": {
+          "site": "pnbwiki",
+          "title": "\u0646\u06cc\u0648\u0634\u0648\u0627\u0646\u0633\u0679\u0627\u0626\u0646",
+          "badges": [],
+          "url": "https://pnb.wikipedia.org/wiki/%D9%86%DB%8C%D9%88%D8%B4%D9%88%D8%A7%D9%86%D8%B3%D9%B9%D8%A7%D8%A6%D9%86"
+        },
+        "ptwiki": {
+          "site": "ptwiki",
+          "title": "Castelo de Neuschwanstein",
+          "badges": [],
+          "url": "https://pt.wikipedia.org/wiki/Castelo_de_Neuschwanstein"
+        },
+        "rowiki": {
+          "site": "rowiki",
+          "title": "Castelul Neuschwanstein",
+          "badges": [],
+          "url": "https://ro.wikipedia.org/wiki/Castelul_Neuschwanstein"
+        },
+        "ruwiki": {
+          "site": "ruwiki",
+          "title": "\u041d\u043e\u0439\u0448\u0432\u0430\u043d\u0448\u0442\u0430\u0439\u043d",
+          "badges": [],
+          "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B9%D1%88%D0%B2%D0%B0%D0%BD%D1%88%D1%82%D0%B0%D0%B9%D0%BD"
+        },
+        "scowiki": {
+          "site": "scowiki",
+          "title": "Neuschwanstein Castle",
+          "badges": [],
+          "url": "https://sco.wikipedia.org/wiki/Neuschwanstein_Castle"
+        },
+        "sdwiki": {
+          "site": "sdwiki",
+          "title": "\u0646\u064a\u0648 \u0634\u0648\u0627\u0646\u0633\u067d\u0627\u0626\u0646",
+          "badges": [
+            "Q17437798"
+          ],
+          "url": "https://sd.wikipedia.org/wiki/%D9%86%D9%8A%D9%88_%D8%B4%D9%88%D8%A7%D9%86%D8%B3%D9%BD%D8%A7%D8%A6%D9%86"
+        },
+        "shwiki": {
+          "site": "shwiki",
+          "title": "Dvorac Neuschwanstein",
+          "badges": [],
+          "url": "https://sh.wikipedia.org/wiki/Dvorac_Neuschwanstein"
+        },
+        "simplewiki": {
+          "site": "simplewiki",
+          "title": "Neuschwanstein Castle",
+          "badges": [],
+          "url": "https://simple.wikipedia.org/wiki/Neuschwanstein_Castle"
+        },
+        "skwiki": {
+          "site": "skwiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://sk.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "slwiki": {
+          "site": "slwiki",
+          "title": "Grad Neuschwanstein",
+          "badges": [],
+          "url": "https://sl.wikipedia.org/wiki/Grad_Neuschwanstein"
+        },
+        "srwiki": {
+          "site": "srwiki",
+          "title": "\u041d\u043e\u0458\u0448\u0432\u0430\u043d\u0448\u0442\u0430\u0458\u043d",
+          "badges": [],
+          "url": "https://sr.wikipedia.org/wiki/%D0%9D%D0%BE%D1%98%D1%88%D0%B2%D0%B0%D0%BD%D1%88%D1%82%D0%B0%D1%98%D0%BD"
+        },
+        "svwiki": {
+          "site": "svwiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://sv.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "tawiki": {
+          "site": "tawiki",
+          "title": "\u0ba8\u0bcb\u0bb8\u0bcd\u0bb5\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b9f\u0bc8\u0baf\u0bcd\u0ba9\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8\u0bae\u0ba9\u0bc8",
+          "badges": [],
+          "url": "https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AF%8B%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AF%8D%E0%AE%B8%E0%AF%8D%E0%AE%9F%E0%AF%88%E0%AE%AF%E0%AF%8D%E0%AE%A9%E0%AF%8D_%E0%AE%95%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%88%E0%AE%AE%E0%AE%A9%E0%AF%88"
+        },
+        "thwiki": {
+          "site": "thwiki",
+          "title": "\u0e1b\u0e23\u0e32\u0e2a\u0e32\u0e17\u0e19\u0e47\u0e2d\u0e22\u0e0a\u0e27\u0e32\u0e19\u0e0a\u0e44\u0e15\u0e19\u0e4c",
+          "badges": [],
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%B2%E0%B8%97%E0%B8%99%E0%B9%87%E0%B8%AD%E0%B8%A2%E0%B8%8A%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%8A%E0%B9%84%E0%B8%95%E0%B8%99%E0%B9%8C"
+        },
+        "trwiki": {
+          "site": "trwiki",
+          "title": "Neuschwanstein \u015eatosu",
+          "badges": [],
+          "url": "https://tr.wikipedia.org/wiki/Neuschwanstein_%C5%9Eatosu"
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "\u041d\u043e\u0439\u0448\u0432\u0430\u043d\u0448\u0442\u0430\u0439\u043d",
+          "badges": [],
+          "url": "https://uk.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B9%D1%88%D0%B2%D0%B0%D0%BD%D1%88%D1%82%D0%B0%D0%B9%D0%BD"
+        },
+        "urwiki": {
+          "site": "urwiki",
+          "title": "\u0646\u06cc\u0648\u0634\u0648\u0627\u0646\u0633\u0679\u0627\u0626\u0646",
+          "badges": [],
+          "url": "https://ur.wikipedia.org/wiki/%D9%86%DB%8C%D9%88%D8%B4%D9%88%D8%A7%D9%86%D8%B3%D9%B9%D8%A7%D8%A6%D9%86"
+        },
+        "viwiki": {
+          "site": "viwiki",
+          "title": "L\u00e2u \u0111\u00e0i Neuschwanstein",
+          "badges": [],
+          "url": "https://vi.wikipedia.org/wiki/L%C3%A2u_%C4%91%C3%A0i_Neuschwanstein"
+        },
+        "warwiki": {
+          "site": "warwiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://war.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "wuuwiki": {
+          "site": "wuuwiki",
+          "title": "\u65b0\u5929\u9e45\u5821",
+          "badges": [],
+          "url": "https://wuu.wikipedia.org/wiki/%E6%96%B0%E5%A4%A9%E9%B9%85%E5%A0%A1"
+        },
+        "zeawiki": {
+          "site": "zeawiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://zea.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "zh_min_nanwiki": {
+          "site": "zh_min_nanwiki",
+          "title": "Neuschwanstein Si\u00e2\u207f-p\u00f3",
+          "badges": [],
+          "url": "https://zh-min-nan.wikipedia.org/wiki/Neuschwanstein_Si%C3%A2%E2%81%BF-p%C3%B3"
+        },
+        "zh_yuewiki": {
+          "site": "zh_yuewiki",
+          "title": "\u65b0\u5929\u9d5d\u5821",
+          "badges": [],
+          "url": "https://zh-yue.wikipedia.org/wiki/%E6%96%B0%E5%A4%A9%E9%B5%9D%E5%A0%A1"
+        },
+        "zhwiki": {
+          "site": "zhwiki",
+          "title": "\u65b0\u5929\u9e45\u57ce\u5821",
+          "badges": [],
+          "url": "https://zh.wikipedia.org/wiki/%E6%96%B0%E5%A4%A9%E9%B9%85%E5%9F%8E%E5%A0%A1"
+        }
+      }
+    }
+  }
+}

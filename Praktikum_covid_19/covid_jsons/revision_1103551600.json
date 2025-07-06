@@ -1,0 +1,899 @@
+{
+  "entities": {
+    "Q81068910": {
+      "pageid": 80438732,
+      "ns": 0,
+      "title": "Q81068910",
+      "lastrevid": 1103551600,
+      "modified": "2020-01-24T11:48:36Z",
+      "type": "item",
+      "id": "Q81068910",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "2019\u201320 outbreak of novel coronavirus 2019-nCoV"
+        },
+        "zh": {
+          "language": "zh",
+          "value": "2019\u20132020\u5e74\u65b0\u578b\u51a0\u72b6\u75c5\u6bd2\u80ba\u708e\u4e8b\u4ef6"
+        },
+        "ko": {
+          "language": "ko",
+          "value": "2019\ub144 \uc911\uad6d \uc6b0\ud55c \ud3d0\ub834"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "\u00e9pisode de pneumonie de Chine 2019-2020"
+        },
+        "es": {
+          "language": "es",
+          "value": "Epidemia de neumon\u00eda por nuevo coronavirus de 2019-2020"
+        },
+        "zh-cn": {
+          "language": "zh-cn",
+          "value": "2019\u5e74\u81f32020\u5e74\u6b66\u6c49\u80ba\u708e\u4e8b\u4ef6"
+        },
+        "pt": {
+          "language": "pt",
+          "value": "Epidemia de pneumonia por novo coronav\u00edrus de 2019\u20132020"
+        },
+        "eo": {
+          "language": "eo",
+          "value": "epidemio de pne\u016dmonito en \u0108inio en 2019\u20132020"
+        },
+        "he": {
+          "language": "he",
+          "value": "\u05d4\u05ea\u05e4\u05e8\u05e6\u05d5\u05ea \u05e0\u05d2\u05d9\u05e3 2019-nCoV"
+        },
+        "ca": {
+          "language": "ca",
+          "value": "brot del nou coronavirus (2019-nCoV) de 2019-2020"
+        },
+        "de": {
+          "language": "de",
+          "value": "2019-nCoV"
+        },
+        "ar": {
+          "language": "ar",
+          "value": "\u062a\u0641\u0634\u064a \u0641\u064a\u0631\u0648\u0633 \u0643\u0648\u0631\u0648\u0646\u0627 \u0627\u0644\u062c\u062f\u064a\u062f 2019-20"
+        },
+        "id": {
+          "language": "id",
+          "value": "Wabah koronavirus baru 2019\u20132020"
+        },
+        "zh-tw": {
+          "language": "zh-tw",
+          "value": "2019\u5e74\uff0d2020\u5e74\u65b0\u578b\u51a0\u72c0\u75c5\u6bd2\u80ba\u708e\u4e8b\u4ef6"
+        },
+        "zh-hant": {
+          "language": "zh-hant",
+          "value": "2019\u5e74\uff0d2020\u5e74\u65b0\u578b\u51a0\u72c0\u75c5\u6bd2\u80ba\u708e\u4e8b\u4ef6"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "2019-nCoV"
+        },
+        "vi": {
+          "language": "vi",
+          "value": "B\u00f9ng ph\u00e1t b\u1ec7nh vi\u00eam ph\u1ed5i Trung Qu\u1ed1c 2019 - 2020"
+        },
+        "af": {
+          "language": "af",
+          "value": "Koronavirus epidemie van 2020"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "Viral outbreak starting from a seafood market in Wuhan, China"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "\u00e9pisode viral ayant d\u00e9but\u00e9 \u00e0 Wuhan en Chine"
+        },
+        "es": {
+          "language": "es",
+          "value": "Epidemia de neumon\u00eda parecida al SARS"
+        },
+        "pt": {
+          "language": "pt",
+          "value": "surto viral com origem num mercado de frutos do mar em Wuhan, China"
+        },
+        "zh": {
+          "language": "zh",
+          "value": "\u59cb\u4e8e\u4e2d\u56fd\u6b66\u6c49\u6d77\u9c9c\u5e02\u573a\u7684\u75c5\u6bd2\u7206\u53d1\u4e8b\u4ef6"
+        },
+        "ko": {
+          "language": "ko",
+          "value": "\uc911\ud654\uc778\ubbfc\uacf5\ud654\uad6d \uc6b0\ud55c \uc2dc\uc5d0 \ubc1c\uc0dd\ud55c \ud3d0\ub834 \uc0ac\uac74."
+        },
+        "de": {
+          "language": "de",
+          "value": "2019-novel Coronavirus, \u201e2019 neuartiges Coronavirus\u201c"
+        },
+        "ar": {
+          "language": "ar",
+          "value": "\u062a\u0641\u0634\u064a \u0641\u064a\u0631\u0648\u0633\u064a \u0645\u0646 \u0633\u0648\u0642 \u0644\u0644\u0645\u0623\u0643\u0648\u0644\u0627\u062a \u0627\u0644\u0628\u062d\u0631\u064a\u0629 \u0641\u064a \u0648\u0648\u0647\u0627\u0646 \u0641\u064a \u0627\u0644\u0635\u064a\u0646"
+        },
+        "id": {
+          "language": "id",
+          "value": "Peristiwa merebaknya wabah virus 2019-nCoV"
+        },
+        "zh-tw": {
+          "language": "zh-tw",
+          "value": "\u59cb\u65bc\u4e2d\u570b\u6b66\u6f22\u6d77\u9bae\u5e02\u5834\u7684\u75c5\u6bd2\u7206\u767c\u4e8b\u4ef6"
+        },
+        "zh-hant": {
+          "language": "zh-hant",
+          "value": "\u59cb\u65bc\u4e2d\u570b\u6b66\u6f22\u6d77\u9bae\u5e02\u5834\u7684\u75c5\u6bd2\u7206\u767c\u4e8b\u4ef6"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "Virusuitbraak uit 2019 ontstaan in Wuhan, China"
+        },
+        "vi": {
+          "language": "vi",
+          "value": "B\u00f9ng ph\u00e1t b\u1ec7nh vi\u00eam ph\u1ed5i do m\u1ed9t ch\u1ee7ng coronavirus m\u1edbi b\u1eaft ngu\u1ed3n t\u1eeb V\u0169 H\u00e1n, Trung Qu\u1ed1c"
+        },
+        "zh-cn": {
+          "language": "zh-cn",
+          "value": "\u59cb\u4e8e\u4e2d\u56fd\u6b66\u6c49\u6d77\u9c9c\u5e02\u573a\u7684\u75c5\u6bd2\u7206\u53d1\u4e8b\u4ef6"
+        },
+        "ru": {
+          "language": "ru",
+          "value": "\u0432\u0441\u043f\u044b\u0448\u043a\u0430 \u043d\u0435\u0438\u0437\u043b\u0435\u0447\u0438\u043c\u043e\u0433\u043e \u043d\u0430 \u0434\u0430\u043d\u043d\u044b\u0439 \u043c\u043e\u043c\u0435\u043d\u0442 \u0432\u0438\u0440\u0443\u0441\u0430"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "2019\u5e74\u306b\u4e2d\u56fd\u306e\u6b66\u6f22\u5e02\u3067\u767a\u751f\u3057\u305f\u3001\u65b0\u578b\u306e\u30b3\u30ed\u30ca\u30a6\u30a4\u30eb\u30b9\u306b\u3088\u308b\u80ba\u708e\u306e\u6d41\u884c"
+        }
+      },
+      "aliases": {
+        "zh": [
+          {
+            "language": "zh",
+            "value": "\u6b66\u6f22\u80ba\u708e"
+          },
+          {
+            "language": "zh",
+            "value": "\u6b66\u6c49\u80ba\u708e"
+          },
+          {
+            "language": "zh",
+            "value": "\u4e0d\u660e\u539f\u56e0\u80ba\u708e"
+          },
+          {
+            "language": "zh",
+            "value": "2019\u5e74\u81f32020\u5e74\u6b66\u6f22\u80ba\u708e\u4e8b\u4ef6"
+          },
+          {
+            "language": "zh",
+            "value": "\u65b0\u578b\u51a0\u72b6\u75c5\u6bd2\u611f\u67d3\u7684\u80ba\u708e\u75ab\u60c5"
+          }
+        ],
+        "ko": [
+          {
+            "language": "ko",
+            "value": "\uc6b0\ud55c \ud3d0\ub834"
+          },
+          {
+            "language": "ko",
+            "value": "2019-2020\ub144 \uc911\uad6d \uc6b0\ud55c \ud3d0\ub834"
+          }
+        ],
+        "en": [
+          {
+            "language": "en",
+            "value": "2019\u201320 outbreak of novel coronavirus (2019-nCoV)"
+          },
+          {
+            "language": "en",
+            "value": "China pneumonia outbreak"
+          },
+          {
+            "language": "en",
+            "value": "2019-nCoV"
+          },
+          {
+            "language": "en",
+            "value": "Wuhan coronavirus"
+          },
+          {
+            "language": "en",
+            "value": "Chinese pneumonia outbreak"
+          },
+          {
+            "language": "en",
+            "value": "Wuhan pneumonia"
+          }
+        ],
+        "pt": [
+          {
+            "language": "pt",
+            "value": "Surto de pneumonia por novo coronav\u00edrus de 2019\u20132020"
+          }
+        ],
+        "ar": [
+          {
+            "language": "ar",
+            "value": "\u062a\u0641\u0634\u064a \u0630\u0627\u062a \u0627\u0644\u0631\u0626\u0629 \u0627\u0644\u0635\u064a\u0646\u064a\u0629"
+          },
+          {
+            "language": "ar",
+            "value": "\u062a\u0641\u0634\u064a \u0630\u0627\u062a \u0631\u0626\u0629 \u0648\u0648\u0647\u0627\u0646"
+          },
+          {
+            "language": "ar",
+            "value": "\u062a\u0641\u0634\u064a \u0641\u064a\u0631\u0648\u0633 \u0643\u0648\u0631\u0648\u0646\u0627 \u0648\u0648\u0647\u0627\u0646"
+          }
+        ],
+        "id": [
+          {
+            "language": "id",
+            "value": "Wabah koronavirus Wuhan"
+          },
+          {
+            "language": "id",
+            "value": "Wabah koronavirus Tiongkok"
+          },
+          {
+            "language": "id",
+            "value": "Pneumonia Wuhan"
+          },
+          {
+            "language": "id",
+            "value": "2019-nCoV"
+          }
+        ],
+        "zh-tw": [
+          {
+            "language": "zh-tw",
+            "value": "\u6b66\u6f22\u80ba\u708e"
+          },
+          {
+            "language": "zh-tw",
+            "value": "\u6b66\u6f22\u56b4\u91cd\u7279\u6b8a\u50b3\u67d3\u6027\u80ba\u708e\u75ab\u60c5\u4e8b\u4ef6"
+          }
+        ],
+        "zh-hant": [
+          {
+            "language": "zh-hant",
+            "value": "\u6b66\u6f22\u80ba\u708e"
+          },
+          {
+            "language": "zh-hant",
+            "value": "\u56b4\u91cd\u65b0\u578b\u50b3\u67d3\u6027\u75c5\u539f\u9ad4\u547c\u5438\u7cfb\u7d71\u75c5"
+          }
+        ],
+        "nl": [
+          {
+            "language": "nl",
+            "value": "Coronavirus"
+          }
+        ],
+        "vi": [
+          {
+            "language": "vi",
+            "value": "Vi\u00eam ph\u1ed5i V\u0169 H\u00e1n"
+          }
+        ]
+      },
+      "claims": {
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "a85d44062447dc244f6e17c91e6b5137c8b24b15",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 3241045,
+                  "id": "Q3241045"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q81068910$dc4992e6-5308-466f-8c3c-afb34858452e",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "71c9eb61e560e83319f8a820c7f4d30a1d4eae05",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 44512,
+                  "id": "Q44512"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P642": [
+                {
+                  "snaktype": "value",
+                  "property": "P642",
+                  "hash": "d02eff8ef34901e36c9718b89bd8e3dba3c7b648",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 82069695,
+                      "id": "Q82069695"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P642"
+            ],
+            "id": "Q81068910$b694d7e9-44ac-fe67-6497-9cdf435fa5c2",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "8364cc6c4145ac427f5d26c7b2d4b9f442df133f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 29056927,
+                  "id": "Q29056927"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q81068910$660b9a77-4373-3783-2686-6bf3a13d47c7",
+            "rank": "normal"
+          }
+        ],
+        "P580": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P580",
+              "hash": "a3799dfbb0e6459ca086327429f567e98f63bcb7",
+              "datavalue": {
+                "value": {
+                  "time": "+2019-12-12T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q81068910$111424db-4f8a-5dd2-4115-36967c4643e3",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "30e172796b0726589e92b001c327f5d55fa0782e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 148,
+                  "id": "Q148"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q81068910$4a570259-44a3-fbc8-31a3-2e462a69169c",
+            "rank": "normal"
+          }
+        ],
+        "P1120": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1120",
+              "hash": "aae58ea63eea67486106f027d23db5fd18cddc83",
+              "datavalue": {
+                "value": {
+                  "amount": "+26",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "id": "Q81068910$902f298e-4fdd-ac0f-aa09-178f71fa263f",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "b8442046479a1cbf73ffeb91d0e51209eb21544a",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "fa00b6320819d883f03d0970575be0643ac9804c",
+                      "datavalue": {
+                        "value": "https://3g.dxy.cn/newh5/view/pneumonia",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1476": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1476",
+                      "hash": "a182901c11ce9f8e82ea856ce28650c663827bf1",
+                      "datavalue": {
+                        "value": {
+                          "text": "\u4e01\u9999\u56ed\u65b0\u578b\u51a0\u72b6\u75c5\u6bd2\u5b9e\u65f6",
+                          "language": "zh"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "48b0cdabfeba46701972810a9bcc670cab15ff4e",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2020-01-22T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P1476",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P828": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P828",
+              "hash": "ceb8ea45a342c036e7e769656715eb1bd5ded527",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 82069695,
+                  "id": "Q82069695"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q81068910$84d228a8-4032-1ac7-cada-306974153848",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "b2bd69cd59deb4ef5422464695a29b8f6dbb2ff0",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "af59e6c471fd821b49c097a6f6be91047fe306a7",
+                      "datavalue": {
+                        "value": "https://www.who.int/publications-detail/surveillance-case-definitions-for-human-infection-with-novel-coronavirus-(ncov)",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              },
+              {
+                "hash": "08580d248c2506f48209ea11b9895c020e95bd36",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "91541210ea1dfc8427e75efd013a307c5abdb251",
+                      "datavalue": {
+                        "value": "https://www.cdc.gov/coronavirus/novel-coronavirus-2019.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P131": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P131",
+              "hash": "63bc6cb86ad049253e6906a2194155ab88495bd2",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 11746,
+                  "id": "Q11746"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q81068910$09C78FF4-7C27-4CBE-9AC2-B1B8615B076D",
+            "rank": "normal"
+          }
+        ],
+        "P1427": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1427",
+              "hash": "bef89aba684e6f983a957cc714f1938a563e10f3",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 83264280,
+                  "id": "Q83264280"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q81068910$ba67ba1f-4e13-7265-d96d-8157d177753e",
+            "rank": "normal"
+          }
+        ],
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "4ccc5c08fc2bf59796a2cc81e470a8a0729031fc",
+              "datavalue": {
+                "value": "2019\u201320 outbreak of novel coronavirus (2019-nCoV)",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q81068910$84e6a802-48e0-0353-cef3-20fd4a63dec6",
+            "rank": "normal"
+          }
+        ],
+        "P1478": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1478",
+              "hash": "47a9adb9c59c38e795ed4b4dcefa74885dd5fa8a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 82069695,
+                  "id": "Q82069695"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q81068910$51D8E562-7233-43D1-979D-2C2E67FD7C73",
+            "rank": "normal"
+          }
+        ],
+        "P276": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P276",
+              "hash": "e9e71d0a9c3081e2ed754e2cc03b6f1ed97d09ae",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 11746,
+                  "id": "Q11746"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q81068910$6a3e2390-423f-91ad-e7d9-96faa9ddd2be",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "5243e9be3b4df0900a74ad4f960b1b1f96577e2f",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "16f8dfe9453d8b4a886d07d1db412feddebc7020",
+                      "datavalue": {
+                        "value": "https://ru.wikipedia.org/?oldid=104699153",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ],
+        "P242": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P242",
+              "hash": "fb75cbdd18f9f8e3a65382b399b3510ba972c2f1",
+              "datavalue": {
+                "value": "2019-nCoV Outbreak World Map.svg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q81068910$cb7b4b11-47c4-8e55-04b8-3f8db84cf16d",
+            "rank": "normal"
+          }
+        ],
+        "P2184": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2184",
+              "hash": "918f1657bc789c672d0105da6cd13df5ff2bf8db",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 83493517,
+                  "id": "Q83493517"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q81068910$73c82d8c-49fd-3dce-01fd-5027cf434fcb",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "afwiki": {
+          "site": "afwiki",
+          "title": "Koronavirus epidemie van 2020",
+          "badges": [],
+          "url": "https://af.wikipedia.org/wiki/Koronavirus_epidemie_van_2020"
+        },
+        "arwiki": {
+          "site": "arwiki",
+          "title": "\u062a\u0641\u0634\u064a \u0641\u064a\u0631\u0648\u0633 \u0643\u0648\u0631\u0648\u0646\u0627 \u0627\u0644\u062c\u062f\u064a\u062f 2019-20",
+          "badges": [],
+          "url": "https://ar.wikipedia.org/wiki/%D8%AA%D9%81%D8%B4%D9%8A_%D9%81%D9%8A%D8%B1%D9%88%D8%B3_%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF_2019-20"
+        },
+        "bewiki": {
+          "site": "bewiki",
+          "title": "\u0423\u0441\u043f\u044b\u0448\u043a\u0430 \u043a\u0430\u0440\u043e\u043d\u0430\u0432\u0456\u0440\u0443\u0441\u0430 2019-nCoV",
+          "badges": [],
+          "url": "https://be.wikipedia.org/wiki/%D0%A3%D1%81%D0%BF%D1%8B%D1%88%D0%BA%D0%B0_%D0%BA%D0%B0%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D1%96%D1%80%D1%83%D1%81%D0%B0_2019-nCoV"
+        },
+        "bgwiki": {
+          "site": "bgwiki",
+          "title": "\u041a\u043e\u0440\u043e\u043d\u0430\u0432\u0438\u0440\u0443\u0441 2019-20",
+          "badges": [],
+          "url": "https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D0%B8%D1%80%D1%83%D1%81_2019-20"
+        },
+        "commonswiki": {
+          "site": "commonswiki",
+          "title": "Category:2019\u201320 outbreak of novel coronavirus (2019-nCoV)",
+          "badges": [],
+          "url": "https://commons.wikimedia.org/wiki/Category:2019%E2%80%9320_outbreak_of_novel_coronavirus_(2019-nCoV)"
+        },
+        "elwiki": {
+          "site": "elwiki",
+          "title": "\u0395\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1 \u03bd\u03ad\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03bf\u03cd 2019\u201320",
+          "badges": [],
+          "url": "https://el.wikipedia.org/wiki/%CE%95%CF%80%CE%B9%CE%B4%CE%B7%CE%BC%CE%AF%CE%B1_%CE%BD%CE%AD%CE%BF%CF%85_%CE%BA%CE%BF%CF%81%CE%BF%CE%BD%CE%B1%CF%8A%CE%BF%CF%8D_2019%E2%80%9320"
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "2019\u201320 Wuhan coronavirus outbreak",
+          "badges": [],
+          "url": "https://en.wikipedia.org/wiki/2019%E2%80%9320_Wuhan_coronavirus_outbreak"
+        },
+        "eswiki": {
+          "site": "eswiki",
+          "title": "Epidemia de neumon\u00eda por coronavirus de Wuhan de 2019-2020",
+          "badges": [],
+          "url": "https://es.wikipedia.org/wiki/Epidemia_de_neumon%C3%ADa_por_coronavirus_de_Wuhan_de_2019-2020"
+        },
+        "fawiki": {
+          "site": "fawiki",
+          "title": "\u0634\u06cc\u0648\u0639 \u06a9\u0648\u0631\u0648\u0646\u0627\u0648\u06cc\u0631\u0648\u0633 \u0648\u0648\u0647\u0627\u0646",
+          "badges": [],
+          "url": "https://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D9%88%D8%B9_%DA%A9%D9%88%D8%B1%D9%88%D9%86%D8%A7%D9%88%DB%8C%D8%B1%D9%88%D8%B3_%D9%88%D9%88%D9%87%D8%A7%D9%86"
+        },
+        "frwiki": {
+          "site": "frwiki",
+          "title": "\u00c9pid\u00e9mie du coronavirus de 2019-2020",
+          "badges": [],
+          "url": "https://fr.wikipedia.org/wiki/%C3%89pid%C3%A9mie_du_coronavirus_de_2019-2020"
+        },
+        "hewiki": {
+          "site": "hewiki",
+          "title": "\u05d4\u05ea\u05e4\u05e8\u05e6\u05d5\u05ea \u05e0\u05d2\u05d9\u05e3 2019-nCoV",
+          "badges": [],
+          "url": "https://he.wikipedia.org/wiki/%D7%94%D7%AA%D7%A4%D7%A8%D7%A6%D7%95%D7%AA_%D7%A0%D7%92%D7%99%D7%A3_2019-nCoV"
+        },
+        "hiwiki": {
+          "site": "hiwiki",
+          "title": "2019\u201320 \u0935\u0941\u0939\u093e\u0928 \u0915\u094b\u0930\u094b\u0928\u093e \u0935\u093e\u092f\u0930\u0938 \u092a\u094d\u0930\u0915\u094b\u092a",
+          "badges": [],
+          "url": "https://hi.wikipedia.org/wiki/2019%E2%80%9320_%E0%A4%B5%E0%A5%81%E0%A4%B9%E0%A4%BE%E0%A4%A8_%E0%A4%95%E0%A5%8B%E0%A4%B0%E0%A5%8B%E0%A4%A8%E0%A4%BE_%E0%A4%B5%E0%A4%BE%E0%A4%AF%E0%A4%B0%E0%A4%B8_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A5%8B%E0%A4%AA"
+        },
+        "idwiki": {
+          "site": "idwiki",
+          "title": "Wabah koronavirus baru 2019\u20132020",
+          "badges": [],
+          "url": "https://id.wikipedia.org/wiki/Wabah_koronavirus_baru_2019%E2%80%932020"
+        },
+        "itwiki": {
+          "site": "itwiki",
+          "title": "Epidemia di polmonite da 2019-nCoV del 2019-2020",
+          "badges": [],
+          "url": "https://it.wikipedia.org/wiki/Epidemia_di_polmonite_da_2019-nCoV_del_2019-2020"
+        },
+        "jawiki": {
+          "site": "jawiki",
+          "title": "2019\u5e74-2020\u5e74\u4e2d\u56fd\u6b66\u6f22\u306b\u304a\u3051\u308b\u80ba\u708e\u306e\u6d41\u884c",
+          "badges": [],
+          "url": "https://ja.wikipedia.org/wiki/2019%E5%B9%B4-2020%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%AD%A6%E6%BC%A2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%82%BA%E7%82%8E%E3%81%AE%E6%B5%81%E8%A1%8C"
+        },
+        "kowiki": {
+          "site": "kowiki",
+          "title": "2019-2020\ub144 \uc2e0\uc885 \ucf54\ub85c\ub098\ubc14\uc774\ub7ec\uc2a4 \uc720\ud589",
+          "badges": [],
+          "url": "https://ko.wikipedia.org/wiki/2019-2020%EB%85%84_%EC%8B%A0%EC%A2%85_%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4_%EC%9C%A0%ED%96%89"
+        },
+        "nnwiki": {
+          "site": "nnwiki",
+          "title": "Utbrotet av nytt coronavirus i 2019 og 2020",
+          "badges": [],
+          "url": "https://nn.wikipedia.org/wiki/Utbrotet_av_nytt_coronavirus_i_2019_og_2020"
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "Epidemia nowego koronawirusa (2019\u20132020)",
+          "badges": [],
+          "url": "https://pl.wikipedia.org/wiki/Epidemia_nowego_koronawirusa_(2019%E2%80%932020)"
+        },
+        "ptwiki": {
+          "site": "ptwiki",
+          "title": "Epidemia de pneumonia por novo coronav\u00edrus de 2019\u20132020",
+          "badges": [],
+          "url": "https://pt.wikipedia.org/wiki/Epidemia_de_pneumonia_por_novo_coronav%C3%ADrus_de_2019%E2%80%932020"
+        },
+        "rowiki": {
+          "site": "rowiki",
+          "title": "Epidemia de coronavirus (2019-nCoV)",
+          "badges": [],
+          "url": "https://ro.wikipedia.org/wiki/Epidemia_de_coronavirus_(2019-nCoV)"
+        },
+        "ruwiki": {
+          "site": "ruwiki",
+          "title": "\u0412\u0441\u043f\u044b\u0448\u043a\u0430 \u043d\u043e\u0432\u043e\u0433\u043e \u043a\u043e\u0440\u043e\u043d\u0430\u0432\u0438\u0440\u0443\u0441\u0430 (2019\u20142020)",
+          "badges": [],
+          "url": "https://ru.wikipedia.org/wiki/%D0%92%D1%81%D0%BF%D1%8B%D1%88%D0%BA%D0%B0_%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D0%B8%D1%80%D1%83%D1%81%D0%B0_(2019%E2%80%942020)"
+        },
+        "thwiki": {
+          "site": "thwiki",
+          "title": "\u0e01\u0e32\u0e23\u0e23\u0e30\u0e1a\u0e32\u0e14\u0e02\u0e2d\u0e07\u0e42\u0e04\u0e42\u0e23\u0e19\u0e32\u0e44\u0e27\u0e23\u0e31\u0e2a\u0e2a\u0e32\u0e22\u0e1e\u0e31\u0e19\u0e18\u0e38\u0e4c\u0e43\u0e2b\u0e21\u0e48 \u0e1e.\u0e28. 2562\u201363",
+          "badges": [],
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B2%E0%B8%94%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%84%E0%B9%82%E0%B8%A3%E0%B8%99%E0%B8%B2%E0%B9%84%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_%E0%B8%9E.%E0%B8%A8._2562%E2%80%9363"
+        },
+        "trwiki": {
+          "site": "trwiki",
+          "title": "2019-20 Yeni koronavir\u00fcs (2019-nCoV) Salg\u0131n\u0131",
+          "badges": [],
+          "url": "https://tr.wikipedia.org/wiki/2019-20_Yeni_koronavir%C3%BCs_(2019-nCoV)_Salg%C4%B1n%C4%B1"
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "\u0421\u043f\u0430\u043b\u0430\u0445 \u043d\u043e\u0432\u043e\u0433\u043e \u043a\u043e\u0440\u043e\u043d\u0430\u0432\u0456\u0440\u0443\u0441\u0443 2019\u20142020",
+          "badges": [],
+          "url": "https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D0%BB%D0%B0%D1%85_%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D1%96%D1%80%D1%83%D1%81%D1%83_2019%E2%80%942020"
+        },
+        "viwiki": {
+          "site": "viwiki",
+          "title": "B\u00f9ng ph\u00e1t b\u1ec7nh vi\u00eam ph\u1ed5i Trung Qu\u1ed1c 2019 - 2020",
+          "badges": [],
+          "url": "https://vi.wikipedia.org/wiki/B%C3%B9ng_ph%C3%A1t_b%E1%BB%87nh_vi%C3%AAm_ph%E1%BB%95i_Trung_Qu%E1%BB%91c_2019_-_2020"
+        },
+        "wuuwiki": {
+          "site": "wuuwiki",
+          "title": "2019\u5e74-2020\u5e74\u6b66\u6c49\u80ba\u708e\u4e8b\u4f53",
+          "badges": [],
+          "url": "https://wuu.wikipedia.org/wiki/2019%E5%B9%B4-2020%E5%B9%B4%E6%AD%A6%E6%B1%89%E8%82%BA%E7%82%8E%E4%BA%8B%E4%BD%93"
+        },
+        "zh_yuewiki": {
+          "site": "zh_yuewiki",
+          "title": "\u6b66\u6f22\u80ba\u708e",
+          "badges": [],
+          "url": "https://zh-yue.wikipedia.org/wiki/%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E"
+        },
+        "zhwiki": {
+          "site": "zhwiki",
+          "title": "2019\uff0d2020\u5e74\u65b0\u578b\u51a0\u72c0\u75c5\u6bd2\u80ba\u708e\u4e8b\u4ef6",
+          "badges": [],
+          "url": "https://zh.wikipedia.org/wiki/2019%EF%BC%8D2020%E5%B9%B4%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E8%82%BA%E7%82%8E%E4%BA%8B%E4%BB%B6"
+        }
+      }
+    }
+  }
+}

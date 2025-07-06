@@ -1,0 +1,144 @@
+{
+  "entities": {
+    "Q81068910": {
+      "pageid": 80438732,
+      "ns": 0,
+      "title": "Q81068910",
+      "lastrevid": 1097238079,
+      "modified": "2020-01-13T12:34:52Z",
+      "type": "item",
+      "id": "Q81068910",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "2019-2020 China pneumonia outbreak"
+        },
+        "zh": {
+          "language": "zh",
+          "value": "2019\u5e74\u81f32020\u5e74\u6b66\u6f22\u80ba\u708e\u4e8b\u4ef6"
+        }
+      },
+      "descriptions": {},
+      "aliases": {
+        "zh": [
+          {
+            "language": "zh",
+            "value": "\u6b66\u6f22\u80ba\u708e"
+          },
+          {
+            "language": "zh",
+            "value": "\u6b66\u6c49\u80ba\u708e"
+          }
+        ]
+      },
+      "claims": {
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "594cfdfbf98f2188c5eef35e07826a417d930f93",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1190554,
+                  "id": "Q1190554"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q81068910$dc4992e6-5308-466f-8c3c-afb34858452e",
+            "rank": "normal"
+          }
+        ],
+        "P580": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P580",
+              "hash": "c106ac966269e002aa322a486b6c220d6960c5fe",
+              "datavalue": {
+                "value": {
+                  "time": "+2019-12-00T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 10,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q81068910$111424db-4f8a-5dd2-4115-36967c4643e3",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "30e172796b0726589e92b001c327f5d55fa0782e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 148,
+                  "id": "Q148"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q81068910$4a570259-44a3-fbc8-31a3-2e462a69169c",
+            "rank": "normal"
+          }
+        ],
+        "P1120": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1120",
+              "hash": "8a4b795363cb3d8bc4895e91da93741f7a9c2802",
+              "datavalue": {
+                "value": {
+                  "amount": "+1",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "id": "Q81068910$902f298e-4fdd-ac0f-aa09-178f71fa263f",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "enwiki": {
+          "site": "enwiki",
+          "title": "2019\u201320 China pneumonia outbreak",
+          "badges": [],
+          "url": "https://en.wikipedia.org/wiki/2019%E2%80%9320_China_pneumonia_outbreak"
+        },
+        "kowiki": {
+          "site": "kowiki",
+          "title": "2019\ub144 \uc911\uad6d \uc6b0\ud55c \ud3d0\ub834",
+          "badges": [],
+          "url": "https://ko.wikipedia.org/wiki/2019%EB%85%84_%EC%A4%91%EA%B5%AD_%EC%9A%B0%ED%95%9C_%ED%8F%90%EB%A0%B4"
+        },
+        "zhwiki": {
+          "site": "zhwiki",
+          "title": "2019\u5e74\u81f32020\u5e74\u6b66\u6f22\u80ba\u708e\u4e8b\u4ef6",
+          "badges": [],
+          "url": "https://zh.wikipedia.org/wiki/2019%E5%B9%B4%E8%87%B32020%E5%B9%B4%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E%E4%BA%8B%E4%BB%B6"
+        }
+      }
+    }
+  }
+}

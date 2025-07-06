@@ -1,0 +1,650 @@
+rev_id,timestamp,user,comment
+2336647795,2025-04-10T16:05:30Z,PGS 1984,"/* wbsetdescription-set:1|it */ parte del sito archeologico di Giza, Egitto"
+2298689969,2025-01-16T08:22:15Z,Aerdemsenturk,/* wbsetdescription-set:1|tr */ Giza'nın üç piramidinden en eskisi ve en büyüğü
+2286478197,2024-12-12T17:44:17Z,Maxlath,"/* wbremoveclaims-remove:1| */ [[Property:P195]]: [[Q37200]], remove self-referencing P195 claim ([[:toollabs:editgroups/b/wikibase-cli/5e8a1d6fc252a/|details]])"
+2273407469,2024-11-11T21:24:58Z,Gmelfi,/* wbsetaliases-add:1|scn */ Piramidi Granni di Giza
+2273407466,2024-11-11T21:24:57Z,Gmelfi,/* wbsetdescription-add:1|scn */ piramidi di l'anticu Eggittu
+2273407461,2024-11-11T21:24:56Z,Gmelfi,/* wbsetlabel-add:1|scn */ piramidi di Cheopi
+2273407217,2024-11-11T21:24:12Z,Gmelfi,/* wbsetsitelink-add:1|scnwiki */ Piramidi di Chèopi
+2260553056,2024-10-14T12:58:14Z,MatSuBot,/* wbeditentity-update-languages-short:0||kge */ import labels from sitelinks
+2257022875,2024-10-06T12:05:54Z,EmausBot,/* wbeditentity-update:0| */ Added: [[kge:Piramida Agung Giza]]
+2243568956,2024-09-04T23:44:02Z,AramBot,"/* wbeditentity-update-languages-short:0||ckb */ Updating label from ""ھەرەمی گەوره"" to ""ھەرەمی گەورە"""
+2243349810,2024-09-04T15:28:52Z,1silent scientist,/* wbeditentity-update-languages-short:0||ckb */
+2243272064,2024-09-04T12:32:12Z,1silent scientist,"/* wblinktitles-connect:2| */ arwiki:الهرم الأكبر, ckbwiki:ھەرەمی گەورە"
+2243171388,2024-09-04T06:33:23Z,संजीव कुमार,/* wbsetsitelink-add:1|hiwiki */ गीजा के महान पिरामिड
+2241868018,2024-09-02T02:09:08Z,ISNIplus,"/* wbremoveclaims-remove:1| */ [[Property:P7859]]: viaf-247198851, [[:toollabs:quickstatements/#/batch/237043|batch #237043]]"
+2227223879,2024-08-14T09:19:22Z,TadejM,"/* wbsetaliases-add:2|sl */ Kufujeva piramida, Velika piramida"
+2227223869,2024-08-14T09:19:21Z,TadejM,/* wbsetdescription-add:1|sl */ najstarejša in največja od treh piramid v nekropoli v Gizi; eno od sedmih antičnih čudes sveta
+2215395671,2024-07-29T10:51:02Z,MatSuBot,/* wbeditentity-update-languages-short:0||xmf */ add missing labels
+2209556673,2024-07-21T15:09:17Z,Narazeni,/* wbsetsitelink-add:1|xmfwiki */ ხეოფსიშ პირამიდა
+2199389860,2024-07-09T13:50:22Z,Ameisenigel,"/* wbremoveclaims-remove:1| */ [[Property:P7818]]: Pyramide_de_Khéops (Property P7818 not found, cannot determine the data type to use.), [[:toollabs:quickstatements/#/batch/234070|batch #234070]]"
+2192089334,2024-06-30T12:15:45Z,Ameisenigel,"/* wbremoveclaims-remove:1| */ [[Property:P7822]]: Piramide_di_Cheope, [[:toollabs:quickstatements/#/batch/233597|batch #233597]]"
+2192084109,2024-06-30T12:08:53Z,Ameisenigel,"/* wbremoveclaims-remove:1| */ [[Property:P7829]]: Pyramid_of_Cheops, #quickstatements; #temporary_batch_1719748931710"
+2189281586,2024-06-26T17:27:14Z,Ameisenigel,"/* wbcreateclaim-create:1| */ [[Property:P12800]]: fr:Pyramide_de_Khéops, [[:toollabs:quickstatements/#/batch/233365|batch #233365]]"
+2189150187,2024-06-26T13:32:31Z,IconotecaUSI,"/* wbsetreference-add:2| */ [[Property:P12701]]: 2483, #quickstatements; #temporary_batch_1719408713757"
+2189150176,2024-06-26T13:32:30Z,IconotecaUSI,"/* wbsetreference-add:2| */ [[Property:P12701]]: 2483, #quickstatements; #temporary_batch_1719408713757"
+2189150164,2024-06-26T13:32:29Z,IconotecaUSI,"/* wbsetreference-add:2| */ [[Property:P12701]]: 2483, #quickstatements; #temporary_batch_1719408713757"
+2189150150,2024-06-26T13:32:27Z,IconotecaUSI,"/* wbsetreference-add:2| */ [[Property:P12701]]: 2483, #quickstatements; #temporary_batch_1719408713757"
+2189150140,2024-06-26T13:32:26Z,IconotecaUSI,"/* wbcreateclaim-create:1| */ [[Property:P12701]]: 2483, #quickstatements; #temporary_batch_1719408713757"
+2188444500,2024-06-25T15:17:18Z,Ameisenigel,"/* wbcreateclaim-create:1| */ [[Property:P12800]]: it:Piramide_di_Cheope, [[:toollabs:quickstatements/#/batch/233276|batch #233276]]"
+2187678499,2024-06-24T15:10:49Z,Ameisenigel,"/* wbcreateclaim-create:1| */ [[Property:P12800]]: en:Pyramid_of_Cheops, #quickstatements; #temporary_batch_1719241008715"
+2175778003,2024-06-10T13:47:11Z,Abraham,"/* wbsetaliases-add:2|en-us */ Pyramid of Cheops, Pyramid of Khufu"
+2175777995,2024-06-10T13:47:10Z,Abraham,/* wbsetdescription-add:1|en-us */ oldest and largest of the three pyramids in the Giza Necropolis; one of the seven ancient wonders of the world
+2175777988,2024-06-10T13:47:09Z,Abraham,/* wbsetlabel-add:1|en-us */ Great Pyramid of Giza
+2153543450,2024-05-13T22:13:23Z,MatSuBot,"/* wbeditentity-update-languages-short:0||gn, ig */ add missing labels; cleanup"
+2144435864,2024-05-04T11:55:07Z,Semso98,/* wbsetdescription-add:1|bs */ najstarija i najveća od tri piramide u nekropoli u Gizi; jedno od sedam drevnih svjetskih čuda
+2144254412,2024-05-04T06:56:50Z,P. S. F. Freitas,/* wbsetsitelink-add:1|gnwiki */ Gísa Pirámide Guasu
+2123036981,2024-04-08T04:48:44Z,Quesotiotyo,"/* wbcreateclaim-create:1| */ [[Property:P2326]]: -294880, [[:toollabs:quickstatements/#/batch/227578|batch #227578]]"
+2091505767,2024-03-02T01:15:57Z,Filipović Zoran,"/* wbsetaliases-add:3|sr-ec */ Ахет Куфу, Magna Pyramis Cheopis, Велика Кеопсова пирамида"
+2091505758,2024-03-02T01:15:57Z,Filipović Zoran,"/* wbsetaliases-add:2|sr */ Ахет Куфу, Magna Pyramis Cheopis"
+2091505747,2024-03-02T01:15:56Z,Filipović Zoran,/* wbsetdescription-add:1|sr */ најстарија и највећа од три пирамиде у некрополи у Гизи; једно од седам древних светских чуда
+2091505734,2024-03-02T01:15:56Z,Filipović Zoran,/* wbsetdescription-add:1|sr-ec */ најстарија и највећа од три пирамиде у некрополи у Гизи; једно од седам древних светских чуда
+2091505725,2024-03-02T01:15:55Z,Filipović Zoran,/* wbsetlabel-add:1|sr-ec */ Кеопсова пирамида
+2080465542,2024-02-18T09:05:14Z,Frettie,/* wbsetaliases-remove:1|en */ Velká pyramida
+2080465539,2024-02-18T09:05:14Z,Frettie,/* wbsetaliases-remove:1|de */ Velká pyramida
+2079949247,2024-02-17T18:46:35Z,Frettie,/* wbmergeitems-from:0||Q124605719 */
+2079075573,2024-02-16T18:43:09Z,Jahl de Vautban,"/* wbeditentity-update-languages-short:0||de, en */ LabelLister V3 (beta) -  : alias(de[-1], en[-3])"
+2079016135,2024-02-16T17:16:45Z,Frettie,/* wbmergeitems-from:0||Q124565764 */
+2061272367,2024-01-24T21:32:28Z,Arch2bot,"/* wbsetreference-add:2| */ [[Property:P454]]: 20000997, Add archINFORM reference"
+2060371112,2024-01-23T13:45:09Z,Mirishkorlik,/* wbsetsitelink-add:1|uzwiki */ Xeops piramidasi
+2054734347,2024-01-15T23:42:49Z,Thor19,/* wbsetdescription-set:1|fr */ plus ancienne et plus grande des trois pyramides de la nécropole de Gizeh
+2049868618,2024-01-09T17:13:24Z,Zafer,"/* wbcreateclaim-create:1| */ [[Property:P11729]]: 155929, #quickstatements; #temporary_batch_1704820055676"
+2040081714,2023-12-29T19:28:27Z,Quesotiotyo,"/* wbcreateclaim-create:1| */ [[Property:P12086]]: Piramide_van_Cheops, [[:toollabs:quickstatements/#/batch/220142|batch #220142]]"
+2030034273,2023-12-15T04:04:55Z,Charp238,/* wbsetclaim-create:2||1 */ [[Property:P6058]]: animations/La_Grande_Pyramide_Kheops/1100521
+2030034182,2023-12-15T04:04:49Z,Charp238,/* wbsetclaim-create:2||1 */ [[Property:P6058]]: images/Gizeh_la_pyramide_de_Kheops/1010107
+1998798934,2023-10-27T21:15:23Z,Xchia,/* wbeditentity-update-languages-short:0||id */
+1988672851,2023-10-08T14:58:35Z,Horcrux,"/* wbsetqualifier-add:1| */ [[Property:P1810]]: Great Pyramid of Giza, [[:toollabs:quickstatements/#/batch/214161|batch #214161]]"
+1977772200,2023-09-19T17:50:34Z,HazemGM,/* wbsetdescription-set:1|ar */ أكبر هرم في مقبرة الجيزة بمصر
+1976273819,2023-09-17T16:03:36Z,Umarxon III,/* clientsitelink-remove:1||uzwiki */ Xeopsa Piramidasi
+1966099011,2023-09-01T16:51:48Z,Croxyz,"/* wbsetdescription-add:1|hr */ piramida u Gizi, ([[w:en:Wikipedia:Shortdesc helper|Shortdesc helper]])"
+1965977556,2023-09-01T11:19:36Z,Pere prlpz,/* wbsetaliases-add:1|ca */ piràmide de Kheops
+1965977547,2023-09-01T11:19:35Z,Pere prlpz,/* wbsetlabel-set:1|ca */ piràmide de Quèops
+1964542270,2023-08-30T10:18:25Z,Motxo98,/* clientsitelink-update:0|cawiki|cawiki:Piràmide de Kheops|cawiki:Piràmide de Quèops */
+1951064211,2023-08-10T09:50:20Z,Salgo60,"/* wbsetclaim-create:2||1 */ [[Property:P10689]]: 4420397, OSM way ([[:toollabs:editgroups/b/OR/52a0c98e7ab|details]])"
+1949480914,2023-08-08T10:56:18Z,Arch2bot,"/* wbsetreference-add:2| */ [[Property:P31]]: [[Q381885]], Add archINFORM reference"
+1949480911,2023-08-08T10:56:17Z,Arch2bot,"/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q381885]], Lookup from archINFORM"
+1949480907,2023-08-08T10:56:16Z,Arch2bot,"/* wbremoveclaims-remove:1| */ [[Property:P31]]: [[Q811979]], Replacement by more detailed specification"
+1933425728,2023-07-12T10:18:07Z,Yotwen,/* wbsetclaim-create:2||1 */ [[Property:P31]]: [[Q811979]]
+1919888818,2023-06-20T13:20:08Z,Infovarius,"/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q175582]], [[:toollabs:quickstatements/#/batch/207908|batch #207908]]"
+1911945581,2023-06-10T05:32:44Z,Adimora chidinma,"/* wblinktitles-connect:2| */ enwiki:Great Pyramid of Giza, igwiki:Nnukwu pyramid nke Giza"
+1910904610,2023-06-08T11:29:59Z,Adimora chidinma,"/* wbsetaliases-add:2|en */ Pyramid nke Cheops, Pyramid nke Khufu"
+1910904601,2023-06-08T11:29:58Z,Adimora chidinma,/* wbsetdescription-add:1|ig */ kasị ochie na nke kasị ukwuu n'ime pyramid atọ dị na Giza Necropolis;  otu n’ime ihe ebube asaa ochie nke ụwa
+1910904586,2023-06-08T11:29:57Z,Adimora chidinma,/* wbsetlabel-add:1|ig */ Nnukwu pyramid nke Giza
+1901613629,2023-05-23T19:35:43Z,C960657,/* wbsetclaim-create:2||1 */ [[Property:P8313]]: Cheopspyramiden
+1891916038,2023-05-08T06:10:03Z,MatSuBot,/* wbeditentity-update-languages-short:0||te */ add missing labels
+1883522360,2023-04-27T14:28:53Z,YVSREDDY,/* wbsetsitelink-add:1|tewiki */ గ్రేట్ పిరమిడ్ ఆఫ్ గిజా
+1880859737,2023-04-22T21:44:43Z,Jeffphp,"/* wbsetclaim-update:2||1 */ [[Property:P625]]: 29°58'44.94""N, 31°8'3.19""E"
+1867492430,2023-04-03T17:28:03Z,Sldst-bot,"/* wbsetqualifier-add:1| */ [[Property:P1810]]: ВЕЛИКАЯ ПИРАМИДА, [[:toollabs:quickstatements/#/batch/152520|batch #152520]]"
+1862391268,2023-03-27T08:13:38Z,Christmas Wreath,/* wbremoveclaims-remove:1| */ [[Property:P495]]: [[Q211001]]
+1828826894,2023-02-07T20:22:33Z,Krol111,/* wbsetsitelink-set-badges:1|szlwiki */ [[Q17437796]]
+1822922493,2023-01-30T16:18:36Z,Jeffphp,/* wbsetclaim-update:2||1 */ [[Property:P3451]]: Giza_Pyramids_11.JPG
+1822921345,2023-01-30T16:16:39Z,Jeffphp,/* wbsetclaim-create:2||1 */ [[Property:P5775]]: Egypt-12B-067_(2217510728).jpg
+1796036365,2022-12-26T10:20:23Z,MatSuBot,/* wbeditentity-update-languages-short:0||szl */ add missing labels
+1791643525,2022-12-17T20:20:17Z,Psiŏczek,/* wbsetsitelink-add:1|szlwiki */ Wielgŏ Piyramida we Gizie
+1789994192,2022-12-14T22:28:51Z,JordanTimothyJames,/* undo:0||1789988395|JordanTimothyJames */
+1789988531,2022-12-14T22:13:27Z,JordanTimothyJames,/* wbeditentity-update:0| */ Matched to #mix'n'match [[:toollabs:mix-n-match/#/entry/143977049|Great Pyramid of Giza (#143977049)]]
+1789988395,2022-12-14T22:13:03Z,JordanTimothyJames,/* wbeditentity-update:0| */ Matched to #mix'n'match [[:toollabs:mix-n-match/#/entry/7250601|Le Chéops (#7250601)]]
+1784665176,2022-12-05T01:03:13Z,04anotherghost,/* wbeditentity-update-languages-short:0||pt */
+1766316672,2022-11-07T00:52:59Z,MatSuBot,"/* wbeditentity-update-languages-short:0||km, ps */ add missing labels"
+1763522776,2022-11-03T10:41:28Z,Theklan,"/* wbsetqualifier-add:1| */ [[Property:P585]]: 31 October 2022, #quickstatements; #temporary_batch_1667416644640"
+1763522732,2022-11-03T10:41:26Z,Theklan,"/* wbcreateclaim-create:1| */ [[Property:P5008]]: [[Q6173448]], #quickstatements; #temporary_batch_1667416644640"
+1759296008,2022-10-27T14:53:48Z,Dhx1,/* wbsetclaim-create:2||1 */ [[Property:P5282]]: https://giza.mused.org/en/guided/266/inside-the-great-pyramid
+1757029372,2022-10-24T07:14:32Z,حجاوي (بيت الحكمة),/* wbsetsitelink-add:1|pswiki */ د جیزه لوی هرم
+1743491292,2022-10-05T06:35:53Z,Chhen Pisey,"/* wblinktitles-connect:2| */ enwiki:Great Pyramid of Giza, kmwiki:មហាពីរ៉ាមីតនៃជីហ្សា"
+1738986440,2022-09-29T12:58:07Z,Charp238,/* wbremoveclaims-remove:1| */ [[Property:P5775]]: Al-mamoun-tunnel2.jpg
+1738986416,2022-09-29T12:57:59Z,Charp238,/* wbsetclaim-create:2||1 */ [[Property:P5775]]: Al-mamoun-tunnel2.jpg
+1738985628,2022-09-29T12:56:17Z,Charp238,/* wbsetclaim-create:2||1 */ [[Property:P3451]]: Dato curioso de la Pirámide ¿Sabias Que? WOUW.png
+1738984856,2022-09-29T12:54:37Z,Charp238,/* wbsetclaim-create:2||1 */ [[Property:P8885]]: 기자의 대피라미드
+1726038310,2022-09-11T04:24:00Z,BrokenSegue,"/* wbsetreference-add:2| */ [[Property:P7502]]: Great_Pyramid_of_Giza-5WZG, [[:toollabs:quickstatements/#/batch/97884|batch #97884]]"
+1726038298,2022-09-11T04:23:59Z,BrokenSegue,"/* wbcreateclaim-create:1| */ [[Property:P7502]]: Great_Pyramid_of_Giza-5WZG, [[:toollabs:quickstatements/#/batch/97884|batch #97884]]"
+1704317600,2022-08-15T03:48:06Z,MatSuBot,"/* wbeditentity-update-languages-short:0||uz, am */ add missing labels"
+1703136557,2022-08-13T13:14:00Z,ДолбоЯщер,/* wbsetsitelink-add:1|uzwiki */ Xeopsa Piramidasi
+1694570690,2022-08-02T17:38:13Z,Andre Engels,/* wbsetsitelink-add:1|amwiki */ የጊዛ ታላቅ ፒራሚድ
+1684656111,2022-07-21T23:07:07Z,Adam78,"/* wbsetaliases-update:8|hu */ Hufu-piramis, Nagy-piramis, Kheopsz-piramis, Khufu-piramis, nagy piramis, a gízai Nagy-piramis, gízai Nagy-piramis, el-gízai nagy piramis"
+1684655791,2022-07-21T23:06:37Z,Adam78,/* wbsetlabel-set:1|hu */ gízai nagy piramis
+1681685908,2022-07-18T21:38:56Z,Geagea,"/* wbsetclaim-create:2||1 */ [[Property:P8189]]: 987007540906805171, updating J9U id from the National Library of Israel database based on LCCN (sh) ([[:toollabs:editgroups/b/OR/77ad0de3a6f|details]])"
+1637554052,2022-05-13T11:12:10Z,MineoBot,/* wbsetreference-add:2| */ [[Property:P1004]]: 349a2768-9e36-41c8-a7eb-6cd550232865
+1637553991,2022-05-13T11:12:00Z,MineoBot,/* wbsetclaim-create:2||1 */ [[Property:P1004]]: 349a2768-9e36-41c8-a7eb-6cd550232865
+1570605205,2022-01-30T21:41:05Z,Theklan,/* wbremoveclaims-remove:1| */ [[Property:P5775]]: All Gizah Pyramids.jpg
+1564442599,2022-01-18T18:45:57Z,Aderiqueza,/* wbsetclaim-create:2||1 */ [[Property:P5775]]: All Gizah Pyramids.jpg
+1560900726,2022-01-12T04:12:13Z,Los viajeros 77,"/* wbsetsitelink-set-both:2|jawiki */ ギザの大ピラミッド, [[Q17437798]]"
+1545949551,2021-12-18T13:51:47Z,Torquatus,/* wbsetclaim-create:2||1 */ [[Property:P1667]]: 7536588
+1529669765,2021-11-18T04:25:03Z,Amadalvarez,"/* wbsetclaim-create:2||1 */ [[Property:P2046]]: 53,061.12 square metre"
+1529146363,2021-11-17T08:09:26Z,Psk0730,/* wbsetclaim-create:2||1 */ [[Property:P195]]: [[Q37200]]
+1528930089,2021-11-16T21:51:25Z,Abraham,/* wbsetclaim-create:2||1 */ [[Property:P7305]]: 3885100
+1527322059,2021-11-14T09:21:30Z,Epìdosis,/* wbsetdescription-set:1|es */ construcción de bloques de piedra del Antiguo Egipto
+1527321869,2021-11-14T09:20:50Z,Epìdosis,"Protected ""[[Q37200]]"": Excessive vandalism ([Edit=Allow only autoconfirmed users] (indefinite))"
+1527321778,2021-11-14T09:20:17Z,Epìdosis,/* restore:0||1526894468|Epìdosis */
+1527321582,2021-11-14T09:19:34Z,Epìdosis,Reverted edits by [[Special:Contributions/TudyR1|TudyR1]] ([[User talk:TudyR1|talk]]) to last revision by [[:User:2A02:2F0E:5215:F00:D17D:F235:AE10:302B|2A02:2F0E:5215:F00:D17D:F235:AE10:302B]]
+1526910313,2021-11-13T15:39:42Z,TudyR1,/* wbsetclaim-update:2||1 */ [[Property:P2048]]: 146.7 metre
+1526909797,2021-11-13T15:38:52Z,TudyR1,/* wbsetclaim-update:2||1 */ [[Property:P2048]]: 146.7 Pule
+1526908420,2021-11-13T15:36:29Z,TudyR1,/* wbremoveclaims-remove:1| */ [[Property:P2048]]: 137.5 Pule
+1526907286,2021-11-13T15:34:32Z,TudyR1,/* wbsetclaim-update:2||1 */ [[Property:P2048]]: 137.5 Pule
+1526906146,2021-11-13T15:32:29Z,TudyR1,/* wbsetclaim-update:2||1 */ [[Property:P84]]: [[Q59087]]
+1526903549,2021-11-13T15:27:48Z,2A02:2F0E:5215:F00:D17D:F235:AE10:302B,/* wbsetclaim-update:2||1 */ [[Property:P84]]: [[Q4656]]
+1526894468,2021-11-13T15:11:53Z,Epìdosis,Reverted edits by [[Special:Contributions/92.115.134.82|92.115.134.82]] ([[User talk:92.115.134.82|talk]]) to last revision by [[:User:Jahl de Vautban|Jahl de Vautban]]
+1526877571,2021-11-13T14:35:06Z,92.115.134.82,/* wbsetclaim-update:2||1 */ [[Property:P571]]: 1560 BCE
+1523670976,2021-11-07T11:54:37Z,Jahl de Vautban,/* undo:0||1523665084|2A02:2F09:E314:F200:C938:7DC1:9FA0:5745 */
+1523665084,2021-11-07T11:38:25Z,2A02:2F09:E314:F200:C938:7DC1:9FA0:5745,/* wbeditentity-update-languages-short:0||en */
+1497876350,2021-09-15T05:59:40Z,Jahl de Vautban,/* undo:0||1497855590|210.5.173.50 */ source?
+1497855590,2021-09-15T03:58:09Z,210.5.173.50,"/* wbsetclaim-update:2||1 */ [[Property:P2234]]: 2,583,285 cubic metre"
+1487869861,2021-08-26T11:33:04Z,SilentSpike,/* undo:0||1487832222|58.171.37.158 */ undo incorrect edit
+1487832222,2021-08-26T09:31:41Z,58.171.37.158,/* wbsetclaim-update:2||1 */ [[Property:P454]]: 20020302
+1477630857,2021-08-10T18:55:36Z,Iliya.ghobadi,/* wbsetdescription-add:1|fa */ یکی از عجایب هفت‌گانه در مصر
+1475123137,2021-08-07T09:22:03Z,TyopedcZ657,/* wbsetclaim-create:2||1 */ [[Property:P2581]]: 00370535n
+1462998887,2021-07-19T17:15:37Z,Sondre Tjørhom,/* wbsetdescription-add:1|nb */ den store pyramiden
+1456456905,2021-07-08T20:30:07Z,Baidax,/* wbsetclaim-create:2||1 */ [[Property:P5775]]: Cheops grote galerij.jpg
+1456456460,2021-07-08T20:29:20Z,Baidax,/* wbsetclaim-create:2||1 */ [[Property:P9721]]: Giseh 02.jpg
+1451461628,2021-06-30T08:17:38Z,Taravyvan Adijene,"/* wbsetaliases-add:2|be-tarask */ Вялікая піраміда Хеопса, Вялікая піраміда Гізы"
+1451461584,2021-06-30T08:17:32Z,Taravyvan Adijene,/* wbsetdescription-add:1|be-tarask */ найвялікшая з трох пірамідаў у нэкропалі Гізы; адно зь сямі чудаў сьвету
+1451461415,2021-06-30T08:16:45Z,Taravyvan Adijene,/* wbeditentity-update-languages-short:0||be-tarask */ Update of labels.
+1451461333,2021-06-30T08:16:32Z,Taravyvan Adijene,/* wbsetsitelink-add:1|be_x_oldwiki */ Піраміда Хеопса
+1448769482,2021-06-25T20:43:11Z,Tran Trong Nhan,/* clientsitelink-update:0|viwiki|viwiki:Kim tự tháp Kheops|viwiki:Đại Kim tự tháp Giza */
+1440498129,2021-06-13T08:04:11Z,154.237.45.63,/* wbeditentity-update-languages-short:0||ar */
+1434574830,2021-06-03T22:39:47Z,Míster Tovar,/* wbsetdescription-set:1|es */ Construcción de bloques de piedra del Antiguo Egipto
+1429619364,2021-05-27T08:19:23Z,Xabier Armendaritz,/* clientsitelink-update:0|euwiki|euwiki:Gizako Piramide Handia|euwiki:Gizako piramide handia */
+1428424033,2021-05-25T10:24:19Z,Tobiasi0,/* wbsetdescription-set:1|de */ älteste und größte der drei Pyramiden von Gizeh
+1416224226,2021-05-06T20:23:36Z,MdsShakil,"/* wbsetlabel-add:1|mg */ Piramida lehibe an'i Giza, [[:toollabs:quickstatements/#/batch/54399|batch #54399]]"
+1415436224,2021-05-05T19:05:36Z,187.190.197.96,/* wbsetsitelink-add:1|mgwiki */ Piramida lehibe an'i Giza
+1398208977,2021-04-08T21:54:07Z,Epìdosis,Reverted edits by [[Special:Contributions/43.251.255.4|43.251.255.4]] ([[User talk:43.251.255.4|talk]]) to last revision by [[:User:Jordiventura96|Jordiventura96]]
+1398103197,2021-04-08T18:11:33Z,43.251.255.4,/* wbsetclaim-update:2||1 */ [[Property:P18]]: Great Pyramid of Giza and Egyptian sky.jpg
+1398102096,2021-04-08T18:09:42Z,43.251.255.4,/* wbsetclaim-update:2||1 */ [[Property:P18]]: California Digital Library (IA muretsandersenzy03mure).pdf
+1394125004,2021-04-01T09:43:08Z,Jordiventura96,/* wbsetdescription-add:1|ca */ construcció de blocs de pedra de l'Antic Egipte
+1393898482,2021-03-31T22:16:00Z,Odionsion,/* wbsetdescription-set:1|tr */ İki harikalar listesinde de bulunan harika yapı
+1384904133,2021-03-18T19:52:27Z,Do not follow,Reverted edits by [[Special:Contributions/158.248.51.232|158.248.51.232]] ([[User talk:158.248.51.232|talk]]) to last revision by [[:User:Jahl de Vautban|Jahl de Vautban]]
+1384901878,2021-03-18T19:49:15Z,158.248.51.232,/* wbsetclaim-update:2||1 */ [[Property:P373]]: i is cool
+1360890513,2021-02-14T07:11:15Z,Jahl de Vautban,/* undo:0||1360825032|59.148.105.44 */
+1360825032,2021-02-14T04:35:54Z,59.148.105.44,/* wbsetclaim-update:2||1 */ [[Property:P2048]]: 146.8 metre
+1355566696,2021-02-06T05:24:15Z,Spashouse,"/* wbsetdescription-add:1|ur */ غزہ شہرِ مردہ میں سب سے بڑا اہرام، مصر, #suggestededit-translate 1.0"
+1354688291,2021-02-04T19:00:21Z,5.178.15.44,/* wbsetdescription-set:1|az */ iki möcüzələr siyahısında olan memarlıq abidələrindən biri
+1352332639,2021-02-01T01:16:28Z,Alensha,/* wbsetdescription-add:1|hu */ ókori egyiptomi sír
+1337749032,2021-01-09T15:23:26Z,2A02:2F09:D002:9F00:7078:EF6F:76A4:DD88,/* wbsetclaim-update:2||1 */ [[Property:P571]]: 2560 BCE
+1337748630,2021-01-09T15:22:19Z,2A02:2F09:D002:9F00:7078:EF6F:76A4:DD88,/* wbsetclaim-update:2||1 */ [[Property:P571]]: 1000000 billion years BCE
+1337259458,2021-01-08T17:16:30Z,Jahl de Vautban,/* undo:0||1337253954|213.94.37.137 */ vandalism
+1337253954,2021-01-08T17:02:15Z,213.94.37.137,/* wbsetlabel-set:1|es */ Polla gorda
+1332227504,2020-12-31T10:29:12Z,Jahl de Vautban,/* undo:0||1332214310|2A01:E0A:338:23A0:CDAA:BBBE:B8EA:1D73 */ vandalism
+1332214310,2020-12-31T10:07:37Z,2A01:E0A:338:23A0:CDAA:BBBE:B8EA:1D73,"/* wbsetclaim-update:2||1 */ [[Property:P7818]]: Pyramide_de_Khéopsjn,"
+1332212903,2020-12-31T10:05:29Z,Syariful Msth,"/* wbsetdescription-add:1|id */ Piramida Agung Giza adalah piramida tertua dan terbesar dari tiga piramida yang ada di Nekropolis Giza, serta merupakan satu-satunya bangunan yang relatif masih utuh dari Tujuh Keajaiban Dunia Kuno."
+1331922565,2020-12-30T21:49:26Z,Thierry Caro,"/* wbcreateclaim-create:1| */ [[Property:P9000]]: Great_Pyramid_of_Giza, #quickstatements; #temporary_batch_1609364230774"
+1331150959,2020-12-29T22:30:58Z,Pi bot,"/* wbsetclaim-create:2||1 */ [[Property:P7561]]: [[Q104555362]], Setting P7561 value"
+1329288390,2020-12-26T18:27:30Z,Epìdosis,Reverted edits by [[Special:Contributions/81.37.134.231|81.37.134.231]] ([[User talk:81.37.134.231|talk]]) to last revision by [[:User:Epìdosis|Epìdosis]]
+1329273133,2020-12-26T17:40:50Z,81.37.134.231,/* wbsetlabel-set:1|es */ Gran pirámide de Guiza
+1327537867,2020-12-23T15:31:08Z,Epìdosis,Reverted edits by [[Special:Contributions/77.20.254.20|77.20.254.20]] ([[User talk:77.20.254.20|talk]]) to last revision by [[:User:Jahl de Vautban|Jahl de Vautban]]
+1327520444,2020-12-23T14:23:27Z,77.20.254.20,/* wbsetclaim-update:2||1 */ [[Property:P571]]: 2570 BCE
+1324730505,2020-12-18T12:11:15Z,Jahl de Vautban,/* restore:0||1320545510|Gisele Souza Lima */ vandalism
+1324720335,2020-12-18T11:42:38Z,119.237.95.160,/* wbsetclaim-update:2||1 */ [[Property:P31]]: [[Q9950]]
+1324720308,2020-12-18T11:42:35Z,119.237.95.160,/* wbsetclaim-update:2||1 */ [[Property:P31]]: [[Q101936546]]
+1324720293,2020-12-18T11:42:34Z,119.237.95.160,/* wbsetclaim-update:2||1 */ [[Property:P31]]: [[Q496]]
+1320545510,2020-12-09T21:22:04Z,Gisele Souza Lima,/* wbsetdescription-set:1|pt */ uma das sete maravilhas do mundo antigo e maravilha honorária do mundo moderno além de ser a única que permanece em maior parte intacta
+1320415038,2020-12-09T15:26:50Z,Epìdosis,"/* wbcreateclaim-create:1| */ [[Property:P4839]]: Entity[""Building"", ""GreatPyramidOfGiza::jbm66""], Matched to #mix'n'match [[:toollabs:mix-n-match/#/entry/54015318|Great Pyramid of Giza (#54015318)]]; using #mixnmatchgadget"
+1320415026,2020-12-09T15:26:48Z,Epìdosis,"/* wbcreateclaim-create:1| */ [[Property:P4839]]: Entity[""HistoricalSite"", ""GreatPyramidOfGiza::kbgx6""], Matched to #mix'n'match [[:toollabs:mix-n-match/#/entry/53933471|Great Pyramid of Giza (#53933471)]]; using #mixnmatchgadget"
+1320415001,2020-12-09T15:26:43Z,Epìdosis,"/* wbcreateclaim-create:1| */ [[Property:P5421]]: 160633, Matched to #mix'n'match [[:toollabs:mix-n-match/#/entry/62222430|Great Pyramid of Giza (#62222430)]]; using #mixnmatchgadget"
+1320414990,2020-12-09T15:26:41Z,Epìdosis,"/* wbcreateclaim-create:1| */ [[Property:P7302]]: 1782, Matched to #mix'n'match [[:toollabs:mix-n-match/#/entry/79105569|Khufu Pyramid (#79105569)]]; using #mixnmatchgadget"
+1320414949,2020-12-09T15:26:28Z,Epìdosis,"/* wbcreateclaim-create:1| */ [[Property:P4342]]: Kheopspyramiden, Matched to #mix'n'match [[:toollabs:mix-n-match/#/entry/72096159|Kheopspyramiden (#72096159)]]; using #mixnmatchgadget"
+1320414869,2020-12-09T15:26:13Z,Epìdosis,/* wbsetdescription-set:1|pt */ uma das sete maravilhas do mundo antigo e do moderno além de ser a única que permanece em maior parte intacta
+1320394395,2020-12-09T13:52:16Z,2804:954:332:2000:A2AC:69FF:FEC8:AD7E,/* wbsetdescription-set:1|pt */ Uma das sete maravilhas do mundo antigo e do moderno além de ser a única que permanece em maior parte intacta
+1318732942,2020-12-06T10:16:35Z,Jahl de Vautban,/* restore:0||1317734459|Jahl de Vautban */ vandalism
+1318726738,2020-12-06T10:03:33Z,2A02:2F08:840D:7200:E412:D013:1331:B5D0,/* wbsetclaim-update:2||1 */ [[Property:P361]]: [[Q19572149]]
+1318726413,2020-12-06T10:02:57Z,2A02:2F08:840D:7200:E412:D013:1331:B5D0,/* wbsetclaim-update:2||1 */ [[Property:P31]]: [[Q1367]]
+1318726122,2020-12-06T10:02:25Z,2A02:2F08:840D:7200:E412:D013:1331:B5D0,/* wbsetclaim-update:2||1 */ [[Property:P31]]: [[Q2927074]]
+1318725421,2020-12-06T10:01:04Z,2A02:2F08:840D:7200:E412:D013:1331:B5D0,/* wbsetclaim-update:2||1 */ [[Property:P1419]]: [[Q812880]]
+1318725287,2020-12-06T10:00:46Z,2A02:2F08:840D:7200:E412:D013:1331:B5D0,"/* wbsetclaim-update:2||1 */ [[Property:P2234]]: 7,679,673,646 cubic metre"
+1318725140,2020-12-06T10:00:32Z,2A02:2F08:840D:7200:E412:D013:1331:B5D0,"/* wbsetclaim-update:2||1 */ [[Property:P2048]]: 3,556 metre"
+1318724994,2020-12-06T10:00:18Z,2A02:2F08:840D:7200:E412:D013:1331:B5D0,"/* wbsetclaim-update:2||1 */ [[Property:P2048]]: 3,434 metre"
+1318724925,2020-12-06T10:00:07Z,2A02:2F08:840D:7200:E412:D013:1331:B5D0,/* wbsetclaim-update:2||1 */ [[Property:P149]]: [[Q16252134]]
+1318723924,2020-12-06T09:57:59Z,2A02:2F08:840D:7200:E412:D013:1331:B5D0,/* wbsetclaim-update:2||1 */ [[Property:P186]]: [[Q43010]]
+1318723809,2020-12-06T09:57:44Z,2A02:2F08:840D:7200:E412:D013:1331:B5D0,/* wbsetclaim-update:2||1 */ [[Property:P186]]: [[Q40861]]
+1318723586,2020-12-06T09:57:24Z,2A02:2F08:840D:7200:E412:D013:1331:B5D0,/* wbsetclaim-update:2||1 */ [[Property:P495]]: [[Q220276]]
+1318723316,2020-12-06T09:56:49Z,2A02:2F08:840D:7200:E412:D013:1331:B5D0,"/* wbsetclaim-update:2||1 */ [[Property:P2044]]: 10,555,555 metre"
+1318723171,2020-12-06T09:56:36Z,2A02:2F08:840D:7200:E412:D013:1331:B5D0,/* wbsetclaim-update:2||1 */ [[Property:P2044]]: 105 metre
+1317734459,2020-12-04T16:00:06Z,Jahl de Vautban,/* undo:0||1317706872|88.11.147.134 */ vandalism
+1317706872,2020-12-04T14:55:26Z,88.11.147.134,/* wbsetlabel-set:1|en */ Great Pyramid of TUPUTAMADRE
+1317003035,2020-12-02T23:41:35Z,Epìdosis,Reverted edits by [[Special:Contributions/67.226.221.24|67.226.221.24]] ([[User talk:67.226.221.24|talk]]) to last revision by [[:User:Jan Myšák|Jan Myšák]]
+1316905009,2020-12-02T19:15:24Z,67.226.221.24,"/* wbsetclaim-update:2||1 */ [[Property:P625]]: 29°58'45.1""N, 31°8'3.1""E"
+1308975926,2020-11-19T16:02:23Z,Jan Myšák,/* wbsetdescription-add:1|cs */ nejstarší a nejvyšší gízská pyramida; jeden ze sedmi starověkých divů světa
+1307191471,2020-11-15T17:46:56Z,Epìdosis,Reverted edits by [[Special:Contributions/156.194.35.186|156.194.35.186]] ([[User talk:156.194.35.186|talk]]) to last revision by [[:User:Epìdosis|Epìdosis]]
+1307136621,2020-11-15T14:51:51Z,156.194.35.186,/* wbsetclaim-update:2||1 */ [[Property:P2048]]: 139 metre
+1304903869,2020-11-10T21:44:24Z,Epìdosis,Reverted edits by [[Special:Contributions/95.65.48.179|95.65.48.179]] ([[User talk:95.65.48.179|talk]]) to last revision by [[:User:Ryomaandres|Ryomaandres]]
+1304830527,2020-11-10T15:51:22Z,95.65.48.179,"/* wbsetclaim-update:2||1 */ [[Property:P625]]: 29°58'44.9""N, 31°8'2.2""E"
+1302808540,2020-11-05T06:44:33Z,Ryomaandres,/* wbsetsitelink-add:1|tlwiki */ Dakilang Piramide ng Giza
+1302771286,2020-11-05T01:36:18Z,Шкурба Андрій Вікторович,Reverted edits by [[Special:Contributions/2A02:2F0B:BF04:6E00:7526:DB17:7847:7F8E|2A02:2F0B:BF04:6E00:7526:DB17:7847:7F8E]] ([[User talk:2A02:2F0B:BF04:6E00:7526:DB17:7847:7F8E|talk]]) to last revision by [[:User:Epìdosis|Epìdosis]]
+1302705032,2020-11-04T20:20:50Z,2A02:2F0B:BF04:6E00:7526:DB17:7847:7F8E,/* wbremoveclaims-remove:1| */ [[Property:P84]]: [[Q59087]]
+1298047431,2020-10-26T22:07:09Z,Epìdosis,/* restore:0||1296738500|Charp238 */
+1297783139,2020-10-26T11:40:40Z,Smitch06,/* wbsetclaim-update:2||1|1 */ [[Property:P757]]: 86
+1297782969,2020-10-26T11:40:08Z,Smitch06,/* wbsetclaim-create:2||1 */ [[Property:P757]]: 86
+1296738500,2020-10-24T18:51:26Z,Charp238,/* wbsetdescription-add:1|eo */ piramido en Egiptio
+1296738419,2020-10-24T18:51:11Z,Charp238,/* wbsetdescription-set:1|en */ oldest and largest of the three pyramids in the Giza Necropolis; one of the seven ancient wonders of the world
+1293497685,2020-10-17T20:53:01Z,KrBot,"/* wbsetclaimvalue:1| */ [[Property:P31]]: [[Q4363262]], разрешение перенаправления / resolving redirect [[Q3411290]] → [[Q4363262]] ([[:toollabs:editgroups/b/KrBotResolvingRedirect/Q3411290_Q4363262|подробности / details]])"
+1292330660,2020-10-15T22:12:53Z,Epìdosis,Reverted edits by [[Special:Contributions/2800:A4:29DE:BB00:38DD:74F9:B35F:8CD0|2800:A4:29DE:BB00:38DD:74F9:B35F:8CD0]] ([[User talk:2800:A4:29DE:BB00:38DD:74F9:B35F:8CD0|talk]]) to last revision by [[:User:MatSuBot|MatSuBot]]
+1292319387,2020-10-15T21:47:07Z,2800:A4:29DE:BB00:38DD:74F9:B35F:8CD0,/* wbeditentity-update-languages-short:0||en */
+1279972452,2020-09-21T06:04:06Z,MatSuBot,"/* wbeditentity-update-languages-short:0||ba, ta, it */ add missing labels; cleanup"
+1278782398,2020-09-18T10:52:45Z,Johnmccrae,"/* wbcreateclaim-create:1| */ [[Property:P5063]]: i57812, #quickstatements; #temporary_batch_1600425089511"
+1278495216,2020-09-17T14:50:14Z,Treisijs,/* wbsetclaim-create:2||1 */ [[Property:P186]]: [[Q41177]]
+1278495176,2020-09-17T14:50:04Z,Treisijs,/* wbsetclaim-create:2||1 */ [[Property:P186]]: [[Q23757]]
+1278444458,2020-09-17T11:28:52Z,Treisijs,/* wbsetclaim-create:2||1 */ [[Property:P495]]: [[Q211001]]
+1278107214,2020-09-16T15:52:59Z,Treisijs,/* wbremoveclaims-remove:1| */ [[Property:P242]]: Cheops-Pyramid.svg
+1278107139,2020-09-16T15:52:46Z,Treisijs,/* wbsetclaim-create:2||1 */ [[Property:P5555]]: Cheops-Pyramid.svg
+1278106649,2020-09-16T15:51:13Z,Treisijs,/* wbsetclaim-update:2||1 */ [[Property:P131]]: [[Q30832]]
+1278106567,2020-09-16T15:51:01Z,Treisijs,/* wbremoveclaims-remove:1| */ [[Property:P131]]: [[Q85]]
+1278105609,2020-09-16T15:48:17Z,Treisijs,"/* wbsetdescription-add:1|lv */ vecākā un lielākā no Gīzas piramīdām, viens no septiņiem pasaules brīnumiem"
+1277656816,2020-09-15T12:10:11Z,أحمد بن طارق,"/* wbsetdescription-set:1|ar */ هرم مصري و أحد عجائب الدنيا السبع المتبقية, #suggestededit-add 1.0"
+1275151334,2020-09-10T11:07:46Z,З. ӘЙЛЕ,/* wbsetsitelink-add:1|bawiki */ Хеопс пирамидаһы
+1272491272,2020-09-06T19:02:47Z,Epìdosis,Reverted edits by [[Special:Contributions/186.136.27.120|186.136.27.120]] ([[User talk:186.136.27.120|talk]]) to last revision by [[:User:Zawthet|Zawthet]]
+1272488928,2020-09-06T18:59:33Z,186.136.27.120,/* wbsetlabel-set:1|en */ Great Pyramid of G
+1245269392,2020-08-02T16:49:22Z,Zawthet,/* clientsitelink-update:0|mywiki|mywiki:ဂိုင်ဇာမဟာပိရမစ်ကြီး|mywiki:ဂီဇာမဟာပိရမစ်ကြီး */
+1243897149,2020-08-01T09:49:08Z,أحمد بن طارق,"/* wbsetdescription-set:1|ar */ هرم مصري و أكبر بناء حجري في العالم لأكثر من 3800 سنة, #suggestededit-add 1.0"
+1243113010,2020-07-31T11:02:43Z,أحمد بن طارق,"/* wbsetdescription-set:1|ar */ هرم مصري, #suggestededit-add 1.0"
+1243112644,2020-07-31T11:02:05Z,أحمد بن طارق,"/* wbsetdescription-set:1|ar */ هرم مصري بناه الملك خوفو, #suggestededit-add 1.0"
+1239057009,2020-07-26T09:44:58Z,NayiMuu,"/* wbsetdescription-add:1|my */ အီဂျစ်နိုင်ငံ၊ ဂိုင်ဇာဂူသင်္ချိုင်းရှိ အကြီးဆုံး ပိရမစ်, #suggestededit-translate 1.0"
+1238488949,2020-07-25T16:52:07Z,أحمد بن طارق,"/* wbsetdescription-set:1|ar */ أكبر أهرامات مصر ، بناه الملك خوفو, #suggestededit-add 1.0"
+1228247665,2020-07-10T05:36:42Z,Mkbergman,"/* wbsetreference-add:2| */ [[Property:P8408]]: PyramidOfCheops, [[:toollabs:quickstatements/#/batch/38362|batch #38362]]"
+1228247652,2020-07-10T05:36:41Z,Mkbergman,"/* wbcreateclaim-create:1| */ [[Property:P8408]]: PyramidOfCheops, [[:toollabs:quickstatements/#/batch/38362|batch #38362]]"
+1227320515,2020-07-08T16:50:21Z,Epìdosis,/* undo:0||1227056755|Mkbergman */ Incorrect use of qualifiers ([[:toollabs:editgroups/b/EG/c055f7d|details]])
+1227056755,2020-07-08T06:54:05Z,Mkbergman,"/* wbcreateclaim-create:1| */ [[Property:P8408]]: PyramidOfCheops, [[:toollabs:quickstatements/#/batch/38307|batch #38307]]"
+1208563018,2020-06-15T22:28:56Z,SilentSpike,/* wbsetclaim-update:2||1|1 */ [[Property:P2048]]: 137.5 metre
+1208562960,2020-06-15T22:28:40Z,SilentSpike,/* wbsetclaim-update:2||1 */ [[Property:P2048]]: 137.5 metre
+1208562774,2020-06-15T22:27:54Z,SilentSpike,/* wbsetclaim-update:2||1 */ [[Property:P2048]]: 146.7 metre
+1208562469,2020-06-15T22:26:34Z,SilentSpike,/* wbsetclaim-update:2||1|1 */ [[Property:P571]]: 2560 BCE
+1182439096,2020-05-15T23:51:29Z,Escarbot,/* wbeditentity-update-languages-short:0||wuu */ Ajout du libellé [wuu] : 胡夫金字塔
+1178878208,2020-05-11T10:52:46Z,Jahl de Vautban,/* restore:0||1176216215|Epìdosis */ vandalism
+1178872016,2020-05-11T10:41:07Z,95.16.243.186,"/* wbsetaliases-remove:5|ca */ Piràmide de Keops, Gran Piràmide de Gizeh, Piràmide de Giza, Gran Piràmide de Giza, Gran piràmide"
+1178871994,2020-05-11T10:41:06Z,95.16.243.186,"/* wbsetaliases-remove:3|gl */ Gran Pirámide, Pirámide de Queops, Gran Pirámide de Guiza"
+1178871978,2020-05-11T10:41:05Z,95.16.243.186,"/* wbsetaliases-update:2|en */ Pirámide de Keops, Pirámide de khufu"
+1178871958,2020-05-11T10:41:04Z,95.16.243.186,/* wbsetlabel-remove:1|ca */ piràmide de Kheops
+1178871943,2020-05-11T10:41:03Z,95.16.243.186,/* wbsetlabel-remove:1|gl */ Gran Pirámide de Gizeh
+1176216215,2020-05-08T00:02:29Z,Epìdosis,Reverted edits by [[Special:Contributions/2001:8003:209B:C100:10A9:FAB5:BF12:FD05|2001:8003:209B:C100:10A9:FAB5:BF12:FD05]] ([[User talk:2001:8003:209B:C100:10A9:FAB5:BF12:FD05|talk]]) to last revision by [[:User:Do not follow|Do not follow]]
+1176207062,2020-05-07T23:46:20Z,2001:8003:209B:C100:10A9:FAB5:BF12:FD05,"/* wbsetclaim-update:2||1 */ [[Property:P242]]: Monome 128 Grid Kit - Phew, fixed! (2014-12-20 13.12.09 by c-g.).jpg"
+1168353779,2020-04-28T12:14:40Z,Do not follow,Reverted edits by [[Special:Contributions/80.111.251.247|80.111.251.247]] ([[User talk:80.111.251.247|talk]]) to last revision by [[:User:Epìdosis|Epìdosis]]
+1168346013,2020-04-28T12:04:39Z,80.111.251.247,/* wbsetclaim-update:2||1 */ [[Property:P269]]: wow
+1168345957,2020-04-28T12:04:16Z,80.111.251.247,/* wbsetclaim-update:2||1 */ [[Property:P7829]]: Pyramid_of_peple
+1163785538,2020-04-22T16:12:00Z,Epìdosis,Reverted edits by [[Special:Contributions/2A01:C50E:8950:1E00:9959:61E5:A6BF:98F7|2A01:C50E:8950:1E00:9959:61E5:A6BF:98F7]] ([[User talk:2A01:C50E:8950:1E00:9959:61E5:A6BF:98F7|talk]]) to last revision by [[:User:Hamish|Hamish]]
+1163768929,2020-04-22T15:34:56Z,2A01:C50E:8950:1E00:9959:61E5:A6BF:98F7,"/* wbsetaliases-update:24|es */ Gran pirámide de Gizeh, Gran Piramide de Keops, Piramide de Giza, La Gran Pirámide de Giza, Pirámide de Khufu, Gran piramide de Gizeh, Pirámide de Gizeh, Piramide de Jufu, Gran Piramide de Guiza, Gran Pirámide de Keops, La Gran Piramide de Giza, La Gran Piramide, Piramide de Keops, Gran Pirámide de Giza, La Gran Pirámide, Gran Piramide, Gran Pirámide, Gran Piramide de Giza, Piramide de Khufu, Pirámide de Keops, Piramide de Guiza, Piramide de Gizeh, Pirámide de..."
+1163768908,2020-04-22T15:34:54Z,2A01:C50E:8950:1E00:9959:61E5:A6BF:98F7,/* wbsetdescription-set:1|es */ construcción de ladrillos de piedra del Antiguo mesopotamia.
+1161954985,2020-04-20T19:36:30Z,Hamish,Undid edits by [[Special:Contribs/152.231.138.116|152.231.138.116]] ([[User talk:152.231.138.116|talk]]) to last version by Шкурба Андрій Вікторович
+1161954766,2020-04-20T19:36:13Z,152.231.138.116,/* wbsetdescription-set:1|en */ jajaj
+1159133733,2020-04-16T23:37:30Z,Шкурба Андрій Вікторович,/* undo:0||1159100041|190.92.41.166 */ ?
+1159100041,2020-04-16T22:36:12Z,190.92.41.166,"/* wbsetaliases-update:2|en */ Pirámide de Keops, Pirámide de khufu"
+1159100039,2020-04-16T22:36:11Z,190.92.41.166,/* wbsetlabel-set:1|es */ Gran pirámide de Giza
+1158720225,2020-04-16T09:33:38Z,Jmh2o,/* undo:0||1158714352|81.92.221.180 */ test de débutant ?
+1158714352,2020-04-16T09:26:01Z,81.92.221.180,/* wbsetclaim-update:2||1 */ [[Property:P2048]]: 138.8000000 metre
+1147581710,2020-04-01T01:57:35Z,Vladimir Alexiev,"/* wbsetreference-add:2| */ [[Property:P7859]]: viaf-247198851, [[:toollabs:quickstatements/#/batch/25615|batch #25615]]"
+1147581699,2020-04-01T01:57:34Z,Vladimir Alexiev,"/* wbcreateclaim-create:1| */ [[Property:P7859]]: viaf-247198851, [[:toollabs:quickstatements/#/batch/25615|batch #25615]]"
+1146667767,2020-03-30T20:51:56Z,Nvrandow,"/* wbsetreference-add:2| */ [[Property:P88]]: [[Q161904]], ([[:toollabs:editgroups/b/harvesttemplates/ffa2ccb9b221|details]])"
+1146667755,2020-03-30T20:51:51Z,Nvrandow,"/* wbcreateclaim-create:1| */ [[Property:P88]]: [[Q161904]], ([[:toollabs:editgroups/b/harvesttemplates/ffa2ccb9b221|details]])"
+1146610656,2020-03-30T17:55:25Z,Nvrandow,"/* wbsetreference-add:2| */ [[Property:P276]]: [[Q81788]], ([[:toollabs:editgroups/b/harvesttemplates/926cee0ae83|details]])"
+1146610648,2020-03-30T17:55:22Z,Nvrandow,"/* wbcreateclaim-create:1| */ [[Property:P276]]: [[Q81788]], ([[:toollabs:editgroups/b/harvesttemplates/926cee0ae83|details]])"
+1144856648,2020-03-28T06:05:11Z,HakanIST,Reverted edits by [[Special:Contributions/180.181.173.101|180.181.173.101]] ([[User talk:180.181.173.101|talk]]) to last revision by [[:User:Martin Urbanec|Martin Urbanec]]
+1144846373,2020-03-28T05:45:19Z,180.181.173.101,/* wbsetlabel-set:1|en */ sex Great Pyramid of Giza
+1144463762,2020-03-27T17:35:59Z,Martin Urbanec,Reverted edits by [[Special:Contributions/79.109.85.71|79.109.85.71]] ([[User talk:79.109.85.71|talk]]) to last revision by [[:User:197.37.69.214|197.37.69.214]]
+1144463566,2020-03-27T17:34:42Z,79.109.85.71,/* wbsetlabel-remove:1|en */ Great Pyramid of Giza
+1131932874,2020-03-08T11:24:50Z,197.37.69.214,/* wbsetclaim-create:2||1 */ [[Property:P131]]: [[Q85]]
+1129023328,2020-03-04T20:36:37Z,Epìdosis,Reverted edits by [[Special:Contributions/2800:A4:178B:900:C189:B598:CF4C:D16|2800:A4:178B:900:C189:B598:CF4C:D16]] ([[User talk:2800:A4:178B:900:C189:B598:CF4C:D16|talk]]) to last revision by [[:User:Epìdosis|Epìdosis]]
+1129008225,2020-03-04T19:57:10Z,2800:A4:178B:900:C189:B598:CF4C:D16,/* wbeditentity-update-languages-short:0||en */
+1126205326,2020-02-29T18:25:38Z,Epìdosis,Reverted edits by [[Special:Contributions/95.123.236.201|95.123.236.201]] ([[User talk:95.123.236.201|talk]]) to last revision by [[:User:Kostas20142|Kostas20142]]
+1126053465,2020-02-29T14:09:17Z,95.123.236.201,"/* wbsetaliases-update:5|ca */ Gran Piràmide de Gizeh, Piràmide de Giza, Gran Piràmide de Giza, Gran piràmide, Piràmide de Kops"
+1126053438,2020-02-29T14:09:14Z,95.123.236.201,"/* wbsetaliases-update:24|es */ Gran pirámide de Gizeh, Piramide de Giza, La Gran Pirámide de Giza, Pirámide de Guiza, Pirámide de Khufu, Gran piramide de Gizeh, Pirámide de Gizeh, Piramide de Jufu, Gran Piramide de Guiza, Gran Pirámide de Keops, La Gran Piramide de Giza, La Gran Piramide, Piramide de Keops, Gran Pirámide de Giza, La Gran Pirámide, Gran Piramide, Gran Pirámide, Gran Piramide de Giza, Piramide de Khufu, Pirámide de Keops, Piramide de Guiza, Piramide de Gizeh, Pirámide de Jufu,..."
+1125029507,2020-02-27T23:48:46Z,KonstantinaG07,Reverted edits by [[Special:Contributions/200.2.197.2|200.2.197.2]] ([[User talk:200.2.197.2|talk]]) to last revision by [[:User:Rüfət Əlizadə|Rüfət Əlizadə]]
+1125029106,2020-02-27T23:48:05Z,200.2.197.2,/* wbsetlabel-set:1|en */ Chupala maricon
+1122957515,2020-02-24T18:33:52Z,Rüfət Əlizadə,"/* wbsetdescription-add:1|az */ iki möcüzələr siyahısında olan memarlıq abidəsi, #suggestededit-translate 1.0"
+1116215312,2020-02-16T01:45:06Z,Tinker Bell,"/* wbcreateclaim-create:1| */ [[Property:P7822]]: Piramide_di_Cheope, [[:toollabs:quickstatements/#/batch/25723|batch #25723]]"
+1116215167,2020-02-16T01:44:44Z,Tinker Bell,"/* wbcreateclaim-create:1| */ [[Property:P7829]]: Pyramid_of_Cheops, [[:toollabs:quickstatements/#/batch/25723|batch #25723]]"
+1116215045,2020-02-16T01:44:24Z,Tinker Bell,"/* wbcreateclaim-create:1| */ [[Property:P7818]]: Pyramide_de_Khéops, [[:toollabs:quickstatements/#/batch/25723|batch #25723]]"
+1116072139,2020-02-15T20:50:28Z,Wenrayx,"/* wbsetdescription-add:1|tr */ iki harikalar listesinde de bulunan harika yapı, #suggestededit-add 1.0"
+1112606678,2020-02-10T04:51:42Z,MirrorWuu,/* wbsetsitelink-add:1|wuuwiki */ 胡夫金字塔
+1105471445,2020-01-28T02:48:56Z,Mike Novikoff,Reverted edits by [[Special:Contributions/2806:105E:F:75E3:1D1:F65E:A163:B2FA|2806:105E:F:75E3:1D1:F65E:A163:B2FA]] ([[User talk:2806:105E:F:75E3:1D1:F65E:A163:B2FA|talk]]) to last revision by [[:User:Sänger|Sänger]]
+1105470989,2020-01-28T02:42:45Z,2806:105E:F:75E3:1D1:F65E:A163:B2FA,/* wbeditentity-update-languages-short:0||en */
+1103281887,2020-01-23T18:34:18Z,Sänger,/* undo:0||1103281833|Sänger */ vandalism reverted
+1103281833,2020-01-23T18:33:39Z,Sänger,/* undo:0||1103261854|88.8.114.142 */ vandalism
+1103261854,2020-01-23T16:59:19Z,88.8.114.142,/* wbsetlabel-set:1|ca */ parimode
+1103261852,2020-01-23T16:59:17Z,88.8.114.142,/* wbsetlabel-set:1|es */ Gran pirámadesoide de Guiza
+1100083540,2020-01-17T15:00:27Z,Mike Novikoff,Reverted edits by [[Special:Contributions/192.189.117.8|192.189.117.8]] ([[User talk:192.189.117.8|talk]]) to last revision by [[:User:171.33.197.91|171.33.197.91]]
+1100080249,2020-01-17T14:53:52Z,192.189.117.8,/* wbsetlabel-set:1|en */ Great Pyramid of Giza memes with extra sauce also free doggos
+1100078592,2020-01-17T14:50:15Z,192.189.117.8,/* wbsetlabel-set:1|en */ Great Pyramid of Giza memes with extra sauce
+1098042354,2020-01-14T13:54:53Z,171.33.197.91,/* wbsetlabel-set:1|en */ Great Pyramid of Giza
+1098041645,2020-01-14T13:52:55Z,171.33.197.91,/* wbsetlabel-set:1|en */ Great Pyramid of Deeza
+1097231860,2020-01-13T12:25:58Z,Munkhzaya.E,/* clientsitelink-update:0|mnwiki|mnwiki:Хеопсын буюу Хуфугийн пирамид|mnwiki:Хеопсын пирамид */
+1076125590,2019-12-14T19:01:22Z,Rouhaiv taher,/* wbsetdescription-add:1|ar */ إهرامات مصر
+1073092645,2019-12-09T20:21:57Z,MatSuBot,/* wbeditentity-update-languages-and-other:0||1 */ add missing labels
+1073065456,2019-12-09T19:24:24Z,Do not follow,Reverted edits by [[Special:Contributions/207.253.18.34|207.253.18.34]] ([[User talk:207.253.18.34|talk]]) to last revision by [[:User:Df910105|Df910105]]
+1073059078,2019-12-09T19:07:09Z,207.253.18.34,/* wbsetclaim-update:2||1 */ [[Property:P935]]: Great Pyramid of blade monster64
+1072702812,2019-12-09T08:18:16Z,Df910105,"/* wbsetclaim-create:2||1 */ [[Property:P2234]]: 2,583,283 cubic metre"
+1070321061,2019-12-06T09:06:03Z,Epìdosis,Reverted edits by [[Special:Contributions/203.104.11.95|203.104.11.95]] ([[User talk:203.104.11.95|talk]]) to last revision by [[:User:Hugo.arg|Hugo.arg]]
+1070135097,2019-12-06T02:46:03Z,203.104.11.95,/* wbsetdescription-set:1|en */ oldest and largest of the three pyramids in the Giza Necropolis and it is one of the seven worst in the world
+1065594256,2019-11-29T20:24:51Z,Hugo.arg,/* wbsetsitelink-add:1|gcrwiki */ Piramid di Khéops
+1049862370,2019-11-10T14:40:13Z,Wikitanvir,/* clientsitelink-update:0|bnwiki|bnwiki:খুফু'র পিরামিড|bnwiki:গিজার মহা পিরামিড */
+1037189798,2019-10-22T18:07:58Z,Ecritures,"/* wbcreateclaim-create:1| */ [[Property:P5008]]: [[Q68074438]], #quickstatements; #temporary_batch_1571767534985"
+1037189786,2019-10-22T18:07:56Z,Ecritures,"/* wbsetreference-add:2| */ [[Property:P1481]]: 20769, #quickstatements; #temporary_batch_1571767534985"
+1037189771,2019-10-22T18:07:54Z,Ecritures,"/* wbcreateclaim-create:1| */ [[Property:P1481]]: 20769, #quickstatements; #temporary_batch_1571767534985"
+1035185170,2019-10-19T11:09:40Z,Шкурба Андрій Вікторович,Reverted edits by [[Special:Contributions/90.74.204.144|90.74.204.144]] ([[User talk:90.74.204.144|talk]]) to last revision by [[:User:Epìdosis|Epìdosis]]
+1035171232,2019-10-19T10:35:41Z,90.74.204.144,/* wbsetclaim-update:2||1 */ [[Property:P31]]: [[Q2738432]]
+1024974166,2019-10-03T06:35:49Z,Epìdosis,Reverted edits by [[Special:Contributions/190.237.196.83|190.237.196.83]] ([[User talk:190.237.196.83|talk]]) to last revision by [[:User:Zyksnowy|Zyksnowy]]
+1024809089,2019-10-02T23:35:44Z,190.237.196.83,/* wbsetclaim-update:2||1 */ [[Property:P2048]]: 137 metre
+1020198844,2019-09-26T04:00:10Z,Zyksnowy,/* wbsetclaim-update:2||1|1 */ [[Property:P361]]: [[Q489772]]
+1008274414,2019-09-05T02:34:46Z,Egermundson,/* wbsetclaim-create:2||1 */ [[Property:P31]]: [[Q570116]]
+993767381,2019-08-08T09:42:20Z,Sridhar G,"/* wbsetdescription-add:1|ta */ கெய்ரோவில் உள்ள மூன்று பெரும் பிரமிட்டுகளில் பெரியதும்,  பழங்கால ஏழு உலக அதிசயங்களில் மிகப்பழமையானதும்"
+991521262,2019-08-03T20:10:40Z,TomT0m,/* wbsetclaim-create:2||1 */ [[Property:P31]]: [[Q66108498]]
+983892518,2019-07-23T08:38:49Z,Poulpy,/* wbremoveclaims-remove:1| */ [[Property:P757]]: 86-002
+983892480,2019-07-23T08:38:47Z,Poulpy,/* wbremoveclaims-remove:1| */ [[Property:P2614]]: [[Q23038972]]
+983892470,2019-07-23T08:38:46Z,Poulpy,/* wbremoveclaims-remove:1| */ [[Property:P2614]]: [[Q23038977]]
+983892453,2019-07-23T08:38:45Z,Poulpy,/* wbremoveclaims-remove:1| */ [[Property:P2614]]: [[Q23038980]]
+983892395,2019-07-23T08:38:40Z,Poulpy,/* wbremoveclaims-remove:1| */ [[Property:P1435]]: [[Q9259]]
+959812618,2019-06-11T04:40:15Z,Abductive,"/* wbsetclaim-update:2||1 */ [[Property:P625]]: 29°58'44.9""N, 31°8'3.3""E"
+948768657,2019-05-25T11:37:00Z,Sänger,/* undo:0||948764306|46.136.193.70 */ vandalism reverted
+948764306,2019-05-25T11:29:33Z,46.136.193.70,/* wbsetlabel-set:1|en */ Keops
+934164020,2019-05-05T19:46:42Z,Epìdosis,Reverted edits by [[Special:Contributions/2804:14D:5C9B:81D9:3DC2:9E7A:D3A7:515C|2804:14D:5C9B:81D9:3DC2:9E7A:D3A7:515C]] ([[User talk:2804:14D:5C9B:81D9:3DC2:9E7A:D3A7:515C|talk]]) to last revision by [[:User:PintochBot|PintochBot]]
+934160395,2019-05-05T19:41:44Z,2804:14D:5C9B:81D9:3DC2:9E7A:D3A7:515C,/* wbsetlabel-set:1|pt */ piramede de giza
+928829017,2019-04-30T10:03:16Z,PintochBot,/* wbeditentity-update:0| */ migrate reference from [[Property:P143]] to [[Property:P248]]
+912404203,2019-04-13T12:07:11Z,Jmh2o,/* undo:0||912399266|5.244.184.74 */ vandalism
+912399266,2019-04-13T12:02:47Z,5.244.184.74,/* wbsetclaim-update:2||1 */ [[Property:P17]]: [[Q703569]]
+901551079,2019-04-03T15:13:37Z,EmausBot,"/* wbsetsitelink-set:1|bnwiki */ খুফু'র পিরামিড, Updated: [[bn:গিজার মহা পিরামিড]] -> [[bn:খুফু'র পিরামিড]]"
+897129567,2019-03-29T23:11:51Z,Mike Peel,/* undo:0||897120623|191.109.246.198 */
+897120623,2019-03-29T23:00:07Z,191.109.246.198,/* wbsetlabel-set:1|en */ Great Pyramid
+894700559,2019-03-27T08:05:16Z,Epìdosis,/* wbsetdescription-set:1|es */ construcción de bloques de piedra del Antiguo Egipto
+894700545,2019-03-27T08:05:15Z,Epìdosis,/* wbsetdescription-set:1|en */ oldest and largest of the three pyramids in the Giza Necropolis and it is one of the seven wonders in the world
+894629692,2019-03-27T05:59:27Z,189.220.181.106,/* wbsetdescription-set:1|es */ Construcción de bloques de piedra del Antiguo Egipto.
+894629676,2019-03-27T05:59:25Z,189.220.181.106,/* wbsetdescription-set:1|en */ oldest and largest of the three pyramids in the Giza Necropolis and it is one of the seven wonders in the world.
+885226862,2019-03-17T01:37:05Z,Mike Novikoff,/* restore:0||878206818|Vnnen */ rvv
+885215237,2019-03-17T01:14:44Z,190.233.7.4,/* wbsetlabel-set:1|en */ Great Pyramid of pussy
+885215151,2019-03-17T01:14:35Z,190.233.7.4,/* wbsetlabel-set:1|en */ Great Pyramid of MOon
+878206818,2019-03-09T08:33:53Z,Vnnen,/* wbsetdescription-add:1|fi */ suurin ja tunnetuin Gizan pyramideista
+865482758,2019-02-23T20:49:16Z,Epìdosis,Reverted edits by [[Special:Contributions/107.137.254.105|107.137.254.105]] ([[User talk:107.137.254.105|talk]]) to last revision by [[:User:Gammcf|Gammcf]]
+865435233,2019-02-23T19:45:40Z,107.137.254.105,/* wbsetdescription-set:1|en */ oldest and largest of the three pyramids in the Giza Necropolis and it is one of the seven wonders in the world with a dinosaur
+846254549,2019-01-30T02:57:23Z,Gammcf,/* wbsetdescription-add:1|pt */ Pirâmide do Egito
+823032575,2018-12-30T14:23:51Z,Kly,/* wbsetdescription-add:1|zh-tw */ 古埃及建築
+823032563,2018-12-30T14:23:50Z,Kly,/* wbsetdescription-add:1|zh */ 古埃及建築
+823032550,2018-12-30T14:23:49Z,Kly,/* wbsetdescription-add:1|zh-hant */ 古埃及建築
+823032536,2018-12-30T14:23:47Z,Kly,/* wbsetlabel-add:1|zh-tw */ 古夫金字塔
+823032519,2018-12-30T14:23:47Z,Kly,/* wbsetlabel-add:1|zh-hant */ 古夫金字塔
+801338234,2018-11-29T02:12:09Z,HapHaxion,/* wbsetclaim-update:2||1|1 */ [[Property:P571]]: 2560 BCE
+790571270,2018-11-15T14:37:14Z,193.19.168.163,/* wbsetclaim-create:2||1 */ [[Property:P361]]: [[Q489772]]
+788356714,2018-11-13T00:46:11Z,Kacha Permata,/* wbsetlabel-set:1|en */ Great Pyramid of Giza
+785924827,2018-11-09T21:31:43Z,MsynBot,/* wbeditentity-update:0| */ update reference: move qualifier from [[Property:P143]] to [[Property:P248]] and add [[Property:P214]] #msynbotTask2
+784462842,2018-11-08T02:45:41Z,Kacha Permata,/* clientsitelink-update:0|mswiki|mswiki:Piramid Agung Kufu|mswiki:Piramid Agung Giza */
+783368377,2018-11-06T17:51:23Z,67.131.21.92,/* wbsetlabel-set:1|en */ fake
+776819011,2018-10-29T20:01:01Z,Nvrandow,"/* wbcreateclaim-create:1| */ [[Property:P242]]: Cheops-Pyramid.svg, #quickstatements; #temporary_batch_1540829365158"
+776818985,2018-10-29T20:00:58Z,Nvrandow,"/* wbremoveclaims-remove:1| */ [[Property:P242]]: Cheops-Pyramide.png, #quickstatements; #temporary_batch_1540829365158"
+767658080,2018-10-19T12:19:02Z,Jmh2o,/* undo:0||767650397|47.61.6.68 */ vandalism
+767650397,2018-10-19T12:08:38Z,47.61.6.68,/* wbsetclaim-update:2||1 */ [[Property:P2048]]: 10.000 metre
+748694732,2018-09-19T05:17:21Z,Bovlb,Reverted edits by [[Special:Contributions/2800:A4:103A:D000:A491:9150:65F:DB7C|2800:A4:103A:D000:A491:9150:65F:DB7C]] ([[User talk:2800:A4:103A:D000:A491:9150:65F:DB7C|talk]]) to last revision by [[:User:Arch2all|Arch2all]]
+748693841,2018-09-19T05:15:06Z,2800:A4:103A:D000:A491:9150:65F:DB7C,/* wbsetlabel-set:1|en */ Great Pyramid of Giza ( central ) misterio.
+748692071,2018-09-19T05:10:47Z,2800:A4:103A:D000:A491:9150:65F:DB7C,/* wbsetlabel-set:1|en */ Great Pyramid of Giza (sentral electrica)
+718661087,2018-07-31T09:28:53Z,Arch2all,"/* wbsetreference-add:2| */ [[Property:P131]]: [[Q81788]], Add archINFORM reference"
+718205304,2018-07-30T11:20:21Z,Arch2all,"/* wbsetreference-add:2| */ [[Property:P17]]: [[Q79]], Add archINFORM reference"
+714398291,2018-07-22T23:56:07Z,G V N Rupa,/* wbsetdescription-set:1|en */ oldest and largest of the three pyramids in the Giza Necropolis and it is one of the seven wonders in the world
+705679378,2018-07-03T13:16:52Z,PintochBot,"/* wbsetclaim-create:2||1 */ [[Property:P5383]]: 11667, import ArchINFORM project ids ([[:toollabs:editgroups/b/OR/a4e6b68|details]])"
+705389546,2018-07-02T11:36:27Z,JhealdBatch,"/* wbcreateclaim-create:1| */ [[Property:P910]]: [[Q55330146]], #quickstatements; #temporary_batch_1530529123329"
+705347517,2018-07-02T08:08:58Z,Nilesh shukla,/* wbsetaliases-add:1|hi */ खुफू का पिरामिड
+705347433,2018-07-02T08:08:36Z,Nilesh shukla,/* wbsetlabel-set:1|hi */ गीजा का महान पिरामिड
+704485740,2018-06-30T07:59:04Z,Amadalvarez,/* wbsetclaim-create:2||1 */ [[Property:P2048]]: 146.6 metre
+704485378,2018-06-30T07:58:09Z,Amadalvarez,/* wbsetclaim-create:2||1 */ [[Property:P2048]]: 138.8 metre
+704007019,2018-06-29T06:17:42Z,Magnus Manske,"/* wbcreateclaim-create:1| */ [[Property:P1417]]: place/Great-Pyramid, #mix'n'match-mobile-game"
+644217810,2018-03-06T00:16:53Z,Alotrootropico,/* wbsetclaim-create:2||1 */ [[Property:P495]]: [[Q11768]]
+642321905,2018-03-02T16:13:56Z,Szczureq,/* wbsetdescription-add:1|pl */ piramida w Egipcie
+636287953,2018-02-22T07:48:19Z,Lee,/* wbmergeitems-from:0||Q31800215 */
+634004740,2018-02-19T15:31:45Z,Pasleim,"Protected ""[[Q37200]]"": Excessive vandalism ([Edit=Allow only autoconfirmed users] (expires 15:31, 19 August 2018 (UTC)))"
+634002090,2018-02-19T15:25:20Z,Dexbot,"Bot: Auto-reverting based on [[WD:ORES]] 0.988,71.255.150.241,0.3.1"
+633999563,2018-02-19T15:19:38Z,71.255.150.241,/* wbsetclaim-update:2||1 */ [[Property:P17]]: [[Q27941363]]
+632993817,2018-02-18T10:04:33Z,Dexbot,"Bot: Auto-reverting based on [[WD:ORES]] 0.988,82.34.2.134,0.3.1"
+632992069,2018-02-18T10:01:41Z,82.34.2.134,/* wbsetclaim-update:2||1 */ [[Property:P84]]: [[Q1166]]
+632990041,2018-02-18T09:58:23Z,Dexbot,"Bot: Auto-reverting based on [[WD:ORES]] 0.988,82.34.2.134,0.3.1"
+632988837,2018-02-18T09:56:30Z,82.34.2.134,/* wbsetclaim-update:2||1 */ [[Property:P17]]: [[Q7727]]
+631081201,2018-02-14T12:14:07Z,M.XIII,/* wbmergeitems-from:0||Q31769103 */
+630803068,2018-02-13T14:15:13Z,Pasleim,Reverted edits by [[Special:Contributions/85.192.71.68|85.192.71.68]] ([[User talk:85.192.71.68|talk]]) to last revision by [[User:INS Pirat|INS Pirat]]
+630783211,2018-02-13T13:12:41Z,85.192.71.68,"/* wbsetaliases-update:2|en */ Pyramid of Cheops, Pyramid of Khufu"
+626897095,2018-02-05T04:23:38Z,INS Pirat,"/* wbcreateclaim-create:1| */ [[Property:P2924]]: 1904713, Matched to [[:toollabs:mix-n-match/#/entry/36182400|ВЕЛИКАЯ ПИРАМИДА (#36182400)]] #mix'n'match"
+626120903,2018-02-03T18:38:19Z,Pasleim,Reverted edits by [[Special:Contributions/94.201.23.194|94.201.23.194]] ([[User talk:94.201.23.194|talk]]) to last revision by [[User:Pasleim|Pasleim]]
+626038307,2018-02-03T15:41:11Z,94.201.23.194,/* wbsetdescription-set:1|en */ eats pen
+624497351,2018-01-29T14:15:45Z,Pasleim,Reverted edits by [[Special:Contributions/80.35.249.42|80.35.249.42]] ([[User talk:80.35.249.42|talk]]) to last revision by [[User:88.16.13.12|88.16.13.12]]
+624496044,2018-01-29T14:12:36Z,80.35.249.42,/* wbsetdescription-set:1|en */ pesaba un cojon y medio
+622969412,2018-01-24T13:12:20Z,88.16.13.12,"/* wbsetclaim-update:2||1 */ [[Property:P625]]: 29°58'47""N, 31°8'4""E"
+622844092,2018-01-23T19:41:40Z,Dexbot,"Bot: Auto-reverting based on [[WD:ORES]] 0.988,72.53.138.254,0.3.1"
+622843707,2018-01-23T19:39:32Z,72.53.138.254,"/* wbsetclaim-update:2||1 */ [[Property:P2044]]: 9,000 metre"
+622843645,2018-01-23T19:39:13Z,72.53.138.254,/* wbsetclaim-update:2||1|2 */ [[Property:P1435]]: [[Q9259]]
+619073441,2018-01-12T02:21:15Z,Torquatus,/* wbsetclaim-create:2||1 */ [[Property:P1584]]: 704360201
+618415180,2018-01-10T08:32:48Z,SalviBot,/* wbeditentity-update:0| */ Changed Catalan label to lower case
+616592228,2018-01-04T18:09:19Z,Oriciu,/* wbsetclaim-update:2||1 */ [[Property:P1419]]: [[Q3358290]]
+616584098,2018-01-04T17:36:57Z,Oriciu,"/* wbsetaliases-add:4|ast */ Gran Pirámide de Gizeh, Gran Piramide de Keops, Pirámide de Khufu, Piramide de Keops"
+616584095,2018-01-04T17:36:56Z,Oriciu,/* wbsetdescription-add:1|ast */ la pirámide más antigua y mayor de la Necrópolis de Guiza
+616584091,2018-01-04T17:36:55Z,Oriciu,/* wbsetlabel-add:1|ast */ Gran pirámide de Guiza
+615366788,2017-12-31T07:50:19Z,EmausBot,/* wbeditentity-update:0| */ Added: [[ast:Gran Pirámide de Guiza]]
+610510529,2017-12-18T04:20:45Z,Dexbot,"Bot: Auto-reverting based on [[WD:ORES]] 0.987,177.247.116.110,0.3.1"
+610510059,2017-12-18T04:19:07Z,177.247.116.110,/* wbsetlabel-set:1|en */ Great Pyramid of Giz
+609978002,2017-12-16T19:37:18Z,PLbot,/* wbeditentity-update:0| */ move source [[Property:P854]] -> [[Property:P4656]]
+607536514,2017-12-12T08:55:29Z,Pasleim,Reverted edits by [[Special:Contributions/85.192.70.129|85.192.70.129]] ([[User talk:85.192.70.129|talk]]) to last revision by [[User:Epìdosis|Epìdosis]]
+607526519,2017-12-12T08:24:53Z,85.192.70.129,"/* wbsetaliases-update:24|es */ Gran pirámide de Gizeh, Gran Piramide de Keops, Piramide de Giza, La Gran Pirámide de Giza, Pirámide de Guiza, Pirámide de Khufu, Gran piramide de Gizeh, Pirámide de Gizeh, Piramide de Jufu, Gran Piramide de Gu..."
+607526515,2017-12-12T08:24:53Z,85.192.70.129,/* wbsetlabel-set:1|es */ Gran pirámide de Guize
+606473165,2017-12-09T20:22:39Z,Epìdosis,Reverted edits by [[Special:Contributions/41.42.238.212|41.42.238.212]] ([[User talk:41.42.238.212|talk]]) to last revision by [[User:Manu1400|Manu1400]]
+606471244,2017-12-09T20:15:02Z,41.42.238.212,/* wbsetclaim-update:2||1 */ [[Property:P131]]: [[Q4166076]]
+606470896,2017-12-09T20:12:34Z,Manu1400,/* wbsetclaim-create:2||1 */ [[Property:P18]]: Kheops-Pyramid.jpg
+600035104,2017-11-28T15:38:30Z,Sänger,/* wbremoveclaims-remove:1| */ [[Property:P361]]: [[Q489772]]
+597988808,2017-11-24T13:21:56Z,Sänger,/* wbsetclaim-create:2||1 */ [[Property:P361]]: [[Q12508]]
+595086957,2017-11-17T05:50:42Z,99of9,/* wbremoveclaims-remove:1| */ [[Property:P149]]: [[Q12516]]
+595086939,2017-11-17T05:50:17Z,99of9,"/* wbcreateclaim-create:1| */ [[Property:P149]]: [[Q12516]], Added via [[Wikidata:Primary sources tool]]"
+595086914,2017-11-17T05:50:08Z,99of9,"/* wbcreateclaim-create:1| */ [[Property:P149]]: [[Q842352]], Added via [[Wikidata:Primary sources tool]]"
+591719593,2017-11-10T17:00:17Z,AssassinsCreed,/* wbsetsitelink-add:1|itwikiquote */ Piramide di Cheope
+591555605,2017-11-10T06:29:24Z,Pasleim,/* wbremoveclaims-remove:1| */ [[Property:P279]]: [[Q42879824]]
+591501711,2017-11-09T23:50:45Z,208.102.64.140,/* wbsetclaim-update:2||1 */ [[Property:P1419]]: [[Q17278]]
+591179455,2017-11-09T08:26:09Z,Fractaler,/* wbsetclaim-create:2||1 */ [[Property:P279]]: [[Q42879824]]
+591010922,2017-11-09T00:48:30Z,Kam Solusar,/* restore:0||590579578|YMS */
+590813214,2017-11-08T16:43:43Z,Ryanbreaker,/* undo:0||590779459|50.206.157.34 */
+590813072,2017-11-08T16:43:24Z,Ryanbreaker,/* undo:0||590812997|Ryanbreaker */
+590812997,2017-11-08T16:43:12Z,Ryanbreaker,/* undo:0||590779746|50.206.157.34 */
+590811929,2017-11-08T16:40:28Z,Ryanbreaker,/* undo:0||590800751|50.206.152.146 */
+590811863,2017-11-08T16:40:18Z,Ryanbreaker,/* undo:0||590800766|50.206.152.146 */
+590811725,2017-11-08T16:39:55Z,Ryanbreaker,/* undo:0||590800783|50.206.152.146 */
+590800966,2017-11-08T16:10:46Z,50.206.152.146,/* wbsetclaim-update:2||1 */ [[Property:P361]]: [[Q180664]]
+590800783,2017-11-08T16:10:12Z,50.206.152.146,/* wbsetclaim-update:2||1 */ [[Property:P17]]: [[Q1297]]
+590800766,2017-11-08T16:10:08Z,50.206.152.146,/* wbsetclaim-update:2||1 */ [[Property:P131]]: [[Q34705089]]
+590800751,2017-11-08T16:10:06Z,50.206.152.146,/* wbsetclaim-update:2||1 */ [[Property:P706]]: [[Q1052807]]
+590779746,2017-11-08T15:00:32Z,50.206.157.34,/* wbsetlabel-set:1|en */ The Great Pyramid of Giza
+590779462,2017-11-08T14:59:28Z,50.206.157.34,"/* wbsetaliases-update:24|es */ Gran pirámide de Gizeh, Pirámide de Jufu, Gran Piramide de Keops, Piramide de Giza, La Gran Pirámide de Giza, Pirámide de Guiza, Pirámide de Khufu, Gran piramide de Gizeh, Pirámide de Gizeh, Piramide de Jufu,..."
+590779459,2017-11-08T14:59:27Z,50.206.157.34,/* wbsetdescription-set:1|en */ Hi
+590779455,2017-11-08T14:59:26Z,50.206.157.34,/* wbsetlabel-set:1|en */ BOYS HI
+590579578,2017-11-08T06:14:29Z,YMS,/* restore:0||590257373|YMS */
+590539646,2017-11-08T04:14:53Z,2A02:C7D:125E:9D00:7454:41EB:5939:6725,/* wbremoveclaims-remove:1| */ [[Property:P131]]: [[Q2275564]]
+590298604,2017-11-07T18:42:06Z,150.176.138.124,/* wbsetclaim-update:2||1 */ [[Property:P131]]: [[Q2275564]]
+590257373,2017-11-07T16:54:22Z,YMS,Reverted edits by [[Special:Contributions/80.189.72.156|80.189.72.156]] ([[User talk:80.189.72.156|talk]]) to last revision by [[User:Narek75|Narek75]]
+590241140,2017-11-07T16:01:19Z,80.189.72.156,"/* wbsetlabeldescriptionaliases:3|en */ Moob, Moob, moob"
+588245957,2017-11-03T11:46:18Z,Narek75,/* wbremoveclaims-remove:1| */ [[Property:P18]]: Tuolumne Meadows - Pywiack Dome - belay near sumit.JPG
+588234030,2017-11-03T11:18:02Z,Frahbil,"/* wbsetdescription-add:1|sv */ största och äldsta pyramiden på Gizaplatån utanför Kairo, Egypten"
+585224481,2017-10-28T09:00:50Z,Batyrbek.kz,/* clientsitelink-update:0|kkwiki|kkwiki:Хеопс пирамидасы|kkwiki:Хеопс */
+584537124,2017-10-26T16:56:19Z,YMS,Reverted edits by [[Special:Contributions/74.95.3.65|74.95.3.65]] ([[User talk:74.95.3.65|talk]]) to last revision by [[User:Epìdosis|Epìdosis]]
+584532983,2017-10-26T16:40:28Z,74.95.3.65,/* wbsetclaim-update:2||1 */ [[Property:P935]]: PYRAMIDS ARE COOOL
+584532804,2017-10-26T16:39:44Z,74.95.3.65,/* wbremoveclaims-remove:1| */ [[Property:P1419]]: [[Q17370383]]
+583867052,2017-10-25T07:43:35Z,Epìdosis,Reverted edits by [[Special:Contributions/186.57.16.144|186.57.16.144]] ([[User talk:186.57.16.144|talk]]) to last revision by [[User:104.158.56.117|104.158.56.117]]
+583746045,2017-10-25T00:22:05Z,186.57.16.144,/* wbsetlabel-remove:1|en */ Great Pyramid of Giza
+581979165,2017-10-21T02:38:26Z,104.158.56.117,/* wbsetclaim-update:2||1 */ [[Property:P17]]: [[Q79]]
+581743490,2017-10-20T15:27:57Z,66.85.123.194,/* wbsetclaim-update:2||1 */ [[Property:P17]]: [[Q3572890]]
+580413002,2017-10-18T12:32:03Z,Epìdosis,Reverted edits by [[Special:Contributions/64.141.49.5|64.141.49.5]] ([[User talk:64.141.49.5|talk]]) to last revision by [[User:14.141.249.146|14.141.249.146]]
+579633301,2017-10-17T14:43:04Z,64.141.49.5,/* wbsetclaim-update:2||1 */ [[Property:P1435]]: [[Q35339]]
+566912872,2017-09-27T07:38:57Z,14.141.249.146,/* wbsetclaim-update:2||1 */ [[Property:P18]]: Tuolumne Meadows - Pywiack Dome - belay near sumit.JPG
+562860044,2017-09-21T00:05:54Z,Dexbot,"Bot: Auto-reverting based on [[WD:ORES]] 0.988,189.202.33.185,0.3.1"
+562858279,2017-09-21T00:02:14Z,189.202.33.185,"/* wbsetlabeldescriptionaliases:3|en */ Great Pyramid of Gizahhhj, oldest and largest of the three pyrahhhjhmids in the Giza Necropolis, Pyramid of Cheops, Pyramid of Khuyhhhfu"
+561534936,2017-09-18T17:13:48Z,Epìdosis,Reverted edits by [[Special:Contributions/116.68.123.216|116.68.123.216]] ([[User talk:116.68.123.216|talk]]) to last revision by [[User:Meno25|Meno25]]
+561524315,2017-09-18T16:41:15Z,116.68.123.216,/* wbremoveclaims-remove:1| */ [[Property:P84]]: [[Q59087]]
+561524160,2017-09-18T16:40:48Z,116.68.123.216,/* wbremoveclaims-remove:1| */ [[Property:P706]]: [[Q13217298]]
+555388985,2017-09-10T07:13:28Z,Meno25,/* wbsetaliases-remove:1|ar */ قفل مدخل الهرم
+551773022,2017-09-04T18:44:08Z,YMS,/* wbeditentity-update:0| */ description ([fr]: monument construit par les Égyptiens de l'Antiquité); [[User:YMS/LC|LC.js]]
+551302450,2017-09-03T20:48:33Z,YMS,Reverted edits by [[Special:Contributions/190.30.174.124|190.30.174.124]] ([[User talk:190.30.174.124|talk]]) to last revision by [[User:YMS|YMS]]
+551246764,2017-09-03T18:07:34Z,190.30.174.124,/* wbsetlabel-set:1|en */ Great Pyramid of keops
+549478292,2017-08-31T05:31:32Z,YMS,Reverted edits by [[Special:Contributions/202.59.75.5|202.59.75.5]] ([[User talk:202.59.75.5|talk]]) to last revision by [[User:Fetfet14|Fetfet14]]
+549458988,2017-08-31T03:52:43Z,202.59.75.5,/* wbsetclaim-update:2||1 */ [[Property:P17]]: [[Q843]]
+549458887,2017-08-31T03:52:08Z,202.59.75.5,/* wbsetclaim-update:2||1 */ [[Property:P571]]: 2017
+549006206,2017-08-30T01:22:07Z,Fetfet14,/* wbsetclaim-update:2||1 */ [[Property:P84]]: [[Q59087]]
+548614174,2017-08-29T11:03:28Z,1.144.97.78,/* wbsetclaim-update:2||1 */ [[Property:P84]]: [[Q12154]]
+538578171,2017-08-15T16:04:14Z,Manu bsas,/* wbsetdescription-set:1|es */ Construcción de bloques de piedra del Antiguo Egipto
+532974653,2017-08-06T15:04:37Z,89.69.223.40,/* wbsetclaim-create:2||1 */ [[Property:P455]]: 103184
+522686453,2017-07-17T16:52:54Z,MathKnight-at-TAU,"/* wbsetdescription-add:1|he */ אחד משבעת פלאי תבל, מבנה עתיק במצרים"
+515185850,2017-07-07T13:58:52Z,Emijrpbot,"/* wbeditentity-update:0| */ BOT - Adding 2 aliases (es): Piramide de Gizeh, Piramide de Guiza"
+513698579,2017-07-05T08:01:47Z,Mr.Ibrahembot,/* wbeditentity-update:0| */ Bot: Add claims P2044.
+513292593,2017-07-04T19:27:32Z,Epìdosis,Reverted edits by [[Special:Contributions/181.175.75.247|181.175.75.247]] ([[User talk:181.175.75.247|talk]]) to last revision by [[User:Epìdosis|Epìdosis]]
+513259873,2017-07-04T18:35:34Z,181.175.75.247,"/* wbsetdescription-set:1|es */ la más antigua de las Siete maravillas del mundo en el Egipcio, que fue construida por los extraterrestres en la antigüedad."
+499582793,2017-06-11T20:19:08Z,Epìdosis,Reverted edits by [[Special:Contributions/132.184.66.188|132.184.66.188]] ([[User talk:132.184.66.188|talk]]) to last revision by [[User:Danrok|Danrok]]
+499531402,2017-06-11T18:21:58Z,132.184.66.188,/* wbsetclaim-update:2||1 */ [[Property:P1305]]: 19079
+485347994,2017-05-13T09:57:12Z,Danrok,/* wbeditentity-update:0| */ Update of labels.
+484623615,2017-05-11T22:51:01Z,Discanto,"/* wbsetaliases-set:3|it */ Grande Piramide, piramide  di Khufu, grande piramide di Giza"
+484623609,2017-05-11T22:51:00Z,Discanto,/* wbsetlabel-set:1|it */ piramide di Cheope
+479653752,2017-04-28T19:18:34Z,Epìdosis,Reverted edits by [[Special:Contributions/200.55.223.66|200.55.223.66]] ([[User talk:200.55.223.66|talk]]) to last revision by [[User:Ljuba brank|Ljuba brank]]
+479646836,2017-04-28T18:24:12Z,200.55.223.66,/* wbsetlabel-set:1|es */ Gran pirámide de Los Choros Del B
+478609378,2017-04-25T09:11:21Z,Ljuba24b,/* wbsetsitelink-add:1|slwiki */ Keopsova piramida
+471848512,2017-04-02T06:10:38Z,Omert33,/* wbsetclaim-create:2||1 */ [[Property:P3749]]: 9298859280971408420
+471041133,2017-03-29T12:33:16Z,RuASG,/* wbsetdescription-add:1|ru */ старейшая и самая крупная из трех пирамид в Некрополе Гизы
+471040980,2017-03-29T12:32:20Z,RuASG,/* undo:0||470914527|83.219.136.26 */
+470914527,2017-03-28T19:21:32Z,83.219.136.26,/* wbsetdescription-add:1|ru */ пирамида в которой пахараняли хеопса и самая популярная пирамида в Египте
+467067089,2017-03-16T23:12:09Z,Mahir256,/* wbeditentity-update:0| */ [[MediaWiki_talk:Gadget-labelLister.js|labelLister]] [bn] del (Great Pyramid @ Giza|Upuaut-2|The Great Pyramid|Great Pyramid of Kafu|Pyramid of giza|The Great Pyramid of Giza|Cheop's pyramid|Pyramid of Cheops|Great Pyr...
+465462573,2017-03-12T17:00:06Z,Amitbjadhav,/* wbsetclaim-update:2||1|1 */ [[Property:P3417]]: Great-Pyramid-of-Giza
+465462457,2017-03-12T16:59:23Z,Amitbjadhav,/* wbremoveclaims-remove:1| */ [[Property:P3417]]: Great-Pyramid
+464473705,2017-03-10T10:57:30Z,Mitsubayashi13,/* wbsetclaim-update:2||1 */ [[Property:P131]]: [[Q81788]]
+461316626,2017-03-04T06:28:19Z,QazîKurd,/* wbsetaliases-add:1|ku */ Pîramîda Mezin
+461316613,2017-03-04T06:28:18Z,QazîKurd,/* wbsetlabel-add:1|ku */ Pîramîda Keops
+461301312,2017-03-04T06:10:59Z,QazîKurd,/* wbsetsitelink-add:1|kuwiki */ Pîramîda Keops
+459009824,2017-03-01T23:00:44Z,Pigsonthewing-bot,"/* wbsetreference-add:2| */ [[Property:P3417]]: Great-Pyramid, #quickstatements"
+459009815,2017-03-01T23:00:43Z,Pigsonthewing-bot,"/* wbcreateclaim-create:1| */ [[Property:P3417]]: Great-Pyramid, #quickstatements"
+458778591,2017-03-01T15:57:28Z,Epìdosis,/* wbsetdescription-set:1|es */ la más antigua de las Siete maravillas del mundo en el Egipcio
+458747149,2017-03-01T14:57:27Z,201.217.39.69,/* wbsetdescription-set:1|es */ La más antigua de las Siete maravillas del mundo en el egipcio
+446966308,2017-02-12T14:20:04Z,Krishna Kumar Deo (Munna),/* wbsetsitelink-add:1|maiwiki */ गीजा कऽ महान पिरामिड
+433267149,2017-01-20T07:08:15Z,Epìdosis,Reverted edits by [[Special:Contributions/173.76.199.132|173.76.199.132]] ([[User talk:173.76.199.132|talk]]) to last revision by [[User:FalKoopa|FalKoopa]]
+433094324,2017-01-19T21:18:23Z,173.76.199.132,/* wbsetclaim-update:2||1 */ [[Property:P269]]: 027326qer3uqrhoiuhfdnsi
+433094306,2017-01-19T21:18:12Z,173.76.199.132,/* wbsetclaim-update:2||1 */ [[Property:P1566]]: 3edbkhbejfhbvujghvef
+424273814,2017-01-04T21:01:20Z,FalKoopa,/* wbsetsitelink-remove:1|hiwiki */ मिस्र के पिरामिड
+421386077,2016-12-27T22:23:16Z,Pigsonthewing,"/* wbcreateclaim-create:1| */ [[Property:P3417]]: Great-Pyramid-of-Giza, #mix'n'match"
+411194937,2016-11-25T13:34:48Z,NatigKrolik,Reverted edits by [[Special:Contributions/80.15.94.240|80.15.94.240]] ([[User talk:80.15.94.240|talk]]) to last revision by [[User:Epìdosis|Epìdosis]]
+411189306,2016-11-25T13:20:34Z,80.15.94.240,/* wbsetlabel-set:1|en */ Great Pyramid of Gizd
+411084393,2016-11-25T06:44:13Z,Epìdosis,Reverted edits by [[Special:Contributions/190.152.210.116|190.152.210.116]] ([[User talk:190.152.210.116|talk]]) to last revision by [[User:Papilio305|Papilio305]]
+411053570,2016-11-25T03:10:11Z,190.152.210.116,/* wbsetlabel-set:1|en */ Great Pyramid of Giza 120
+407855477,2016-11-15T15:18:03Z,Papilio305,/* wbsetsitelink-add:1|zh_yuewiki */ 胡夫金字塔
+399989846,2016-11-02T13:29:17Z,85.192.94.25,/* wbsetdescription-set:1|es */ La más antigua de las Siete maravillas del mundo en el ecipcio
+399989767,2016-11-02T13:28:59Z,85.192.94.25,/* wbsetdescription-set:1|es */ La más antigua de las Siete maravillas del mundo en el ecipivio
+388049777,2016-10-13T16:30:30Z,YMS,Reverted edits by [[Special:Contributions/148.3.118.219|148.3.118.219]] ([[User talk:148.3.118.219|talk]]) to last revision by [[User:Hugo.arg|Hugo.arg]]
+388039621,2016-10-13T16:06:11Z,148.3.118.219,/* wbsetlabel-set:1|en */ old giza
+388005068,2016-10-13T14:54:04Z,Hugo.arg,/* wbsetsitelink-add:1|olowiki */ Kheopsan piramidu
+385981076,2016-10-10T07:46:19Z,A-lú-mih,/* wbsetsitelink-add:1|zh_min_nanwiki */ Giza ê Tōa Kim-jī-thah
+376435592,2016-09-14T17:47:10Z,JC Work,/* undo:0||368906002|200.73.232.183 */ incorrect assertion
+373776125,2016-09-05T21:11:22Z,181.201.100.155,/* wbsetclaim-update:2||1 */ [[Property:P131]]: [[Q1082434]]
+368906002,2016-08-23T18:20:11Z,200.73.232.183,/* wbsetlabel-set:1|en */ santa maria
+361731667,2016-08-04T19:11:45Z,Amadalvarez,/* wbsetclaim-create:2||1 */ [[Property:P757]]: 86-002
+361731370,2016-08-04T19:10:57Z,Amadalvarez,/* wbsetclaim-create:2||1 */ [[Property:P2614]]: [[Q23038980]]
+361731319,2016-08-04T19:10:47Z,Amadalvarez,/* wbsetclaim-create:2||1 */ [[Property:P2614]]: [[Q23038977]]
+361731160,2016-08-04T19:10:23Z,Amadalvarez,/* wbsetclaim-create:2||1 */ [[Property:P2614]]: [[Q23038972]]
+361731074,2016-08-04T19:10:10Z,Amadalvarez,/* wbsetclaim-create:2||1 */ [[Property:P1435]]: [[Q9259]]
+358055473,2016-07-18T10:31:31Z,YMS,Reverted edits by [[Special:Contributions/200.74.149.170|200.74.149.170]] ([[User talk:200.74.149.170|talk]]) to last revision by [[User:Chairego apc|Chairego apc]]
+358007140,2016-07-17T21:56:04Z,200.74.149.170,/* wbsetclaim-update:2||1 */ [[Property:P17]]: [[Q1781]]
+358007064,2016-07-17T21:55:34Z,200.74.149.170,/* wbsetclaim-update:2||1 */ [[Property:P571]]: 25670s
+355932743,2016-07-09T12:25:09Z,Chairego apc,/* wbsetlabel-set:1|gl */ Gran Pirámide de Gizeh
+340087659,2016-05-25T03:43:38Z,Ajraddatz,Reverted edits by [[Special:Contributions/189.248.10.198|189.248.10.198]] ([[User talk:189.248.10.198|talk]]) to last revision by [[User:187.190.11.81|187.190.11.81]]
+340087398,2016-05-25T03:39:36Z,189.248.10.198,/* wbsetaliases-set:1|en */ sexo oral
+337399500,2016-05-16T22:07:05Z,187.190.11.81,/* wbsetdescription-set:1|es */ La más antigua de las Siete maravillas del mundo
+335767239,2016-05-14T18:30:07Z,BotNinja,"/* wbsetaliases-remove:1|el */ Πυραμίδα του Χέοπα, duplicated"
+335302589,2016-05-13T01:14:00Z,Haplology,Reverted edits by [[Special:Contributions/190.47.56.212|190.47.56.212]] ([[User talk:190.47.56.212|talk]]) to last revision by [[User:EmausBot|EmausBot]]
+335298498,2016-05-12T23:53:24Z,190.47.56.212,/* wbsetlabel-set:1|en */ Tu mama en tanga
+325735066,2016-04-27T08:15:08Z,EmausBot,/* wbeditentity-update:0| */ Add label(s): ceb
+325733393,2016-04-27T08:02:41Z,EmausBot,/* wbeditentity-update:0| */ Added: [[ceb:The Great Pyramid at Giza]]
+324515510,2016-04-22T22:39:57Z,YMS,/* wbeditentity-update:0| */ description ([de]: Pyramide von Gizeh); [[User:YMS/LC|LC.js]]
+324468537,2016-04-22T18:50:34Z,YMS,Reverted edits by [[Special:Contributions/189.131.195.129|189.131.195.129]] ([[User talk:189.131.195.129|talk]]) to last revision by [[User:Avocato|Avocato]]
+324416897,2016-04-22T16:04:48Z,189.131.195.129,/* wbsetlabel-set:1|en */ Great Pyramid of Giza k chingue su madre el america
+319121354,2016-04-06T08:08:03Z,Avocato,/* wbeditentity-update:0| */ Update of labels.
+317519035,2016-03-31T16:10:23Z,47.62.147.174,/* wbsetdescription-set:1|es */ La más antigua de las Siete maravillas del mundo y la única que aún perdura
+317519001,2016-03-31T16:10:06Z,47.62.147.174,/* wbsetlabel-set:1|es */ Gran pirámide de Guiza
+316271238,2016-03-28T15:53:11Z,SeoMac,/* clientsitelink-update:0|gawiki|gawiki:Pirimid Mhór na Giza|gawiki:Pirimid Mhór Giza */
+316203042,2016-03-28T11:21:46Z,Chaco,/* wbsetsitelink-add:1|gawiki */ Pirimid Mhór na Giza
+304853396,2016-02-18T12:47:38Z,Estevoaei,/* clientsitelink-update:0|glwiki|glwiki:Gran Pirámide de Giza|glwiki:Gran Pirámide de Gizeh */
+304681434,2016-02-17T21:34:38Z,190.254.236.137,/* wbsetlabel-set:1|es */ piranidesca de guizante
+303382415,2016-02-13T09:28:00Z,Raamaturott,"/* wbsetsitelink-set-both:2|fiwiki */ Kheopsin pyramidi, [[Q17559452]]"
+300500619,2016-02-04T13:58:33Z,Altsprachenfreund,"/* wbsetsitelink-set-both:2|dewiki */ Cheops-Pyramide, [[Q17437796]]"
+289538373,2016-01-08T01:19:53Z,Lawrencetroup,/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q839954]]
+287873192,2016-01-01T23:24:30Z,2800:370:48:61D0:E54B:D32C:1D0F:3110,/* wbsetclaim-update:2||1 */ [[Property:P571]]: 2560 BCE
+282237431,2015-12-10T18:32:07Z,HakanIST,Undid revision 282236623 by [[Special:Contributions/150.104.38.71|150.104.38.71]] ([[User talk:150.104.38.71|talk]])
+282236623,2015-12-10T18:27:33Z,150.104.38.71,/* wbsetclaim-update:2||1 */ [[Property:P131]]: [[Q35339]]
+278267747,2015-12-01T16:57:22Z,Jheald,/* wbcreateclaim-create:1| */ [[Property:P935]]: Great Pyramid of Giza
+276575817,2015-11-26T00:33:19Z,Laddo,/* wbcreateclaim-create:1| */ [[Property:P1305]]: 19078
+258242562,2015-10-15T12:46:29Z,Widar of zolo,/* wbcreateclaim-create:1| */ [[Property:P454]]: 20000997
+232461433,2015-07-19T19:06:39Z,KasparBot,/* wbsetreference-add:2| */ [[Property:P244]]: sh85057002
+232461432,2015-07-19T19:06:38Z,KasparBot,/* wbcreateclaim-create:1| */ [[Property:P244]]: sh85057002
+225579848,2015-07-01T13:56:45Z,Orbwiki107,/* wbsetsitelink-add:1|plwikiquote */ Piramida Cheopsa
+221198243,2015-06-05T03:29:06Z,Ninjastrikers,/* wbsetsitelink-set:1|mywiki */ ဂိုင်ဇာမဟာပိရမစ်ကြီး
+221036112,2015-06-03T04:41:41Z,KasparBot,/* wbsetreference-add:2| */ [[Property:P268]]: 11939303h
+221036111,2015-06-03T04:41:41Z,KasparBot,/* wbcreateclaim-create:1| */ [[Property:P268]]: 11939303h
+221036110,2015-06-03T04:41:39Z,KasparBot,/* wbsetreference-add:2| */ [[Property:P269]]: 027326578
+221036109,2015-06-03T04:41:38Z,KasparBot,/* wbcreateclaim-create:1| */ [[Property:P269]]: 027326578
+214351091,2015-05-05T17:22:02Z,RobotMichiel1972,/* wbsetreference-add:2| */ [[Property:P84]]: [[Q59087]]
+214351088,2015-05-05T17:22:01Z,RobotMichiel1972,/* wbcreateclaim-create:1| */ [[Property:P84]]: [[Q59087]]
+206039922,2015-03-23T05:28:41Z,Dexbot,/* wbeditentity-update:0| */ Bot: setting proper label for tt
+204749215,2015-03-18T10:48:00Z,Kitap,/* wbsetsitelink-add:1|ttwiki */ Xeops piramidası
+195627885,2015-02-11T14:18:57Z,Gzen92,/* wbsetlabel-set:1|fr */ pyramide de Khéops
+195346952,2015-02-10T16:41:55Z,Vyom25,Undid revision 195339055 by [[Special:Contributions/2.136.78.111|2.136.78.111]] ([[User talk:2.136.78.111|talk]])
+195339055,2015-02-10T15:48:59Z,2.136.78.111,/* wbsetlabel-set:1|en */ Great Pyramid of Tu Puta Madre
+187519913,2015-01-12T11:59:11Z,85.192.83.25,/* wbsetlabel-set:1|ca */ irene
+168752274,2014-10-26T18:20:05Z,ValterVBot,/* wbeditentity-update:0| */ BOT:Add P1566 - see [[Wikidata:Bot_requests#Import_GeoNames_ID_.28P1566.29|Bot request]] at 25 October 2014
+163867006,2014-10-15T09:53:00Z,Dexbot,/* wbeditentity-update:0| */ Bot: setting proper label for en
+163111831,2014-10-11T19:06:39Z,108.28.112.160,/* wbsetlabel-remove:1|en */ Great Pyramid of Giza
+160579527,2014-09-29T21:32:45Z,Dexbot,/* wbsetaliases-remove:1|fa */ هرم بزرگ جيزه
+155229504,2014-09-02T05:47:25Z,Dexbot,"/* wbsetsitelink-set-both:2|nds_nlwiki */ Piramide van Kheops, [[Q17437796]]"
+151894227,2014-08-20T06:15:51Z,Dexbot,"/* wbsetsitelink-set-both:2|mswiki */ Piramid Agung Kufu, [[Q17437796]]"
+151884574,2014-08-20T05:02:37Z,Dexbot,"/* wbsetsitelink-set-both:2|huwiki */ Gízai nagy piramis, [[Q17437796]]"
+150274518,2014-08-10T14:05:34Z,Shisma,/* wbsetclaim-create:2||1 */ [[Property:P571]]: 2560 BCE
+150274069,2014-08-10T14:02:15Z,Shisma,/* wbsetclaim-create:2||1 */ [[Property:P706]]: [[Q13217298]]
+149776744,2014-08-06T09:04:09Z,Hoo Bot,/* wbsetsitelink-set:1|hiwiki */ मिस्र के पिरामिड
+146884084,2014-07-22T19:07:09Z,BurgertB,/* wbsetlabel-add:1|af */ Groot Piramide van Giza
+146884051,2014-07-22T19:07:00Z,BurgertB,/* wbsetsitelink-add:1|afwiki */ Groot Piramide van Giza
+146237718,2014-07-20T20:34:50Z,ValterVB,/* wbsetdescription-add:1|it */ la più antica e la più grande delle tre piramidi della necropoli di Giza
+145197635,2014-07-16T23:37:57Z,Danrok,/* wbsetdescription-set:1|en */ oldest and largest of the three pyramids in the Giza Necropolis
+145104918,2014-07-16T16:20:30Z,Zolo,/* wbsetclaim-update:2||1 */ [[Property:P31]]: [[Q3411290]]
+145104483,2014-07-16T16:18:28Z,Zolo,/* wbsetclaim-create:2||1 */ [[Property:P1419]]: [[Q17370383]]
+130926578,2014-05-18T22:04:29Z,**Romina**,/* wbsetdescription-add:1|es */ más antigua de las Siete maravillas del mundo y la única que aún perdura
+129964554,2014-05-16T19:21:24Z,AkkakkBot,/* wbeditentity-update:0| */ - set nap label to Piramide 'e Cheope (task 5)
+128777942,2014-05-13T00:36:55Z,AkkakkBot,/* wbeditentity-update:0| */ - remove redundant simple label (task 7)
+122698154,2014-04-25T16:28:19Z,Chelin,/* wbsetsitelink-add:1|napwiki */ Piramide 'e Cheope
+122594559,2014-04-25T05:53:14Z,Nirmal Dulal,/* wbsetsitelink-set:1|newiki */ गिजाको विशाल पिरामिड
+122008696,2014-04-22T16:29:28Z,Dexbot,"/* wbeditentity-update:0| */ Bot: setting proper label for tw,zea"
+118608001,2014-04-01T16:58:07Z,ElfjeTwaalfje,/* wbsetsitelink-add:1|zeawiki */ Piramide van Cheops
+117697810,2014-03-23T18:06:34Z,93.58.229.12,/* wbsetsitelink-add:1|twwiki */ Cheops Pyramid
+116642926,2014-03-17T03:50:52Z,Dexbot,"/* wbeditentity-update:0| */ Bot: setting proper label for dv,vep"
+112677793,2014-02-28T06:54:19Z,97.81.82.154,/* wbsetsitelink-add:1|dvwiki */ ޚޫފޫ ޕިރަމިޑް
+110550547,2014-02-19T12:21:37Z,Wolfymoza,/* wbsetlabel-set:1|el */Πυραμίδα του Χέοπα
+110550078,2014-02-19T12:18:34Z,Wolfymoza,/* wbsetsitelink-add:1|elwiki */Πυραμίδα του Χέοπα
+107478890,2014-02-03T12:54:20Z,Shubhamkanodia,/* clientsitelink-update:2|hiwiki|hiwiki:गीजा की महान पिरामिड|hiwiki:गीज़ा के महान पिरामिड */
+95987626,2013-12-24T13:44:42Z,Dexbot,/* wbremoveclaims-remove:1| */[[Property:P131]]: [[Q30832]]
+92192076,2013-12-08T21:34:01Z,Yiyi,/* wbsetclaim-create:1||1 */[[Property:P131]]: [[Q30832]]
+92191972,2013-12-08T21:33:07Z,Yiyi,"/* wbsetaliases-add:2|it */Piramide di Khufu, Grande Piramide di Giza"
+92191937,2013-12-08T21:32:49Z,Yiyi,/* wbsetclaim-create:1||1 */[[Property:P361]]: [[Q489772]]
+91711927,2013-12-06T03:52:26Z,Legobot,/* wbsetreference-add:2| */[[Property:P646]]: /m/036mk
+91711926,2013-12-06T03:52:25Z,Legobot,/* wbcreateclaim-create:1| */[[Property:P646]]: /m/036mk
+83820813,2013-11-04T22:21:03Z,KrBot,/* wbsetreference-add:2| */[[Property:P214]]: 247198851
+83820809,2013-11-04T22:21:02Z,KrBot,/* wbcreateclaim-create:1| */[[Property:P214]]: 247198851
+81532671,2013-10-26T04:34:28Z,DanmicholoBot,/* wbsetlabel-remove:1|no */since it equalled the [nb] label.
+81532660,2013-10-26T04:34:22Z,DanmicholoBot,"/* wbsetaliases-remove:4|no */Den store pyramide i Giza, Keopspyramiden, Kepospyramiden, Den store pyramiden i Giza"
+81532653,2013-10-26T04:34:16Z,DanmicholoBot,/* wbsetaliases-add:4|nb */adding aliases from [no] to [nb]
+81197704,2013-10-24T14:51:15Z,EmausBot,/* wbsetsitelink-set:1|tawiki */Updating link: [[ta:கிசாவின் பெரிய பிரமிடு]]
+78732520,2013-10-16T18:44:19Z,NowProperty,/* wbeditentity-update:0| */Add [[Property:P227]] from dewiki
+77873717,2013-10-14T14:18:50Z,Ottaedro,/* wbsetsitelink-add:1|commonswiki */Great Pyramid of Giza
+76010129,2013-10-09T15:35:53Z,Sebranik,/* wbsetsitelink-add:1|vepwiki */Heopsan piramid
+75885547,2013-10-09T07:12:24Z,RobotMichiel1972,/* wbsetdescription-add:1|nl */bouwwerk in Caïro
+74436874,2013-10-05T02:20:31Z,Emw,/* wbremoveclaims-remove:1| */[[Property:P107]]: [[Q618123]]
+69283586,2013-09-09T13:31:36Z,Littledogboy,Reverted edits by [[Special:Contributions/91.93.202.10|91.93.202.10]] ([[User talk:91.93.202.10|talk]]) to last revision by [[User:C messier|C messier]]
+69253985,2013-09-09T08:04:40Z,91.93.202.10,/* wbsetsitelink-remove:1|bewiki */Піраміда Хеопса
+69253977,2013-09-09T08:04:34Z,91.93.202.10,/* wbsetsitelink-remove:1|arwiki */الهرم الأكبر
+69253963,2013-09-09T08:04:27Z,91.93.202.10,/* wbsetsitelink-remove:1|azwiki */Xeops ehramı
+69253932,2013-09-09T08:04:06Z,91.93.202.10,/* wbsetsitelink-remove:1|trwiki */Keops Piramidi
+68603201,2013-09-05T21:24:14Z,C messier,/* wbsetsitelink-remove:1|elwiki */Πυραμίδες της Γκίζας
+68603018,2013-09-05T21:23:13Z,C messier,"/* wbsetaliases-set:2|el */Πυραμίδα του Χέοπα, Πυραμίδα του Χέοπος"
+68602968,2013-09-05T21:22:52Z,C messier,/* wbsetlabel-set:1|el */Μεγάλη πυραμίδα της Γκίζας
+61932361,2013-07-27T23:04:28Z,AudeBot,/* wbsetreference */
+61932359,2013-07-27T23:04:26Z,AudeBot,"/* wbcreateclaim-create:2| */ [[Property:P131]], [[Q30832]]"
+61918438,2013-07-27T19:13:30Z,Boulaur,"/* wbcreateclaim-create:2| */ [[Property:P242]], Cheops-Pyramide.png"
+61918433,2013-07-27T19:13:22Z,Boulaur,"/* wbcreateclaim-create:2| */ [[Property:P18]], Gizeh Cheops BW 1.jpg"
+61918378,2013-07-27T19:12:26Z,Boulaur,/* wbsetclaim-create:1||1 */ [[Property:P31]]: [[Q12516]]
+61918360,2013-07-27T19:12:03Z,Boulaur,"/* wbcreateclaim-create:2| */ [[Property:P17]], [[Q79]]"
+61918352,2013-07-27T19:11:55Z,Boulaur,"/* wbcreateclaim-create:2| */ [[Property:P107]], [[Q618123]]"
+58828582,2013-07-16T15:02:07Z,BetaBot,/* wbsetsitelink-set:1|tawiki */ கிசாவின் பெரிய பிரமிட்டு
+54035786,2013-07-03T09:24:43Z,182.18.208.2,/* wbsetlabel-set:1|tl */ pyramid of giza
+50818278,2013-06-15T13:03:35Z,KLBot2,/* wbsetreference */
+50818269,2013-06-15T13:03:34Z,KLBot2,/* wbcreateclaim-create:1| */ [[Property:P625]]
+33063526,2013-04-30T23:52:14Z,KLBot2,/* wbsetreference */
+33063516,2013-04-30T23:52:12Z,KLBot2,"/* wbcreateclaim-create:2| */ [[Property:P373]], Great Pyramid of Giza"
+11099349,2013-03-11T11:15:28Z,Rezabot,/* wbeditentity-update */ Bot: Update of labels.
+10674298,2013-03-10T10:27:58Z,89.182.42.44,"/* wbsetdescription-set:1|en */ A pyramid in Giza, Egypt. One of the  Seven Wonders of the Ancient World."
+10673949,2013-03-10T10:25:37Z,89.182.42.44,"/* wbsetaliases-add-remove:2|en */ Pyramid of Cheops, Pyramid of Khufu"
+10666122,2013-03-10T09:48:52Z,14.201.109.115,/* wbsetdescription-set:1|en */ The great kufu
+9887331,2013-03-07T01:05:58Z,Legobot,/* wbsetsitelink-set:1|minwiki */ Bot: Importing interwikis from nlwiki
+5104978,2013-01-25T23:43:41Z,Soulkeeper,/* wbsetlabel-set:1|nb */ Kheopspyramiden
+430457,2012-11-13T00:25:26Z,MerlIwBot,"/* wbsetentity */ Robot: Adding ""Didžioji Gizos piramidė"" - zh,jv,pl,eu,qu,bs,es,ta,oc,hu,ms,et,bn,sq,br,el,pnb,my,nl,sv,ar,pt,eo,is,ru,sr,tr,mk,fi,uk,pa,nn,gu,sco,ne,hr,az,kk,da,be,arz,he,fr,ko,yo,lv,it,li,gl,de,id,ml,ja,vi,simple,sh,hi,sk,mn,hy..."

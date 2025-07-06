@@ -1,0 +1,65 @@
+{
+  "entities": {
+    "Q4152": {
+      "pageid": 5072,
+      "ns": 0,
+      "title": "Q4152",
+      "lastrevid": 267242,
+      "modified": "2012-10-31T21:32:49Z",
+      "type": "item",
+      "id": "Q4152",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Schloss Neuschwanstein"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "Schloss bei F\u00fcssen in Bayern"
+        }
+      },
+      "aliases": {},
+      "claims": {},
+      "sitelinks": {
+        "barwiki": {
+          "site": "barwiki",
+          "title": "Schloss Neischwanstoa",
+          "badges": [],
+          "url": "https://bar.wikipedia.org/wiki/Schloss_Neischwanstoa"
+        },
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Schloss Neuschwanstein",
+          "badges": [],
+          "url": "https://de.wikipedia.org/wiki/Schloss_Neuschwanstein"
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Neuschwanstein Castle",
+          "badges": [],
+          "url": "https://en.wikipedia.org/wiki/Neuschwanstein_Castle"
+        },
+        "frwiki": {
+          "site": "frwiki",
+          "title": "Ch\u00e2teau de Neuschwanstein",
+          "badges": [],
+          "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Neuschwanstein"
+        },
+        "itwiki": {
+          "site": "itwiki",
+          "title": "Castello di Neuschwanstein",
+          "badges": [],
+          "url": "https://it.wikipedia.org/wiki/Castello_di_Neuschwanstein"
+        },
+        "nlwiki": {
+          "site": "nlwiki",
+          "title": "Slot Neuschwanstein",
+          "badges": [],
+          "url": "https://nl.wikipedia.org/wiki/Slot_Neuschwanstein"
+        }
+      }
+    }
+  }
+}

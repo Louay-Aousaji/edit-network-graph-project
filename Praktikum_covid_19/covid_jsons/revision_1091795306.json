@@ -1,0 +1,40 @@
+{
+  "entities": {
+    "Q81068910": {
+      "pageid": 80438732,
+      "ns": 0,
+      "title": "Q81068910",
+      "lastrevid": 1091795306,
+      "modified": "2020-01-05T15:59:38Z",
+      "type": "item",
+      "id": "Q81068910",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "2019-2020 China pneumonia outbreak"
+        },
+        "zh": {
+          "language": "zh",
+          "value": "2019\u5e74\u81f32020\u5e74\u6b66\u6f22\u80ba\u708e\u4e8b\u4ef6"
+        }
+      },
+      "descriptions": {},
+      "aliases": {},
+      "claims": {},
+      "sitelinks": {
+        "enwiki": {
+          "site": "enwiki",
+          "title": "2019-2020 China pneumonia outbreak",
+          "badges": [],
+          "url": "https://en.wikipedia.org/wiki/2019-2020_China_pneumonia_outbreak"
+        },
+        "zhwiki": {
+          "site": "zhwiki",
+          "title": "2019\u5e74\u81f32020\u5e74\u6b66\u6f22\u80ba\u708e\u4e8b\u4ef6",
+          "badges": [],
+          "url": "https://zh.wikipedia.org/wiki/2019%E5%B9%B4%E8%87%B32020%E5%B9%B4%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E%E4%BA%8B%E4%BB%B6"
+        }
+      }
+    }
+  }
+}

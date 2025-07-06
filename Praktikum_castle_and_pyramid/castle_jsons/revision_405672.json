@@ -1,0 +1,625 @@
+{
+  "entities": {
+    "Q4152": {
+      "pageid": 5072,
+      "ns": 0,
+      "title": "Q4152",
+      "lastrevid": 405672,
+      "modified": "2012-11-11T18:28:54Z",
+      "type": "item",
+      "id": "Q4152",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Schloss Neuschwanstein"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "Ch\u00e2teau de Neuschwanstein"
+        },
+        "en": {
+          "language": "en",
+          "value": "Neuschwanstein Castle"
+        },
+        "en-ca": {
+          "language": "en-ca",
+          "value": "Neuschwanstein Castle"
+        },
+        "en-gb": {
+          "language": "en-gb",
+          "value": "Neuschwanstein Castle"
+        },
+        "it": {
+          "language": "it",
+          "value": "Castello di Neuschwanstein"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "Slot Neuschwanstein"
+        },
+        "bar": {
+          "language": "bar",
+          "value": "Schloss Neischwanstoa"
+        },
+        "an": {
+          "language": "an",
+          "value": "Castiello de Neuschwanstein"
+        },
+        "ar": {
+          "language": "ar",
+          "value": "\u0642\u0635\u0631 \u0646\u0648\u064a\u0634\u0641\u0627\u0646\u0634\u062a\u0627\u064a\u0646"
+        },
+        "ast": {
+          "language": "ast",
+          "value": "Neuschwanstein"
+        },
+        "be": {
+          "language": "be",
+          "value": "\u041d\u043e\u0439\u0448\u0432\u0430\u043d\u0448\u0442\u0430\u0439\u043d"
+        },
+        "bg": {
+          "language": "bg",
+          "value": "\u041d\u043e\u0439\u0448\u0432\u0430\u043d\u0449\u0430\u0439\u043d"
+        },
+        "br": {
+          "language": "br",
+          "value": "Kastell Neuschwanstein"
+        },
+        "bs": {
+          "language": "bs",
+          "value": "Neuschwanstein"
+        },
+        "ca": {
+          "language": "ca",
+          "value": "Castell de Neuschwanstein"
+        },
+        "cs": {
+          "language": "cs",
+          "value": "Neuschwanstein"
+        },
+        "cy": {
+          "language": "cy",
+          "value": "Castell Neuschwanstein"
+        },
+        "da": {
+          "language": "da",
+          "value": "Neuschwanstein"
+        },
+        "eo": {
+          "language": "eo",
+          "value": "Neuschwanstein"
+        },
+        "es": {
+          "language": "es",
+          "value": "Neuschwanstein"
+        },
+        "et": {
+          "language": "et",
+          "value": "Neuschwansteini loss"
+        },
+        "eu": {
+          "language": "eu",
+          "value": "Neuschwanstein"
+        },
+        "fa": {
+          "language": "fa",
+          "value": "\u0646\u0648\u06cc\u200c\u0634\u0648\u0627\u0646\u200c\u0634\u062a\u06cc\u0646"
+        },
+        "fi": {
+          "language": "fi",
+          "value": "Neuschwanstein"
+        },
+        "gl": {
+          "language": "gl",
+          "value": "Neuschwanstein"
+        },
+        "he": {
+          "language": "he",
+          "value": "\u05d8\u05d9\u05e8\u05ea \u05e0\u05d5\u05d9\u05e9\u05d5\u05d5\u05e0\u05e9\u05d8\u05d9\u05d9\u05df"
+        },
+        "hr": {
+          "language": "hr",
+          "value": "Dvorac Neuschwanstein"
+        },
+        "hu": {
+          "language": "hu",
+          "value": "Neuschwanstein"
+        },
+        "id": {
+          "language": "id",
+          "value": "Kastil Neuschwanstein"
+        },
+        "is": {
+          "language": "is",
+          "value": "Neuschwanstein"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "\u30ce\u30a4\u30b7\u30e5\u30f4\u30a1\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3\u57ce"
+        },
+        "ka": {
+          "language": "ka",
+          "value": "\u10dc\u10dd\u10d8\u10e8\u10d5\u10d0\u10dc\u10e8\u10e2\u10d0\u10d8\u10dc\u10d8\u10e1 \u10e1\u10d0\u10e1\u10d0\u10ee\u10da\u10d4"
+        },
+        "ko": {
+          "language": "ko",
+          "value": "\ub178\uc774\uc288\ubc18\uc288\ud0c0\uc778 \uc131"
+        },
+        "la": {
+          "language": "la",
+          "value": "Schloss Neuschwanstein"
+        },
+        "lt": {
+          "language": "lt",
+          "value": "Noi\u0161van\u0161teinas"
+        },
+        "lv": {
+          "language": "lv",
+          "value": "Nei\u0161v\u0101n\u0161teina"
+        },
+        "mk": {
+          "language": "mk",
+          "value": "\u041d\u043e\u0458\u0448\u0432\u0430\u043d\u0448\u0442\u0430\u0458\u043d"
+        },
+        "mr": {
+          "language": "mr",
+          "value": "\u0928\u0949\u092f\u0936\u094d\u0935\u093e\u0928\u0938\u094d\u091f\u093e\u0907\u0928"
+        },
+        "nds-nl": {
+          "language": "nds-nl",
+          "value": "Neuschwanstein"
+        },
+        "nn": {
+          "language": "nn",
+          "value": "Neuschwanstein"
+        },
+        "no": {
+          "language": "no",
+          "value": "Neuschwanstein"
+        },
+        "pl": {
+          "language": "pl",
+          "value": "Neuschwanstein"
+        },
+        "pnb": {
+          "language": "pnb",
+          "value": "\u0646\u06cc\u0648\u0634\u0648\u0627\u0646\u0633\u0679\u0627\u0626\u0646"
+        },
+        "pt": {
+          "language": "pt",
+          "value": "Castelo de Neuschwanstein"
+        },
+        "ro": {
+          "language": "ro",
+          "value": "Castelul Neuschwanstein"
+        },
+        "ru": {
+          "language": "ru",
+          "value": "\u041d\u043e\u0439\u0448\u0432\u0430\u043d\u0448\u0442\u0430\u0439\u043d"
+        },
+        "simple": {
+          "language": "simple",
+          "value": "Neuschwanstein Castle"
+        },
+        "sk": {
+          "language": "sk",
+          "value": "Neuschwanstein"
+        },
+        "sl": {
+          "language": "sl",
+          "value": "Grad Neuschwanstein"
+        },
+        "sr": {
+          "language": "sr",
+          "value": "\u041d\u043e\u0458\u0448\u0432\u0430\u043d\u0448\u0442\u0430\u0458\u043d"
+        },
+        "sv": {
+          "language": "sv",
+          "value": "Neuschwanstein"
+        },
+        "th": {
+          "language": "th",
+          "value": "\u0e1b\u0e23\u0e32\u0e2a\u0e32\u0e17\u0e19\u0e2d\u0e22\u0e0a\u0e27\u0e32\u0e19\u0e0a\u0e44\u0e15\u0e19\u0e4c"
+        },
+        "tr": {
+          "language": "tr",
+          "value": "Neuschwanstein \u015eatosu"
+        },
+        "uk": {
+          "language": "uk",
+          "value": "\u041d\u043e\u0439\u0448\u0432\u0430\u043d\u0448\u0442\u0430\u0439\u043d"
+        },
+        "ur": {
+          "language": "ur",
+          "value": "\u0646\u06cc\u0648\u0634\u0648\u0627\u0646\u0633\u0679\u0627\u0626\u0646"
+        },
+        "vi": {
+          "language": "vi",
+          "value": "L\u00e2u \u0111\u00e0i Neuschwanstein"
+        },
+        "war": {
+          "language": "war",
+          "value": "Neuschwanstein"
+        },
+        "zh": {
+          "language": "zh",
+          "value": "\u65b0\u5929\u9e45\u5821"
+        },
+        "zh-cn": {
+          "language": "zh-cn",
+          "value": "\u65b0\u5929\u9e45\u5821"
+        },
+        "zh-hans": {
+          "language": "zh-hans",
+          "value": "\u65b0\u5929\u9e45\u5821"
+        },
+        "zh-hant": {
+          "language": "zh-hant",
+          "value": "\u65b0\u5929\u9e45\u5821"
+        },
+        "zh-min-nan": {
+          "language": "zh-min-nan",
+          "value": "Neuschwanstein Si\u00e2\u207f-p\u00f3"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "Schloss bei F\u00fcssen in Bayern"
+        }
+      },
+      "aliases": {},
+      "claims": {},
+      "sitelinks": {
+        "anwiki": {
+          "site": "anwiki",
+          "title": "Castiello de Neuschwanstein",
+          "badges": [],
+          "url": "https://an.wikipedia.org/wiki/Castiello_de_Neuschwanstein"
+        },
+        "arwiki": {
+          "site": "arwiki",
+          "title": "\u0642\u0635\u0631 \u0646\u0648\u064a\u0634\u0641\u0627\u0646\u0634\u062a\u0627\u064a\u0646",
+          "badges": [],
+          "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D9%86%D9%88%D9%8A%D8%B4%D9%81%D8%A7%D9%86%D8%B4%D8%AA%D8%A7%D9%8A%D9%86"
+        },
+        "astwiki": {
+          "site": "astwiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://ast.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "barwiki": {
+          "site": "barwiki",
+          "title": "Schloss Neischwanstoa",
+          "badges": [],
+          "url": "https://bar.wikipedia.org/wiki/Schloss_Neischwanstoa"
+        },
+        "bewiki": {
+          "site": "bewiki",
+          "title": "\u041d\u043e\u0439\u0448\u0432\u0430\u043d\u0448\u0442\u0430\u0439\u043d",
+          "badges": [],
+          "url": "https://be.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B9%D1%88%D0%B2%D0%B0%D0%BD%D1%88%D1%82%D0%B0%D0%B9%D0%BD"
+        },
+        "bgwiki": {
+          "site": "bgwiki",
+          "title": "\u041d\u043e\u0439\u0448\u0432\u0430\u043d\u0449\u0430\u0439\u043d",
+          "badges": [],
+          "url": "https://bg.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B9%D1%88%D0%B2%D0%B0%D0%BD%D1%89%D0%B0%D0%B9%D0%BD"
+        },
+        "brwiki": {
+          "site": "brwiki",
+          "title": "Kastell Neuschwanstein",
+          "badges": [],
+          "url": "https://br.wikipedia.org/wiki/Kastell_Neuschwanstein"
+        },
+        "bswiki": {
+          "site": "bswiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://bs.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "cawiki": {
+          "site": "cawiki",
+          "title": "Castell de Neuschwanstein",
+          "badges": [],
+          "url": "https://ca.wikipedia.org/wiki/Castell_de_Neuschwanstein"
+        },
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://cs.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "cywiki": {
+          "site": "cywiki",
+          "title": "Castell Neuschwanstein",
+          "badges": [],
+          "url": "https://cy.wikipedia.org/wiki/Castell_Neuschwanstein"
+        },
+        "dawiki": {
+          "site": "dawiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://da.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Schloss Neuschwanstein",
+          "badges": [],
+          "url": "https://de.wikipedia.org/wiki/Schloss_Neuschwanstein"
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Neuschwanstein Castle",
+          "badges": [],
+          "url": "https://en.wikipedia.org/wiki/Neuschwanstein_Castle"
+        },
+        "eowiki": {
+          "site": "eowiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://eo.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "eswiki": {
+          "site": "eswiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://es.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "etwiki": {
+          "site": "etwiki",
+          "title": "Neuschwansteini loss",
+          "badges": [],
+          "url": "https://et.wikipedia.org/wiki/Neuschwansteini_loss"
+        },
+        "euwiki": {
+          "site": "euwiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://eu.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "fawiki": {
+          "site": "fawiki",
+          "title": "\u0646\u0648\u06cc\u200c\u0634\u0648\u0627\u0646\u200c\u0634\u062a\u06cc\u0646",
+          "badges": [],
+          "url": "https://fa.wikipedia.org/wiki/%D9%86%D9%88%DB%8C%E2%80%8C%D8%B4%D9%88%D8%A7%D9%86%E2%80%8C%D8%B4%D8%AA%DB%8C%D9%86"
+        },
+        "fiwiki": {
+          "site": "fiwiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://fi.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "frwiki": {
+          "site": "frwiki",
+          "title": "Ch\u00e2teau de Neuschwanstein",
+          "badges": [],
+          "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Neuschwanstein"
+        },
+        "glwiki": {
+          "site": "glwiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://gl.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "hewiki": {
+          "site": "hewiki",
+          "title": "\u05d8\u05d9\u05e8\u05ea \u05e0\u05d5\u05d9\u05e9\u05d5\u05d5\u05e0\u05e9\u05d8\u05d9\u05d9\u05df",
+          "badges": [],
+          "url": "https://he.wikipedia.org/wiki/%D7%98%D7%99%D7%A8%D7%AA_%D7%A0%D7%95%D7%99%D7%A9%D7%95%D7%95%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F"
+        },
+        "hrwiki": {
+          "site": "hrwiki",
+          "title": "Dvorac Neuschwanstein",
+          "badges": [],
+          "url": "https://hr.wikipedia.org/wiki/Dvorac_Neuschwanstein"
+        },
+        "huwiki": {
+          "site": "huwiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://hu.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "idwiki": {
+          "site": "idwiki",
+          "title": "Kastil Neuschwanstein",
+          "badges": [],
+          "url": "https://id.wikipedia.org/wiki/Kastil_Neuschwanstein"
+        },
+        "iswiki": {
+          "site": "iswiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://is.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "itwiki": {
+          "site": "itwiki",
+          "title": "Castello di Neuschwanstein",
+          "badges": [],
+          "url": "https://it.wikipedia.org/wiki/Castello_di_Neuschwanstein"
+        },
+        "jawiki": {
+          "site": "jawiki",
+          "title": "\u30ce\u30a4\u30b7\u30e5\u30f4\u30a1\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3\u57ce",
+          "badges": [],
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%A4%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E5%9F%8E"
+        },
+        "kawiki": {
+          "site": "kawiki",
+          "title": "\u10dc\u10dd\u10d8\u10e8\u10d5\u10d0\u10dc\u10e8\u10e2\u10d0\u10d8\u10dc\u10d8\u10e1 \u10e1\u10d0\u10e1\u10d0\u10ee\u10da\u10d4",
+          "badges": [],
+          "url": "https://ka.wikipedia.org/wiki/%E1%83%9C%E1%83%9D%E1%83%98%E1%83%A8%E1%83%95%E1%83%90%E1%83%9C%E1%83%A8%E1%83%A2%E1%83%90%E1%83%98%E1%83%9C%E1%83%98%E1%83%A1_%E1%83%A1%E1%83%90%E1%83%A1%E1%83%90%E1%83%AE%E1%83%9A%E1%83%94"
+        },
+        "kowiki": {
+          "site": "kowiki",
+          "title": "\ub178\uc774\uc288\ubc18\uc288\ud0c0\uc778 \uc131",
+          "badges": [],
+          "url": "https://ko.wikipedia.org/wiki/%EB%85%B8%EC%9D%B4%EC%8A%88%EB%B0%98%EC%8A%88%ED%83%80%EC%9D%B8_%EC%84%B1"
+        },
+        "lawiki": {
+          "site": "lawiki",
+          "title": "Schloss Neuschwanstein",
+          "badges": [],
+          "url": "https://la.wikipedia.org/wiki/Schloss_Neuschwanstein"
+        },
+        "ltwiki": {
+          "site": "ltwiki",
+          "title": "Noi\u0161van\u0161teinas",
+          "badges": [],
+          "url": "https://lt.wikipedia.org/wiki/Noi%C5%A1van%C5%A1teinas"
+        },
+        "lvwiki": {
+          "site": "lvwiki",
+          "title": "Nei\u0161v\u0101n\u0161teina",
+          "badges": [],
+          "url": "https://lv.wikipedia.org/wiki/Nei%C5%A1v%C4%81n%C5%A1teina"
+        },
+        "mkwiki": {
+          "site": "mkwiki",
+          "title": "\u041d\u043e\u0458\u0448\u0432\u0430\u043d\u0448\u0442\u0430\u0458\u043d",
+          "badges": [],
+          "url": "https://mk.wikipedia.org/wiki/%D0%9D%D0%BE%D1%98%D1%88%D0%B2%D0%B0%D0%BD%D1%88%D1%82%D0%B0%D1%98%D0%BD"
+        },
+        "mrwiki": {
+          "site": "mrwiki",
+          "title": "\u0928\u0949\u092f\u0936\u094d\u0935\u093e\u0928\u0938\u094d\u091f\u093e\u0907\u0928",
+          "badges": [],
+          "url": "https://mr.wikipedia.org/wiki/%E0%A4%A8%E0%A5%89%E0%A4%AF%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A8%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%A8"
+        },
+        "nds_nlwiki": {
+          "site": "nds_nlwiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://nds-nl.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "nlwiki": {
+          "site": "nlwiki",
+          "title": "Slot Neuschwanstein",
+          "badges": [],
+          "url": "https://nl.wikipedia.org/wiki/Slot_Neuschwanstein"
+        },
+        "nnwiki": {
+          "site": "nnwiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://nn.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "nowiki": {
+          "site": "nowiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://no.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://pl.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "pnbwiki": {
+          "site": "pnbwiki",
+          "title": "\u0646\u06cc\u0648\u0634\u0648\u0627\u0646\u0633\u0679\u0627\u0626\u0646",
+          "badges": [],
+          "url": "https://pnb.wikipedia.org/wiki/%D9%86%DB%8C%D9%88%D8%B4%D9%88%D8%A7%D9%86%D8%B3%D9%B9%D8%A7%D8%A6%D9%86"
+        },
+        "ptwiki": {
+          "site": "ptwiki",
+          "title": "Castelo de Neuschwanstein",
+          "badges": [],
+          "url": "https://pt.wikipedia.org/wiki/Castelo_de_Neuschwanstein"
+        },
+        "rowiki": {
+          "site": "rowiki",
+          "title": "Castelul Neuschwanstein",
+          "badges": [],
+          "url": "https://ro.wikipedia.org/wiki/Castelul_Neuschwanstein"
+        },
+        "ruwiki": {
+          "site": "ruwiki",
+          "title": "\u041d\u043e\u0439\u0448\u0432\u0430\u043d\u0448\u0442\u0430\u0439\u043d",
+          "badges": [],
+          "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B9%D1%88%D0%B2%D0%B0%D0%BD%D1%88%D1%82%D0%B0%D0%B9%D0%BD"
+        },
+        "simplewiki": {
+          "site": "simplewiki",
+          "title": "Neuschwanstein Castle",
+          "badges": [],
+          "url": "https://simple.wikipedia.org/wiki/Neuschwanstein_Castle"
+        },
+        "skwiki": {
+          "site": "skwiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://sk.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "slwiki": {
+          "site": "slwiki",
+          "title": "Grad Neuschwanstein",
+          "badges": [],
+          "url": "https://sl.wikipedia.org/wiki/Grad_Neuschwanstein"
+        },
+        "srwiki": {
+          "site": "srwiki",
+          "title": "\u041d\u043e\u0458\u0448\u0432\u0430\u043d\u0448\u0442\u0430\u0458\u043d",
+          "badges": [],
+          "url": "https://sr.wikipedia.org/wiki/%D0%9D%D0%BE%D1%98%D1%88%D0%B2%D0%B0%D0%BD%D1%88%D1%82%D0%B0%D1%98%D0%BD"
+        },
+        "svwiki": {
+          "site": "svwiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://sv.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "thwiki": {
+          "site": "thwiki",
+          "title": "\u0e1b\u0e23\u0e32\u0e2a\u0e32\u0e17\u0e19\u0e2d\u0e22\u0e0a\u0e27\u0e32\u0e19\u0e0a\u0e44\u0e15\u0e19\u0e4c",
+          "badges": [],
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%B2%E0%B8%97%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%8A%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%8A%E0%B9%84%E0%B8%95%E0%B8%99%E0%B9%8C"
+        },
+        "trwiki": {
+          "site": "trwiki",
+          "title": "Neuschwanstein \u015eatosu",
+          "badges": [],
+          "url": "https://tr.wikipedia.org/wiki/Neuschwanstein_%C5%9Eatosu"
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "\u041d\u043e\u0439\u0448\u0432\u0430\u043d\u0448\u0442\u0430\u0439\u043d",
+          "badges": [],
+          "url": "https://uk.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B9%D1%88%D0%B2%D0%B0%D0%BD%D1%88%D1%82%D0%B0%D0%B9%D0%BD"
+        },
+        "urwiki": {
+          "site": "urwiki",
+          "title": "\u0646\u06cc\u0648\u0634\u0648\u0627\u0646\u0633\u0679\u0627\u0626\u0646",
+          "badges": [],
+          "url": "https://ur.wikipedia.org/wiki/%D9%86%DB%8C%D9%88%D8%B4%D9%88%D8%A7%D9%86%D8%B3%D9%B9%D8%A7%D8%A6%D9%86"
+        },
+        "viwiki": {
+          "site": "viwiki",
+          "title": "L\u00e2u \u0111\u00e0i Neuschwanstein",
+          "badges": [],
+          "url": "https://vi.wikipedia.org/wiki/L%C3%A2u_%C4%91%C3%A0i_Neuschwanstein"
+        },
+        "warwiki": {
+          "site": "warwiki",
+          "title": "Neuschwanstein",
+          "badges": [],
+          "url": "https://war.wikipedia.org/wiki/Neuschwanstein"
+        },
+        "zh_min_nanwiki": {
+          "site": "zh_min_nanwiki",
+          "title": "Neuschwanstein Si\u00e2\u207f-p\u00f3",
+          "badges": [],
+          "url": "https://zh-min-nan.wikipedia.org/wiki/Neuschwanstein_Si%C3%A2%E2%81%BF-p%C3%B3"
+        },
+        "zhwiki": {
+          "site": "zhwiki",
+          "title": "\u65b0\u5929\u9e45\u5821",
+          "badges": [],
+          "url": "https://zh.wikipedia.org/wiki/%E6%96%B0%E5%A4%A9%E9%B9%85%E5%A0%A1"
+        }
+      }
+    }
+  }
+}

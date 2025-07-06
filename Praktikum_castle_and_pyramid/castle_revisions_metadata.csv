@@ -1,0 +1,340 @@
+rev_id,timestamp,user,comment
+2314092000,2025-02-20T02:55:24Z,Jon Kolbert,/* wbeditentity-update:0| */ Updating official website URL from HTTP to HTTPS
+2310783923,2025-02-13T06:08:35Z,Sadrettin,"/* wbsetclaim-create:2||1 */ [[Property:P11729]]: 320927, edit ([[:toollabs:editgroups/b/OR/e46463b8171|details]])"
+2297131802,2025-01-11T20:45:24Z,Sobaka,/* wbsetlabel-add:1|af */ Neuschwanstein-kasteel
+2297131695,2025-01-11T20:45:06Z,Sobaka,"/* wbsetdescription-add:1|af */ kasteel in Beiere, Duitsland, Europa"
+2293295709,2024-12-31T09:32:13Z,37.161.113.81,/* undo:0||2290384573|2003:EC:5F0F:BC00:8562:C6D5:7793:C74B */
+2290384573,2024-12-22T10:40:21Z,2003:EC:5F0F:BC00:8562:C6D5:7793:C74B,/* wbsetclaim-update:2||1 */ [[Property:P18]]: Schloss Neuschwanstein 2013.jpg
+2272174150,2024-11-09T06:04:46Z,Podkolyosin,/* wbsetdescription-add:1|ko */ 독일 바이에른주 호엔슈방가우에 위치한 성
+2263080018,2024-10-20T22:02:56Z,Lorde McCoy,/* wbsetaliases-add:1|pt */ Neuschwanstein
+2263080005,2024-10-20T22:02:55Z,Lorde McCoy,/* wbsetaliases-add:1|pt-br */ Neuschwanstein
+2263079994,2024-10-20T22:02:54Z,Lorde McCoy,"/* wbsetdescription-add:1|pt */ palácio na Baviera, Alemanha"
+2263079978,2024-10-20T22:02:52Z,Lorde McCoy,"/* wbsetdescription-add:1|pt-br */ palácio na Baviera, Alemanha"
+2262410680,2024-10-19T12:41:35Z,Vicarage,"/* wbsetlabel-remove:1|en-gb */ Neuschwanstein Castle, #quickstatements; #temporary_batch_1729341689244"
+2258675880,2024-10-10T09:49:06Z,MidleadingBot,"/* wbremovereferences-remove:2||1 */ [[Property:P131]]: [[Q256547]], bot ([[:toolforge:editgroups/b/CB/12d8c3f601984b308ffab832cbf2dae4|details]])"
+2256158959,2024-10-04T11:54:40Z,MidleadingBot,"/* wbremovereferences-remove:2||1 */ [[Property:P131]]: [[Q256547]], bot ([[:toolforge:editgroups/b/CB/97738ff8f45c40109bf79129cf565ce6|details]])"
+2248903825,2024-09-16T14:17:38Z,151.43.34.74,/* wbsetclaim-update:2||1 */ [[Property:P18]]: Schloss Neuschwanstein (45 mm).jpg
+2248903558,2024-09-16T14:16:44Z,151.43.34.74,/* restore:0||2246906608|87.177.148.95 */
+2248701524,2024-09-16T02:06:52Z,MatSuBot,/* wbeditentity-update-languages-short:0||af */ import labels from sitelinks
+2246906608,2024-09-12T02:52:49Z,87.177.148.95,/* wbsetclaim-update:2||1 */ [[Property:P18]]: Schloss Neuschwanstein 2013.jpg
+2246297200,2024-09-10T18:56:01Z,Astirmays,/* wbsetclaim-create:2||1 */ [[Property:P361]]: [[Q64825541]]
+2242628613,2024-09-03T07:11:52Z,Woordgenoot,/* wbsetsitelink-add:1|afwiki */ Neuschwanstein-kasteel
+2241593399,2024-09-01T15:51:29Z,ISNIplus,"/* wbremoveclaims-remove:1| */ [[Property:P7859]]: viaf-42149294074680520140, [[:toollabs:quickstatements/#/batch/237043|batch #237043]]"
+2239556355,2024-08-29T20:49:16Z,2604:5040:11:608:0:0:0:3968,/* wbsetclaim-update:2||1 */ [[Property:P18]]: Schloss Neuschwanstein (45 mm).jpg
+2228053006,2024-08-15T10:54:20Z,Granpar,/* wbsetclaim-create:2||1 */ [[Property:P8593]]: 27697
+2224316402,2024-08-10T09:46:30Z,向史公哲曰,/* clientsitelink-update:0|zhwiki|zhwiki:新天鹅城堡|zhwiki:新天鹅堡 */
+2218143807,2024-08-01T14:37:56Z,RKDdata,"/* wbsetclaim-create:2||1 */ [[Property:P8519]]: 89879, RKD thesaurus ID ([[:toollabs:editgroups/b/OR/bfa1db9dfab|details]])"
+2199113967,2024-07-09T06:41:19Z,ZI Jony,/* wbsetclaim-create:2||1 */ [[Property:P12884]]: 1471
+2187426812,2024-06-24T05:37:50Z,RealityBites,/* wbsetclaim-update:2||1|1 */ [[Property:P244]]: sh86007802
+2165936713,2024-05-27T11:08:11Z,Syenirasheila,"/* wbsetlabel-set:1|id */ Neuschwanstein Castle, #quickstatements; #temporary_batch_1716807809559"
+2139999880,2024-04-29T07:20:46Z,MatSuBot,/* wbeditentity-update-languages-short:0||mn */ add missing labels
+2131032794,2024-04-17T02:44:29Z,Zorigt,/* wbsetsitelink-add:1|mnwiki */ Нойшванштайн шилтгээн
+2096067392,2024-03-07T15:58:29Z,Kostisl,/* clientsitelink-update:0|elwiki|elwiki:Κάστρο Νοϊσβάνσταϊν|elwiki:Κάστρο Nόισβανσταϊν */
+2090826627,2024-03-01T09:04:44Z,Sj1mor,/* wbsetclaim-create:2||1 */ [[Property:P948]]: Neuschwanstein Castle Wikivoyage banner.jpg
+2078163618,2024-02-15T18:08:13Z,Vojtěch Dostál,"/* wbsetqualifier-add:1| */ [[Property:P1810]]: Schloss Neuschwanstein (Německo), add P1810 qualifier to NKCR (P691) claims ([[:toollabs:editgroups/b/wikibase-cli/cd61dc3532ace/|details]])"
+2068827033,2024-02-04T14:02:56Z,Hkoala,/* wbsetdescription-add:1|hu */ kastély Németországban
+2066502583,2024-02-01T11:51:28Z,Filipović Zoran,"/* wbsetdescription-add:1|sr */ замак у Баварској, Немачка, Европа"
+2066502578,2024-02-01T11:51:28Z,Filipović Zoran,"/* wbsetdescription-add:1|sr-ec */ замак у Баварској, Немачка, Европа"
+2066502575,2024-02-01T11:51:27Z,Filipović Zoran,/* wbsetlabel-add:1|sr-ec */ Нојшванштајн
+2061345405,2024-01-24T23:33:01Z,TadejM,/* wbsetaliases-add:1|sl */ Neuschwanstein
+2061345398,2024-01-24T23:33:01Z,TadejM,/* wbsetdescription-add:1|sl */ grad na Bavarskem v Nemčiji
+2061345382,2024-01-24T23:33:00Z,TadejM,/* wbsetlabel-set:1|sl */ grad Neuschwanstein
+2061255651,2024-01-24T20:58:44Z,Arch2bot,"/* wbsetreference-add:2| */ [[Property:P454]]: 20015611, Add archINFORM reference"
+2061255645,2024-01-24T20:58:43Z,Arch2bot,"/* wbsetreference-add:2| */ [[Property:P227]]: 4075333-5, Add archINFORM reference"
+2040152356,2023-12-29T21:43:28Z,Quesotiotyo,"/* wbcreateclaim-create:1| */ [[Property:P12086]]: Slot_Neuschwanstein, [[:toollabs:quickstatements/#/batch/220142|batch #220142]]"
+1988686576,2023-10-08T15:24:59Z,Horcrux,"/* wbsetqualifier-add:1| */ [[Property:P1810]]: Neuschwanstein Castle, [[:toollabs:quickstatements/#/batch/214162|batch #214162]]"
+1979995071,2023-09-23T10:05:20Z,Carsten Steger,/* wbsetclaim-create:2||1 */ [[Property:P8592]]: Aerial image of Neuschwanstein Castle (view from the northwest).jpg
+1975466310,2023-09-16T09:55:03Z,Anvilaquarius,/* wbsetclaim-create:2||1 */ [[Property:P973]]: https://www.historisches-lexikon-bayerns.de/Lexikon/Schloss_Neuschwanstein
+1963742434,2023-08-29T08:57:14Z,Awinkler3,"/* wbcreateclaim-create:1| */ [[Property:P9957]]: 34050, [[:toollabs:quickstatements/#/batch/211775|batch #211775]]"
+1944634322,2023-08-02T02:09:58Z,Salgo60,"/* wbsetclaim-create:2||1 */ [[Property:P10689]]: 221601969, OSM way museum ([[:toollabs:editgroups/b/OR/3ce5f78d158|details]])"
+1905007603,2023-05-30T09:36:22Z,Gejeluk,/* wbsetdescription-add:1|ckb */ قەڵایەک لە باڤاریا، ئەڵمانیا
+1905007517,2023-05-30T09:36:06Z,Gejeluk,/* wbsetlabel-set:1|ckb */ قەڵای نۆیشڤانشتاین
+1889272698,2023-05-04T21:35:31Z,Gejeluk,/* clientsitelink-update:0|ckbwiki|ckbwiki:قەڵای نیوشوانشتاین|ckbwiki:قەڵای نۆیشڤانشتاین */
+1885612786,2023-04-30T09:11:08Z,Tessla,/* wbsetlabel-add:1|ckb */ قەڵای نیوشوانشتاین
+1885611660,2023-04-30T09:09:29Z,Tessla,/* wbsetsitelink-add:1|ckbwiki */ قەڵای نیوشوانشتاین
+1880366720,2023-04-22T08:51:21Z,Gp619,/* wbeditentity-update-languages-short:0||ja */
+1844634696,2023-03-03T15:11:44Z,4ing,/* wbcreateclaim-create:1| */ [[Property:P4342]]: Neuschwanstein
+1844572426,2023-03-03T12:22:29Z,Dorades,Reverted edits by [[Special:Contributions/Tosia Borsuk|Tosia Borsuk]] ([[User talk:Tosia Borsuk|talk]]) to last revision by [[:User:Grimes2|Grimes2]]
+1844478742,2023-03-03T07:56:23Z,Tosia Borsuk,"/* wbsetdescription-set:1|pl */ zamek (Bawaria, polska)"
+1832853344,2023-02-12T21:06:33Z,Grimes2,/* wbsetclaim-create:2||1 */ [[Property:P31]]: [[Q33506]]
+1777502717,2022-11-23T05:22:14Z,31.200.16.201,/* wbeditentity-update-languages-short:0||tr */
+1763540173,2022-11-03T11:16:25Z,Theklan,"/* wbsetqualifier-add:1| */ [[Property:P585]]: 31 October 2022, #quickstatements; #temporary_batch_1667416644640"
+1763540162,2022-11-03T11:16:23Z,Theklan,"/* wbcreateclaim-create:1| */ [[Property:P5008]]: [[Q6173448]], #quickstatements; #temporary_batch_1667416644640"
+1751762703,2022-10-15T21:24:08Z,Nastya Alinova,/* wbsetdescription-set:1|id */ bangunan istana di Jerman
+1695145725,2022-08-03T08:32:42Z,Hoa binh,/* wbsetclaim-create:2||1 */ [[Property:P7305]]: 3946902
+1682070305,2022-07-19T12:53:02Z,VIGNERON,/* wbsetdescription-set:1|fr */ château allemand
+1668237399,2022-06-28T22:35:49Z,Taylor 49,/* wbsetaliases-add:1|id */ Puri Neuschwanstein
+1668237395,2022-06-28T22:35:48Z,Taylor 49,/* wbsetdescription-add:1|id */ kastel di Eropa
+1668237392,2022-06-28T22:35:47Z,Taylor 49,"/* wbsetdescription-set:1|en */ castle in Bavaria, Germany, Europe"
+1668237389,2022-06-28T22:35:47Z,Taylor 49,/* wbsetlabel-set:1|id */ Kastel Neuschwanstein
+1668180805,2022-06-28T18:31:44Z,Taylor 49,/* clientsitelink-update:0|idwiki|idwiki:Puri Neuschwanstein|idwiki:Kastel Neuschwanstein */
+1663671624,2022-06-20T03:39:15Z,MatSuBot,"/* wbeditentity-update-languages-short:0||ba, uz */ add missing labels"
+1662104527,2022-06-17T18:23:44Z,2A01:598:B9AF:B6D7:C177:14A1:B824:F4E2,/* wbsetclaim-update:2||1 */ [[Property:P18]]: Schloss Neuschwanstein 2013.jpg
+1662104450,2022-06-17T18:23:27Z,2A01:598:B9AF:B6D7:C177:14A1:B824:F4E2,/* wbsetclaim-update:2||1 */ [[Property:P18]]: Schloss Neuschwanstein 2013.jpg
+1659296610,2022-06-13T01:06:27Z,DieWelpen,/* wbeditentity-update-languages-short:0||es */
+1656336833,2022-06-07T18:05:45Z,213.230.64.132,/* wbsetsitelink-add:1|uzwiki */ Noyshvanshteyn
+1656114102,2022-06-07T07:45:09Z,MR973,/* wbsetdescription-add:1|ba */ Бавария короле Людвиг Икенсенең романтизм стилендәге замогы
+1655533241,2022-06-06T08:30:39Z,Ryanag,/* wbsetsitelink-add:1|bawiki */ Нойшванштайн
+1652817093,2022-06-02T12:56:50Z,Choboty,/* wbeditentity-update-languages-short:0||ko */ update ko label
+1633176100,2022-05-06T09:36:28Z,88.241.45.152,/* wbsetdescription-add:1|tr */ Almanya'nın Bavyera Eyaletinde Bulunan Tarihi Bir Şato
+1584754221,2022-02-28T21:41:37Z,Daanvr,/* wbeditentity-update:0| */ add P2003 claim: schloesserverwaltung.bayern
+1571871595,2022-02-02T02:33:27Z,Derzno,"/* wbcreateclaim-create:1| */ [[Property:P625]]: 47°33'26.960""N, 10°44'57.991""E, [[:toollabs:quickstatements/#/batch/75267|batch #75267]]"
+1571854314,2022-02-02T01:38:03Z,Derzno,"/* wbremoveclaims-remove:1| */ [[Property:P625]]: 47°33'27.828""N, 10°44'58.726""E, [[:toollabs:quickstatements/#/batch/75264|batch #75264]]"
+1569685074,2022-01-29T11:27:27Z,Aderiqueza,/* wbsetclaim-create:2||1 */ [[Property:P18]]: Neuschwanstein Castle entrance gate.jpg
+1528111844,2021-11-15T13:45:32Z,Premeditated,"/* undo:0||1527962329|MS Sakib */ ""no"" labels are discontinued ([[:toollabs:editgroups/b/EG/5348b77|details]])"
+1527962329,2021-11-15T08:06:19Z,MS Sakib,"/* wbsetlabel-add:1|no */ Neuschwanstein, [[:toollabs:quickstatements/#/batch/70349|batch #70349]]"
+1524665164,2021-11-09T08:32:11Z,Geagea,"/* wbsetclaim-create:2||1 */ [[Property:P8189]]: 987007288069005171, updating the J9U - new National Library of Israel id ([[:toollabs:editgroups/b/OR/49e21d07a24|details]])"
+1510610908,2021-10-11T04:59:04Z,메이,/* clientsitelink-update:0|kowiki|kowiki:노이슈반슈타인 성|kowiki:노이슈반슈타인성 */
+1499016389,2021-09-17T13:36:13Z,5.29.40.236,/* wbsetsitelink-add:1|hewikiquote */ טירת נוישוונשטיין
+1487630558,2021-08-25T22:07:36Z,BorkedBot,"/* wbsetqualifier-add:1| */ [[Property:P9675]]: 2078, update metadata from fandom API"
+1447596646,2021-06-24T05:21:42Z,Frlgin,"/* wbcreateclaim-create:1| */ [[Property:P4839]]: Entity[""Castle"", ""Neuschwanstein""]"
+1403745496,2021-04-18T04:32:11Z,DeltaBot,/* wbsetclaimvalue:1| */ [[Property:P18]]: Castle Neuschwanstein.jpg
+1401692202,2021-04-14T19:55:14Z,KaiMartin,/* wbsetclaim-update:2||1 */ [[Property:P18]]: Castle_Neuschwanstein.jpg
+1394127784,2021-04-01T09:50:03Z,Jordiventura96,/* wbsetdescription-add:1|ca */ castell d'Alemanya
+1388449342,2021-03-23T21:50:03Z,HitomiAkane,/* wbsetsitelink-add:1|arzwiki */ قصر نويشفانشتاين
+1388449273,2021-03-23T21:49:55Z,HitomiAkane,/* wbsetlabel-add:1|arz */ قصر نويشفانشتاين
+1386877209,2021-03-21T08:37:04Z,AdamSeattle,/* wbsetclaim-create:2||1 */ [[Property:P9339]]: 120222
+1384633846,2021-03-18T12:49:59Z,KrBot,/* wbsetclaimvalue:1| */ [[Property:P5775]]: Neuschwanstein Boden.jpg
+1384633248,2021-03-18T12:49:07Z,KrBot,"/* wbsetclaimvalue:1| */ [[Property:P5252]]: Neuschwanstein, Schwangau, Alemania, 2015-02-15, DD 38.JPG"
+1384629302,2021-03-18T12:43:06Z,KrBot,/* wbsetclaimvalue:1| */ [[Property:P3311]]: Grundriss Parterre Neuschwanstein.jpg
+1384629287,2021-03-18T12:43:04Z,KrBot,/* wbsetclaimvalue:1| */ [[Property:P3311]]: Nöyşvanştayn plan in Azerbaijani.JPG
+1384629263,2021-03-18T12:43:02Z,KrBot,/* wbsetclaimvalue:1| */ [[Property:P3311]]: NeuSchwanstein 3 Ausschnitt.JPG
+1376715991,2021-03-06T21:56:43Z,Pakeha,/* wbsetsitelink-add:1|alswiki */ Schloss Neuschwanstein
+1376613070,2021-03-06T18:50:20Z,Nvrandow,/* wbsetclaim-create:2||1 */ [[Property:P84]]: [[Q1712698]]
+1376563387,2021-03-06T17:26:39Z,Nvrandow,/* wbsetclaim-create:2||1 */ [[Property:P3311]]: Neuschwanstein grondplan.jpg
+1376562473,2021-03-06T17:25:16Z,Nvrandow,/* wbsetclaim-create:2||1 */ [[Property:P186]]: [[Q13085]]
+1376562360,2021-03-06T17:25:05Z,Nvrandow,/* wbsetclaim-create:2||1 */ [[Property:P186]]: [[Q23757]]
+1376562122,2021-03-06T17:24:46Z,Nvrandow,/* wbsetclaim-create:2||1 */ [[Property:P186]]: [[Q40089]]
+1376551153,2021-03-06T17:07:11Z,Nvrandow,/* wbsetclaim-create:2||1 */ [[Property:P825]]: [[Q1511]]
+1376550970,2021-03-06T17:06:53Z,Nvrandow,/* wbsetclaim-create:2||1 */ [[Property:P5775]]: Neuschwanstein_Boden.jpg
+1376548492,2021-03-06T17:02:26Z,Nvrandow,/* wbsetclaim-create:2||1 */ [[Property:P3311]]: Grundriss_Parterre_Neuschwanstein.jpg
+1376547356,2021-03-06T17:00:46Z,Nvrandow,/* wbsetclaim-create:2||1 */ [[Property:P126]]: [[Q812310]]
+1376547089,2021-03-06T17:00:19Z,Nvrandow,/* wbsetclaim-create:2||1 */ [[Property:P127]]: [[Q980]]
+1376546704,2021-03-06T16:59:39Z,Nvrandow,/* wbsetclaim-create:2||1 */ [[Property:P466]]: [[Q44039]]
+1376546307,2021-03-06T16:59:04Z,Nvrandow,/* wbsetclaim-update:2||1|2 */ [[Property:P3311]]: NeuSchwanstein_3_Ausschnitt.JPG
+1376546201,2021-03-06T16:58:49Z,Nvrandow,/* wbsetclaim-create:2||1 */ [[Property:P3311]]: Nöyşvanştayn_plan_in_Azerbaijani.JPG
+1376545257,2021-03-06T16:57:18Z,Nvrandow,/* wbsetclaim-create:2||1 */ [[Property:P84]]: [[Q77138]]
+1376544949,2021-03-06T16:56:52Z,Nvrandow,/* wbsetclaim-create:2||1 */ [[Property:P84]]: [[Q106679]]
+1376544414,2021-03-06T16:55:57Z,Nvrandow,/* wbsetclaim-create:2||1 */ [[Property:P3311]]: NeuSchwanstein_3_Ausschnitt.JPG
+1376543758,2021-03-06T16:54:44Z,Nvrandow,/* wbsetclaim-create:2||1 */ [[Property:P3311]]: NeuschwansteinGrundriss.PNG
+1376542988,2021-03-06T16:53:23Z,Nvrandow,/* wbsetclaim-create:2||1 */ [[Property:P989]]: De-Schloss Neuschwanstein-article.ogg
+1376542022,2021-03-06T16:51:43Z,Nvrandow,"/* wbsetclaim-create:2||1 */ [[Property:P5252]]: Neuschwanstein,_Schwangau,_Alemania,_2015-02-15,_DD_38.JPG"
+1376541428,2021-03-06T16:50:36Z,Nvrandow,/* wbsetclaim-create:2||1 */ [[Property:P88]]: [[Q44039]]
+1376539839,2021-03-06T16:47:48Z,Nvrandow,/* wbsetclaim-create:2||1 */ [[Property:P941]]: [[Q151545]]
+1376539532,2021-03-06T16:47:13Z,Nvrandow,/* wbsetclaim-create:2||1 */ [[Property:P793]]: [[Q1075723]]
+1376539308,2021-03-06T16:46:47Z,Nvrandow,/* wbsetclaim-update:2||1|2 */ [[Property:P793]]: [[Q27136782]]
+1376539090,2021-03-06T16:46:21Z,Nvrandow,/* wbsetclaim-create:2||1 */ [[Property:P793]]: [[Q27136782]]
+1313557244,2020-11-26T20:53:20Z,J.-H. Janßen,/* wbsetdescription-set:1|de */ Schloss in Bayern
+1307776780,2020-11-17T04:03:26Z,Puppe100,"/* wbsetdescription-add:1|fi */ linna Saksassa, #suggestededit-add 1.0"
+1307735093,2020-11-17T01:38:27Z,MatSuBot,"/* wbeditentity-update-languages-short:0||simple, cv */ add missing labels; cleanup"
+1303683116,2020-11-07T12:11:50Z,Andreevart,/* wbsetsitelink-add:1|cvwiki */ Нойшванштайн
+1301538186,2020-11-02T07:15:08Z,Mahir256,"/* wbsetlabel-remove:1|no */ Neuschwanstein, [[:toollabs:quickstatements/#/batch/44883|batch #44883]]"
+1274958186,2020-09-10T02:58:39Z,Mahir256,"/* wbsetlabel-remove:1|zh-min-nan */ Neuschwanstein Siâⁿ-pó, [[:toollabs:quickstatements/#/batch/42526|batch #42526]]"
+1274667847,2020-09-09T20:25:07Z,Mahir256,"/* wbsetlabel-remove:1|zh-yue */ 新天鵝堡, [[:toollabs:quickstatements/#/batch/42526|batch #42526]]"
+1274667828,2020-09-09T20:25:06Z,Mahir256,"/* wbsetlabel-remove:1|be-x-old */ Нойшванштайн, [[:toollabs:quickstatements/#/batch/42526|batch #42526]]"
+1245953260,2020-08-03T11:39:53Z,J 1982,/* wbsetclaim-update:2||1|2 */ [[Property:P6262]]: germany:Neuschwanstein_Castle
+1191509478,2020-05-27T13:43:05Z,Anumengelamun,/* clientsitelink-update:0|mswiki|mswiki:Istana kota Neuschwanstein|mswiki:Istana Neuschwanstein */
+1177622778,2020-05-09T21:55:21Z,Escarbot,/* wbeditentity-update-languages-short:0||zh-yue */ Ajout du libellé [zh-yue] : 新天鵝堡
+1177622651,2020-05-09T21:55:10Z,Escarbot,/* wbeditentity-update-languages-short:0||zh-min-nan */ Ajout du libellé [zh-min-nan] : Neuschwanstein Siâⁿ-pó
+1177622532,2020-05-09T21:55:01Z,Escarbot,/* wbeditentity-update-languages-short:0||simple */ Ajout du libellé [simple] : Neuschwanstein Castle
+1177622382,2020-05-09T21:54:50Z,Escarbot,/* wbeditentity-update-languages-short:0||no */ Ajout du libellé [no] : Neuschwanstein
+1177622257,2020-05-09T21:54:40Z,Escarbot,/* wbeditentity-update-languages-short:0||be-x-old */ Ajout du libellé [be-x-old] : Нойшванштайн
+1147192616,2020-03-31T15:19:10Z,J 1982,/* wbsetclaim-create:2||1 */ [[Property:P6262]]: germany:Neuschwanstein_Castle
+1130752137,2020-03-07T02:44:59Z,Vladimir Alexiev,"/* wbsetreference-add:2| */ [[Property:P7859]]: viaf-42149294074680520140, [[:toollabs:quickstatements/#/batch/25638|batch #25638]]"
+1130752121,2020-03-07T02:44:57Z,Vladimir Alexiev,"/* wbcreateclaim-create:1| */ [[Property:P7859]]: viaf-42149294074680520140, [[:toollabs:quickstatements/#/batch/25638|batch #25638]]"
+1119963860,2020-02-21T11:10:56Z,Erfurth,"/* wbsetreference-add:2| */ [[Property:P791]]: DE-MUS-051612, #quickstatements; #temporary_batch_1582283450095"
+1102968991,2020-01-22T21:44:35Z,J 1982,"/* wbsetdescription-add:1|sv */ slott i Bayern, Tyskland"
+1097226255,2020-01-13T12:17:35Z,MatSuBot,/* wbeditentity-update-languages-and-other-short:0||ml */ add missing labels
+1095278485,2020-01-10T18:08:10Z,KrBot,"/* wbremoveclaims-remove:1| */ [[Property:P131]]: [[Q256547]], дублирующееся значение / duplicate value"
+1095278467,2020-01-10T18:08:08Z,KrBot,/* wbsetreference-add:2| */ [[Property:P131]]: [[Q256547]]
+1095278453,2020-01-10T18:08:07Z,KrBot,/* wbsetreference-add:2| */ [[Property:P131]]: [[Q256547]]
+1089313063,2020-01-02T13:52:04Z,Meenakshi nandhini,/* wbsetsitelink-add:1|mlwiki */ ന്യൂഷ്വാൻ‌സ്റ്റൈൻ കാസ്റ്റിൽ
+1089134589,2020-01-02T09:19:56Z,Gerwoman,"/* wbcreateclaim-create:1| */ [[Property:P7772]]: neuschwanstein-castle, [[:toollabs:quickstatements/#/batch/24746|batch #24746]]"
+1087198827,2019-12-30T16:38:21Z,Pasleim,/* wbsetclaimvalue:1| */ [[Property:P131]]: [[Q256547]]
+1059067731,2019-11-22T18:14:59Z,BohemianRhapsody,/* wbsetaliases-add:1|it */ Neuschwanstein
+1046427574,2019-11-06T12:19:41Z,Hjart,/* undo:0||1046427209|89.15.238.199 */
+1046427209,2019-11-06T12:19:06Z,89.15.238.199,/* wbsetdescription-set:1|de */ Puff bei Füssen in Bayern
+1045734314,2019-11-05T15:48:58Z,Hjart,/* undo:0||1045729176|2003:F8:7703:C555:3DC9:8477:CF0:8D8 */ Vandalism
+1045729176,2019-11-05T15:42:13Z,2003:F8:7703:C555:3DC9:8477:CF0:8D8,/* wbsetdescription-set:1|de */ Puff bei Füssen in Bayern
+1045726375,2019-11-05T15:38:54Z,Wurgl,/* undo:0||1045722619|2003:F8:7703:C555:D1EC:E8FE:65DF:ADDE */ Vandalismus
+1045722619,2019-11-05T15:34:31Z,2003:F8:7703:C555:D1EC:E8FE:65DF:ADDE,/* wbsetdescription-set:1|de */ Puff bei Füssen in Bayern
+1034703087,2019-10-18T16:34:22Z,Zyksnowy,/* wbsetdescription-add:1|zh */ 在德國巴伐利亞州的宮殿
+1034670834,2019-10-18T15:13:15Z,Zyksnowy,"/* wbsetaliases-add:2|zh */ 新天鵝石城堡, 新天鹅石宫"
+1034670636,2019-10-18T15:12:53Z,Zyksnowy,/* wbsetaliases-add:1|zh */ 新天鹅城堡
+1030216508,2019-10-12T03:19:39Z,KrBot,"/* wbsetclaimvalue:1| */ [[Property:P214]]: 42149294074680520140, resolving redirect"
+1026823942,2019-10-06T08:35:18Z,Jura1,"/* wbsetqualifier-add:1| */ [[Property:P407]]: [[Q1860]], #quickstatements"
+1026737057,2019-10-06T04:17:25Z,Jura1,"/* wbsetreference-add:2| */ [[Property:P989]]: En-Neuschwanstein Castle.ogg, ([[:toollabs:editgroups/b/harvesttemplates/d86962bb8260|details]])"
+1026737046,2019-10-06T04:17:23Z,Jura1,"/* wbcreateclaim-create:1| */ [[Property:P989]]: En-Neuschwanstein Castle.ogg, ([[:toollabs:editgroups/b/harvesttemplates/d86962bb8260|details]])"
+1019977044,2019-09-25T19:48:52Z,Bibo le magicien,/* wbsetdescription-set:1|fr */ Château allemand
+1016913748,2019-09-20T21:01:41Z,TextworkerBot,"/* wbsetclaim-create:2||1 */ [[Property:P1343]]: [[Q19190511]], moved from ruwikisource"
+1013754228,2019-09-15T08:24:59Z,مھتاب احمد سنڌي,"/* wbsetdescription-add:1|sd */ بواريہ، جرمني ۾ محل, #suggestededit-translate 1.0"
+1008268388,2019-09-05T02:12:30Z,Egermundson,/* wbsetclaim-create:2||1 */ [[Property:P31]]: [[Q570116]]
+1005015032,2019-08-30T10:31:29Z,Pit rock,"/* wbsetdescription-set:1|pl */ zamek (Bawaria, Niemcy)"
+1005014305,2019-08-30T10:29:13Z,Pit rock,/* wbsetclaim-create:2||1 */ [[Property:P1015]]: 2100035
+1005013698,2019-08-30T10:27:19Z,Pit rock,/* wbsetclaim-update:2||1 */ [[Property:P691]]: kn20090219001
+1005013650,2019-08-30T10:27:10Z,Pit rock,/* wbsetclaim-create:2||1 */ [[Property:P691]]: 20090219001
+1005013274,2019-08-30T10:25:59Z,Pit rock,/* wbsetclaim-create:2||1 */ [[Property:P949]]: 000593091
+980162589,2019-07-15T10:29:10Z,MatSuBot,/* wbeditentity-update:0| */ add missing labels
+975117171,2019-07-06T18:06:12Z,Dorades,/* wbremoveclaims-remove:1| */ [[Property:P969]]: Neuschwansteinstraße 20
+975117023,2019-07-06T18:05:50Z,Dorades,"/* wbremoveclaims-remove:1| */ [[Property:P625]]: 47°33'27""N, 10°45'0""E"
+975116861,2019-07-06T18:05:23Z,Dorades,/* wbremoveclaims-remove:1| */ [[Property:P18]]: Castle Neuschwanstein.jpg
+975116754,2019-07-06T18:05:02Z,Dorades,/* wbremoveclaims-remove:1| */ [[Property:P31]]: [[Q16823155]]
+975116540,2019-07-06T18:04:31Z,Dorades,/* wbmergeitems-from:0||Q41220143 */
+975116527,2019-07-06T18:04:29Z,Dorades,/* wbsetsitelink-remove:1|commonswiki */ Category:Neuschwanstein Castle
+973635289,2019-07-03T16:02:54Z,Zinneke,/* wbsetsitelink-add:1|lbwiki */ Schlass Neuschwanstein
+972117694,2019-07-01T00:35:50Z,Kam Solusar,"/* wbcreateclaim-create:1| */ [[Property:P5905]]: 4020-61629, #quickstatements; #temporary_batch_1561939577843"
+933351527,2019-05-04T22:10:10Z,Potapt,/* wbsetlabel-set:1|th */ ปราสาทน็อยชวานชไตน์
+933351476,2019-05-04T22:10:06Z,Potapt,/* clientsitelink-update:0|thwiki|thwiki:ปราสาทนอยชวานชไตน์|thwiki:ปราสาทน็อยชวานชไตน์ */
+922612075,2019-04-23T09:11:28Z,PintochBot,/* wbeditentity-update:0| */ migrate reference from [[Property:P143]] to [[Property:P248]]
+877017382,2019-03-08T02:06:29Z,Ionenlaser,"/* wbcreateclaim-create:1| */ [[Property:P6573]]: Schloss_Neuschwanstein, #quickstatements; [[:toollabs:quickstatements/#/batch/8980|batch #8980]] by [[User:Ionenlaser|]]"
+851637845,2019-02-05T19:20:23Z,MatSuBot,/* wbeditentity-update:0| */ add missing labels; cleanup
+850949159,2019-02-04T21:05:20Z,Iokseng,/* clientsitelink-update:0|zhwiki|zhwiki:新天鹅堡|zhwiki:新天鹅城堡 */
+849658469,2019-02-02T22:28:58Z,84.209.250.170,/* wbsetdescription-add:1|no */ Kongens koseslott
+843497278,2019-01-26T15:48:32Z,FritzVonHomburg,/* wbsetsitelink-add:1|iawiki */ Castello de Neuschwanstein
+831607940,2019-01-10T15:37:29Z,Lungoleno,/* wbsetsitelink-set:1|commonswiki */ Category:Neuschwanstein Castle
+831605190,2019-01-10T15:32:22Z,Lungoleno,/* wbsetaliases-update:1|it */ castello di Ludwig a Füssen
+831604948,2019-01-10T15:31:54Z,Lungoleno,/* wbsetaliases-add:1|it */ castello di Ludwig
+831604939,2019-01-10T15:31:53Z,Lungoleno,/* wbsetdescription-set:1|it */ castello di Ludovico II in Baviera
+831604929,2019-01-10T15:31:52Z,Lungoleno,/* wbsetlabel-set:1|it */ castello di Neuschwanstein
+745273327,2018-09-12T22:42:04Z,Njohnson7,/* wbsetaliases-add:1|en */ Neuschwanstein
+724515463,2018-08-11T23:42:31Z,MsynBot,/* wbeditentity-update:0| */ update reference: move qualifier from [[Property:P143]] to [[Property:P248]] and add [[Property:P214]] #msynbotTask2
+718737866,2018-07-31T12:25:29Z,Arch2all,"/* wbsetreference-add:2| */ [[Property:P31]]: [[Q751876]], Add archINFORM reference"
+718648657,2018-07-31T09:01:43Z,Arch2all,"/* wbsetreference-add:2| */ [[Property:P131]]: [[Q256547]], Add archINFORM reference"
+718197802,2018-07-30T11:07:49Z,Arch2all,"/* wbsetreference-add:2| */ [[Property:P17]]: [[Q183]], Add archINFORM reference"
+705665913,2018-07-03T12:22:29Z,PintochBot,"/* wbsetclaim-create:2||1 */ [[Property:P5383]]: 7020, import ArchINFORM project ids ([[:toollabs:editgroups/b/OR/a4e6b68|details]])"
+704791183,2018-07-01T00:54:52Z,MatSuBot,/* wbeditentity-update:0| */ add missing labels
+693069804,2018-06-09T20:39:51Z,Daiquping,/* wbsetsitelink-add:1|wuuwiki */ 新天鹅堡
+680302790,2018-05-16T07:28:01Z,Sapnor,/* clientsitelink-update:0|idwiki|idwiki:Kastil Neuschwanstein|idwiki:Puri Neuschwanstein */
+658335144,2018-03-29T11:10:34Z,Jibi44,/* wbsetdescription-set:1|fr */ Château en Bavière  (Allemagne)
+640028546,2018-02-27T16:25:03Z,Mr.Ibrahembot,/* wbsetdescription-add:1|ar */ قصر في ألمانيا
+618150686,2018-01-09T17:40:49Z,Xosé,/* wbsetdescription-add:1|gl */ castelo neogótico
+616863349,2018-01-05T15:35:34Z,Sabiusaugustus,/* clientsitelink-update:0|lawiki|lawiki:Schloss Neuschwanstein|lawiki:Castrum Swangowe Novum */
+615800496,2018-01-02T14:49:32Z,SalviBot,/* wbeditentity-update:0| */ Changed Catalan label to lower case
+603411509,2017-12-04T14:27:39Z,Dradasar,/* wbsetsitelink-add:1|zh_yuewiki */ 新天鵝堡
+576001764,2017-10-12T18:57:14Z,Sigma'am,/* wbsetclaim-create:2||1 */ [[Property:P149]]: [[Q186363]]
+576001740,2017-10-12T18:57:11Z,Sigma'am,/* wbsetclaim-create:2||1 */ [[Property:P131]]: [[Q256547]]
+576001704,2017-10-12T18:57:06Z,Sigma'am,/* wbsetclaim-create:2||1 */ [[Property:P1705]]: Schloß Neuschwanstein
+572662105,2017-10-05T08:54:22Z,77.22.249.62,/* wbsetclaim-create:2||1 */ [[Property:P2048]]: 65 metre
+545476774,2017-08-24T17:27:43Z,Simon Villeneuve,"/* wbcreateclaim-create:1| */ [[Property:P1417]]: topic/Neuschwanstein-Castle, #mix'n'match"
+471271038,2017-03-30T13:09:15Z,Acka47,"/* wbcreateclaim-create:1| */ [[Property:P791]]: DE-MUS-051612, #quickstatements"
+451726489,2017-02-19T04:16:41Z,Zaunkönig,/* wbsetclaim-create:2||1 */ [[Property:P856]]: http://www.neuschwanstein.com/
+451722613,2017-02-19T04:09:58Z,Zaunkönig,/* wbsetclaim-create:2||1 */ [[Property:P2044]]: 940 metre
+444817165,2017-02-09T19:51:47Z,Pigsonthewing-bot,"/* wbsetreference-add:2| */ [[Property:P3417]]: Neuschwanstein-Castle, #quickstatements"
+444817154,2017-02-09T19:51:45Z,Pigsonthewing-bot,"/* wbcreateclaim-create:1| */ [[Property:P3417]]: Neuschwanstein-Castle, #quickstatements"
+430043999,2017-01-15T11:46:29Z,Mikey641Bot,/* wbsetdescription-add:1|he */ טירה בגרמניה
+414765021,2016-12-07T16:19:38Z,Jonathan Groß,"/* wbcreateclaim-create:1| */ [[Property:P1667]]: 7123676, #mix'n'match"
+410139009,2016-11-21T22:12:59Z,Ary29,/* wbsetsitelink-set:1|commonswiki */ Schloss Neuschwanstein
+364993428,2016-08-16T15:58:39Z,MatSuBot,/* wbsetreference-add:2| */ [[Property:P571]]: 1869
+364993416,2016-08-16T15:58:38Z,MatSuBot,/* wbcreateclaim-create:1| */ [[Property:P571]]: 1869
+353915299,2016-07-03T19:44:27Z,Dexbot,/* wbeditentity-update:0| */ Bot: setting proper label for kk
+348443678,2016-06-17T13:03:29Z,Cewbot,/* wbeditentity-update:0| */ bot: import label/alias from [[zh:新天鹅堡]]
+339934407,2016-05-24T16:08:15Z,MaksutZhansaya1,/* wbsetsitelink-add:1|kkwiki */ Нойшванштайн
+337926869,2016-05-17T19:09:57Z,Widar of zolo,"/* wbcreateclaim-create:1| */ [[Property:P454]]: 20015611, #mix'n'match"
+324871233,2016-04-24T07:00:13Z,ACBahn,/* wbsetclaim-create:2||1 */ [[Property:P950]]: XX4888722
+324870463,2016-04-24T06:56:51Z,ACBahn,/* wbsetclaim-create:2||1 */ [[Property:P269]]: 050645390
+324544649,2016-04-23T01:09:46Z,ACBahn,/* wbsetclaim-create:2||1 */ [[Property:P455]]: 271237
+324544168,2016-04-23T01:08:03Z,ACBahn,/* wbsetclaim-create:2||1 */ [[Property:P2503]]: NEUEIN_W8959
+324543313,2016-04-23T01:04:52Z,ACBahn,/* wbsetclaim-create:2||1 */ [[Property:P2163]]: 630965
+324537619,2016-04-23T00:40:10Z,ACBahn,/* wbsetclaim-create:2||1 */ [[Property:P214]]: 316963811
+324537060,2016-04-23T00:37:54Z,ACBahn,/* wbsetclaim-create:2||1 */ [[Property:P268]]: 13086180f
+315091404,2016-03-24T09:09:17Z,Ghuron,/* wbsetreference-add:2| */ [[Property:P112]]: [[Q44039]]
+315091402,2016-03-24T09:09:16Z,Ghuron,/* wbcreateclaim-create:1| */ [[Property:P112]]: [[Q44039]]
+292387179,2016-01-16T10:31:47Z,EmausBot,/* wbeditentity-update:0| */ Add label(s): ceb
+292378925,2016-01-16T09:55:30Z,EmausBot,/* wbeditentity-update:0| */ Added: [[ceb:Schloss Neuschwanstein]]
+281968549,2015-12-09T06:26:44Z,Kippelboy,/* wbsetreference-add:2| */ [[Property:P149]]: [[Q744373]]
+281968548,2015-12-09T06:26:44Z,Kippelboy,/* wbcreateclaim-create:1| */ [[Property:P149]]: [[Q744373]]
+279883137,2015-12-04T23:56:22Z,MedMan,/* clientsitelink-update:0|elwiki|elwiki:Κάστρο Νόισβανσταϊν|elwiki:Κάστρο Νοϊσβάνσταϊν */
+267035546,2015-11-01T14:17:10Z,RobotMichiel1972,/* wbcreateclaim-create:1| */ [[Property:P1435]]: [[Q17297633]]
+267035522,2015-11-01T14:17:07Z,RobotMichiel1972,/* wbremoveclaims-remove:1| */ [[Property:P31]]: [[Q17297633]]
+257701393,2015-10-13T18:39:48Z,सरोज कुमार ढकाल,/* wbsetdescription-add:1|ne */ जर्मनीको बाभारिमामा रहेको दरबार
+257696184,2015-10-13T18:10:47Z,Pit rock,/* wbsetdescription-add:1|pl */ zamek w Niemczech (południowa Bawaria)
+254794248,2015-10-04T15:40:53Z,Dexbot,/* wbeditentity-update:0| */ Bot: setting proper label for hak
+254183912,2015-09-29T05:08:14Z,Chrysolophus pictus,/* wbsetsitelink-add:1|hakwiki */ Sîn Thiên-ngò-sa̍k Sàng-páu
+251911778,2015-09-14T14:44:05Z,Mehdiabbasi,/* clientsitelink-update:0|fawiki|fawiki:نوی‌شوان‌شتین|fawiki:نوی‌شوان‌شتاین */
+232426768,2015-07-19T15:00:04Z,KasparBot,/* wbsetreference-add:2| */ [[Property:P244]]: sh86007802
+232426767,2015-07-19T15:00:03Z,KasparBot,/* wbcreateclaim-create:1| */ [[Property:P244]]: sh86007802
+223020409,2015-06-20T22:01:58Z,Gaja,/* clientsitelink-update:0|huwiki|huwiki:Neuschwanstein|huwiki:Neuschwanstein kastély */
+222861718,2015-06-19T11:55:24Z,Inkos79,/* wbremoveclaims-remove:1| */ [[Property:P131]]: [[Q169276]]
+222861682,2015-06-19T11:55:10Z,Inkos79,/* wbsetclaim-create:2||1 */ [[Property:P131]]: [[Q169276]]
+222861623,2015-06-19T11:54:47Z,Inkos79,/* wbsetclaim-create:2||1 */ [[Property:P31]]: [[Q751876]]
+215072884,2015-05-10T11:11:39Z,AkkakkBot,/* wbeditentity-update:0| */ - set sh label to Dvorac Neuschwanstein (task 5)
+215025523,2015-05-09T23:43:55Z,ProtLink,/* wbsetsitelink-add:1|shwiki */ Dvorac Neuschwanstein
+214027882,2015-05-02T17:23:00Z,Philippe rogez,/* wbsetsitelink-add:1|commonswiki */ Category:Neuschwanstein Castle
+214027773,2015-05-02T17:21:56Z,Philippe rogez,/* wbsetsitelink-remove:1|commonswiki */ Schloss Neuschwanstein
+210754905,2015-04-14T11:57:16Z,AkkakkBot,/* wbeditentity-update:0| */ - set hy label to Նոյշվանշտայն (task 5)
+210109637,2015-04-11T14:07:12Z,Kareyac,/* wbsetsitelink-add:1|hywiki */ Նոյշվանշտայն
+209712585,2015-04-09T17:18:03Z,AkkakkBot,/* wbeditentity-update:0| */ - set ms label to Istana kota Neuschwanstein - set sd label to نيو شوانسٽائن (task 5)
+207082526,2015-03-27T08:36:53Z,Muhd Aiman65,/* wbsetsitelink-add:1|mswiki */ Istana kota Neuschwanstein
+206783345,2015-03-26T03:41:06Z,محمد مجیب,"/* wbsetsitelink-add-both:2|sdwiki */ نيو شوانسٽائن, [[Q17437798]]"
+192030928,2015-01-29T13:37:16Z,Gzen92,/* wbsetlabel-set:1|fr */ château de Neuschwanstein
+190629373,2015-01-24T20:13:08Z,Lilitik22,/* clientsitelink-remove:1||hywiki */ Նոյշվանշտայն ամրոց
+190584899,2015-01-24T18:03:06Z,Kareyac,/* wbsetsitelink-add:1|hywiki */ Նոյշվանշտայն ամրոց
+186319357,2015-01-06T13:41:12Z,Stuchka,/* wbsetdescription-add:1|ru */ замок баварского короля Людвига II около городка Фюссен и замка Хоэншвангау в юго-западной Баварии
+185353494,2015-01-01T17:01:33Z,RobotMichiel1972,/* wbeditentity-update:0| */ [nl] add description: kasteel in Duitsland
+185338229,2015-01-01T16:07:12Z,RobotMichiel1972,/* wbeditentity-update:0| */ [nl] add description: paleis in Duitsland ontworpen door Christian Jank
+184904349,2014-12-30T20:55:15Z,95.85.248.16,/* wbsetdescription-add:1|cs */ zámek Neuschwanstein
+169637710,2014-10-31T12:14:13Z,ValterVBot,/* wbeditentity-update:0| */ BOT:Add P1566 - see [[Wikidata:Bot_requests#Import_GeoNames_ID_.28P1566.29|Bot request]] at 25 October 2014
+164036882,2014-10-15T21:09:41Z,Dexbot,"/* wbsetsitelink-set-both:2|dewikivoyage */ Neuschwanstein, [[Q17559452]]"
+155521096,2014-09-03T03:05:43Z,Dexbot,"/* wbsetsitelink-set-both:2|plwiki */ Neuschwanstein, [[Q17437798]]"
+151830126,2014-08-19T23:37:24Z,Dexbot,"/* wbsetsitelink-set-both:2|dewiki */ Schloss Neuschwanstein, [[Q17437796]]"
+151787966,2014-08-19T20:56:35Z,Dexbot,"/* wbsetsitelink-set-both:2|azwiki */ Noyşvanştayn qəsri, [[Q17437796]]"
+151133084,2014-08-16T19:11:58Z,Wertuose,/* clientsitelink-update:0|azwiki|azwiki:Noyşvanşteyn qəsri|azwiki:Noyşvanştayn qəsri */
+150456440,2014-08-11T16:46:16Z,Bahman Karimli,/* clientsitelink-update:0|azwiki|azwiki:Nöyşvanştayn qəsri|azwiki:Noyşvanşteyn qəsri */
+147077349,2014-07-23T14:41:20Z,Archer90,/* wbsetclaim-create:2||1 */ [[Property:P18]]: Schloss Neuschwanstein 2013.jpg
+141759694,2014-06-30T16:54:53Z,Bthfan,/* wbsetclaim-create:2||1 */ [[Property:P31]]: [[Q17297633]]
+126150687,2014-05-06T12:24:07Z,AkkakkBot,/* wbeditentity-update:0| */ - rename be-x-old label to be-tarask- remove redundant simple label- remove redundant zh-min-nan label (task 7)
+125687151,2014-05-05T07:49:54Z,AkkakkBot,/* wbeditentity-update:0| */ - set ta label to நோஸ்வான்ஸ்டைய்ன் கோட்டைமனை - set nan label to Neuschwanstein Siâⁿ-pó (task 5)
+123706434,2014-04-29T11:26:53Z,Lockal,/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q23413]]
+119610130,2014-04-08T14:45:00Z,Urbandweller,/* clientsitelink-update:2|dawiki|dawiki:Neuschwanstein|dawiki:Schloss Neuschwanstein */
+116788503,2014-03-17T19:43:50Z,AyackBot,/* wbsetreference-add:2| */ [[Property:P84]]: [[Q573740]]
+116788496,2014-03-17T19:43:48Z,AyackBot,/* wbcreateclaim-create:1| */ [[Property:P84]]: [[Q573740]]
+116788487,2014-03-17T19:43:44Z,AyackBot,/* wbsetreference-add:2| */ [[Property:P127]]: [[Q44039]]
+116788481,2014-03-17T19:43:41Z,AyackBot,/* wbcreateclaim-create:1| */ [[Property:P127]]: [[Q44039]]
+110865895,2014-02-21T01:35:47Z,AntanO,/* wbsetsitelink-add:1|tawiki */நோஸ்வான்ஸ்டைய்ன் கோட்டைமனை
+107890671,2014-02-05T15:32:38Z,Nikosguard,/* wbeditentity-update:0| */Update of labels.
+107717803,2014-02-04T15:35:01Z,C messier,/* wbsetsitelink-add:1|elwiki */Κάστρο Νόισβανσταϊν
+106353838,2014-01-30T00:16:32Z,Holger1959,/* wbcreateclaim-create:1| */[[Property:P17]]: [[Q183]]
+97938753,2014-01-03T10:03:57Z,YMS,/* wbremoveclaims-remove:1| */[[Property:P107]]: [[Q618123]]
+97938742,2014-01-03T10:03:51Z,YMS,/* wbremoveclaims-remove:1| */[[Property:P168]]: [[Q16560]]
+97938729,2014-01-03T10:03:47Z,YMS,/* wbsetclaim-create:1||1 */[[Property:P31]]: [[Q16560]]
+96792131,2013-12-28T22:13:22Z,BotMultichill,/* wbeditentity-update:0| */Adding sitelink to Commons based on link to [[:de:Schloss Neuschwanstein]] from [[:Commons:Schloss Neuschwanstein]]
+91719544,2013-12-06T05:13:12Z,Legobot,/* wbsetreference-add:2| */[[Property:P646]]: /m/01jz1z
+91719542,2013-12-06T05:13:11Z,Legobot,/* wbcreateclaim-create:1| */[[Property:P646]]: /m/01jz1z
+89476344,2013-11-26T00:55:24Z,DanmicholoBot,/* wbsetlabel-remove:1|no */
+89476337,2013-11-26T00:55:20Z,DanmicholoBot,/* wbsetlabel-add:1|nb */from the [no] label
+84999923,2013-11-09T21:22:20Z,JAnDbot,/* wbsetreference-add:2| */[[Property:P935]]: Schloss Neuschwanstein
+84999906,2013-11-09T21:22:18Z,JAnDbot,/* wbcreateclaim-create:1| */[[Property:P935]]: Schloss Neuschwanstein
+83821988,2013-11-04T22:27:50Z,KrBot,/* wbsetreference-add:2| */[[Property:P214]]: 248538736
+83821982,2013-11-04T22:27:48Z,KrBot,/* wbcreateclaim-create:1| */[[Property:P214]]: 248538736
+82704909,2013-10-30T09:45:36Z,EmausBot,/* wbeditentity-update:0| */Added link: [[zea:Neuschwanstein]]
+78897885,2013-10-17T06:24:10Z,AyackBot,/* wbsetreference-add:2| */[[Property:P131]]: [[Q672962]]
+78897843,2013-10-17T06:24:00Z,AyackBot,/* wbcreateclaim-create:1| */[[Property:P131]]: [[Q672962]]
+65960191,2013-08-16T17:44:46Z,Namaka,/* wbsetsitelink-set:1|azwiki */ Nöyşvanştayn qəsri
+65149939,2013-08-11T04:02:13Z,AmaryllisGardener,/* wbsetsitelink-set:1|scowiki */ Neuschwanstein Castle
+65149915,2013-08-11T04:02:06Z,AmaryllisGardener,/* wbsetlabel-set:1|sco */ Neuschwanstein Castle
+61037730,2013-07-24T03:11:21Z,WYImporterBot,/* wbeditentity-update:0| */
+55357781,2013-07-09T21:35:34Z,RobotMichiel1972,/* wbsetreference */
+55357769,2013-07-09T21:35:33Z,RobotMichiel1972,"/* wbcreateclaim-create:2| */ [[Property:P168]], [[Q16560]]"
+51266813,2013-06-17T22:57:13Z,KLBot2,/* wbcreateclaim-create:1| */ [[Property:P625]]
+41507740,2013-05-13T18:40:51Z,Alan ffm,/* wbsetclaim-update:1||1 */ [[Property:P107]]: [[Q618123]]
+41506956,2013-05-13T18:39:16Z,Alan ffm,/* wbsetclaim-create:1||1 */ [[Property:P107]]: [[Q925203]]
+41503858,2013-05-13T18:33:30Z,Alan ffm,/* wbsetclaim-create:1||1 */ [[Property:P227]]: 4075333-5
+25734588,2013-04-16T03:35:30Z,KrBot,
+21045922,2013-04-06T04:05:20Z,Tbennert,/* wbsetdescription-set:1|fr */ château
+10949972,2013-03-11T02:50:20Z,Rezabot,/* wbeditentity-update */ Bot: Update of labels.
+7904929,2013-02-27T00:03:31Z,Legobot,/* wbsetsitelink-set:1|be_x_oldwiki */ Bot: Importing interwikis from hewiki
+7904927,2013-02-27T00:03:30Z,Legobot,/* wbsetsitelink-set:1|jvwiki */ Bot: Importing interwikis from hewiki
+1825216,2012-12-19T05:06:51Z,Tbennert,"/* wbsetdescription-set:1|en */ palace in Bavaria, Germany"
+1157532,2012-12-08T19:23:49Z,B25es,/* wbsetdescription-set:1|es */ castillo de Alemania
+1152240,2012-12-08T18:10:25Z,ValterVB,/* wbsetdescription-set:1|it */ castello tedesco
+405672,2012-11-11T18:28:54Z,Inkowik,/* wbsetentity */ [[MediaWiki talk:Gadget-autoEdit.js|autoEdit]] Update Labels
+318562,2012-11-04T08:16:53Z,Happy5214,/* wbsetentity */ Update of interwikis from dewiki
+318558,2012-11-04T08:16:41Z,Happy5214,/* wbsetlabel-set:1|en */ Neuschwanstein Castle
+274470,2012-11-01T12:14:38Z,Florn88,/* wbsetlabel-set:1|fr */ Château de Neuschwanstein
+267242,2012-10-31T21:32:49Z,NordNordWest,/* wbsetsitelink-set:1|barwiki */ Schloss Neischwanstoa
+267236,2012-10-31T21:32:27Z,NordNordWest,/* wbsetsitelink-set:1|nlwiki */ Slot Neuschwanstein
+267230,2012-10-31T21:32:14Z,NordNordWest,/* wbsetsitelink-set:1|itwiki */ Castello di Neuschwanstein
+267221,2012-10-31T21:32:01Z,NordNordWest,/* wbsetsitelink-set:1|frwiki */ Château de Neuschwanstein
+267219,2012-10-31T21:31:50Z,NordNordWest,/* wbsetsitelink-set:1|enwiki */ Neuschwanstein Castle
+267216,2012-10-31T21:31:37Z,NordNordWest,/* wbsetsitelink-set:1|dewiki */ Schloss Neuschwanstein
+267214,2012-10-31T21:31:23Z,NordNordWest,"Created page with ""Schloss bei Füssen in Bayern"""
