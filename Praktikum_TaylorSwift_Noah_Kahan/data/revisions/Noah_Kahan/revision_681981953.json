@@ -1,0 +1,28 @@
+{
+  "entities": {
+    "Q53832755": {
+      "pageid": 54289488,
+      "ns": 0,
+      "title": "Q53832755",
+      "lastrevid": 681981953,
+      "modified": "2018-05-20T10:33:16Z",
+      "type": "item",
+      "id": "Q53832755",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "Noah Kahan"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "American singer-songwriter"
+        }
+      },
+      "aliases": {},
+      "claims": {},
+      "sitelinks": {}
+    }
+  }
+}

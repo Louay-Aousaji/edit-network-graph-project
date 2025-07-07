@@ -1,0 +1,3031 @@
+{
+  "entities": {
+    "Q26876": {
+      "pageid": 30291,
+      "ns": 0,
+      "title": "Q26876",
+      "lastrevid": 291856302,
+      "modified": "2016-01-14T06:20:54Z",
+      "type": "item",
+      "id": "Q26876",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "Taylor Swift"
+        },
+        "af": {
+          "language": "af",
+          "value": "Taylor Swift"
+        },
+        "ang": {
+          "language": "ang",
+          "value": "Taylor Swift"
+        },
+        "ar": {
+          "language": "ar",
+          "value": "\u062a\u0627\u064a\u0644\u0648\u0631 \u0633\u0648\u064a\u0641\u062a"
+        },
+        "as": {
+          "language": "as",
+          "value": "\u099f\u09c7\u0987\u09b2\u09f0 \u099b\u09c1\u0987\u09ab\u09cd\u099f"
+        },
+        "bar": {
+          "language": "bar",
+          "value": "Taylor Swift"
+        },
+        "be": {
+          "language": "be",
+          "value": "\u0422\u044d\u0439\u043b\u0430\u0440 \u0421\u0432\u0456\u0444\u0442"
+        },
+        "bg": {
+          "language": "bg",
+          "value": "\u0422\u0435\u0439\u043b\u044a\u0440 \u0421\u0443\u0438\u0444\u0442"
+        },
+        "bn": {
+          "language": "bn",
+          "value": "\u099f\u09c7\u0987\u09b2\u09b0 \u09b8\u09c1\u0987\u09ab\u099f"
+        },
+        "ca": {
+          "language": "ca",
+          "value": "Taylor Swift"
+        },
+        "cs": {
+          "language": "cs",
+          "value": "Taylor Swift"
+        },
+        "da": {
+          "language": "da",
+          "value": "Taylor Swift"
+        },
+        "de": {
+          "language": "de",
+          "value": "Taylor Swift"
+        },
+        "diq": {
+          "language": "diq",
+          "value": "Taylor Swift"
+        },
+        "el": {
+          "language": "el",
+          "value": "\u03a4\u03ad\u03b9\u03bb\u03bf\u03c1 \u03a3\u03bf\u03c5\u03af\u03c6\u03c4"
+        },
+        "es": {
+          "language": "es",
+          "value": "Taylor Swift"
+        },
+        "et": {
+          "language": "et",
+          "value": "Taylor Swift"
+        },
+        "eu": {
+          "language": "eu",
+          "value": "Taylor Swift"
+        },
+        "fa": {
+          "language": "fa",
+          "value": "\u062a\u06cc\u0644\u0648\u0631 \u0633\u0648\u0626\u06cc\u0641\u062a"
+        },
+        "fi": {
+          "language": "fi",
+          "value": "Taylor Swift"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "Taylor Swift"
+        },
+        "gl": {
+          "language": "gl",
+          "value": "Taylor Swift"
+        },
+        "he": {
+          "language": "he",
+          "value": "\u05d8\u05d9\u05d9\u05dc\u05d5\u05e8 \u05e1\u05d5\u05d5\u05d9\u05e4\u05d8"
+        },
+        "hi": {
+          "language": "hi",
+          "value": "\u091f\u0947\u0932\u0930 \u0938\u094d\u0935\u093f\u092b\u094d\u091f"
+        },
+        "hr": {
+          "language": "hr",
+          "value": "Taylor Swift"
+        },
+        "hu": {
+          "language": "hu",
+          "value": "Taylor Swift"
+        },
+        "hy": {
+          "language": "hy",
+          "value": "\u0539\u0565\u0575\u056c\u0578\u0580 \u054d\u057e\u056b\u0586\u0569"
+        },
+        "id": {
+          "language": "id",
+          "value": "Taylor Swift"
+        },
+        "is": {
+          "language": "is",
+          "value": "Taylor Swift"
+        },
+        "it": {
+          "language": "it",
+          "value": "Taylor Swift"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "\u30c6\u30a4\u30e9\u30fc\u30fb\u30b9\u30a6\u30a3\u30d5\u30c8"
+        },
+        "jv": {
+          "language": "jv",
+          "value": "Taylor Swift"
+        },
+        "ka": {
+          "language": "ka",
+          "value": "\u10e2\u10d4\u10d8\u10da\u10dd\u10e0 \u10e1\u10d5\u10d8\u10e4\u10e2\u10d8"
+        },
+        "kn": {
+          "language": "kn",
+          "value": "\u0c9f\u0cc8\u0cb2\u0cb0\u0ccd \u0cb8\u0ccd\u0cb5\u0cbf\u0cab\u0ccd\u0c9f\u0ccd"
+        },
+        "ko": {
+          "language": "ko",
+          "value": "\ud14c\uc77c\ub7ec \uc2a4\uc704\ud504\ud2b8"
+        },
+        "la": {
+          "language": "la",
+          "value": "Taylor Swift"
+        },
+        "lt": {
+          "language": "lt",
+          "value": "Taylor Swift"
+        },
+        "lv": {
+          "language": "lv",
+          "value": "Teilora Svifta"
+        },
+        "mk": {
+          "language": "mk",
+          "value": "\u0422\u0435\u0458\u043b\u043e\u0440 \u0421\u0432\u0438\u0444\u0442"
+        },
+        "ml": {
+          "language": "ml",
+          "value": "\u0d1f\u0d46\u0d2f\u0d3f\u0d32\u0d7c \u0d38\u0d4d\u0d35\u0d3f\u0d2b\u0d4d\u0d31\u0d4d\u0d31\u0d4d"
+        },
+        "ms": {
+          "language": "ms",
+          "value": "Taylor Swift"
+        },
+        "ne": {
+          "language": "ne",
+          "value": "\u091f\u0947\u0932\u0930 \u0938\u094d\u0935\u093f\u092b\u094d\u091f"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "Taylor Swift"
+        },
+        "nn": {
+          "language": "nn",
+          "value": "Taylor Swift"
+        },
+        "pl": {
+          "language": "pl",
+          "value": "Taylor Swift"
+        },
+        "pt": {
+          "language": "pt",
+          "value": "Taylor Swift"
+        },
+        "ro": {
+          "language": "ro",
+          "value": "Taylor Swift"
+        },
+        "ru": {
+          "language": "ru",
+          "value": "\u0422\u0435\u0439\u043b\u043e\u0440 \u0421\u0432\u0438\u0444\u0442"
+        },
+        "sl": {
+          "language": "sl",
+          "value": "Taylor Swift"
+        },
+        "sq": {
+          "language": "sq",
+          "value": "Taylor Swift"
+        },
+        "sr": {
+          "language": "sr",
+          "value": "\u0422\u0435\u0458\u043b\u043e\u0440 \u0421\u0432\u0438\u0444\u0442"
+        },
+        "su": {
+          "language": "su",
+          "value": "Taylor Swift"
+        },
+        "sv": {
+          "language": "sv",
+          "value": "Taylor Swift"
+        },
+        "sw": {
+          "language": "sw",
+          "value": "Taylor Swift"
+        },
+        "th": {
+          "language": "th",
+          "value": "\u0e40\u0e17\u0e22\u0e4c\u0e40\u0e25\u0e2d\u0e23\u0e4c \u0e2a\u0e27\u0e34\u0e1f\u0e15\u0e4c"
+        },
+        "tl": {
+          "language": "tl",
+          "value": "Taylor Swift"
+        },
+        "tr": {
+          "language": "tr",
+          "value": "Taylor Swift"
+        },
+        "uk": {
+          "language": "uk",
+          "value": "\u0422\u0435\u0439\u043b\u043e\u0440 \u0421\u0432\u0456\u0444\u0442"
+        },
+        "uz": {
+          "language": "uz",
+          "value": "Taylor Swift"
+        },
+        "vi": {
+          "language": "vi",
+          "value": "Taylor Swift"
+        },
+        "yi": {
+          "language": "yi",
+          "value": "\u05d8\u05e2\u05d9\u05dc\u05d0\u05e8 \u05e1\u05d5\u05d5\u05d9\u05e4\u05d8"
+        },
+        "zh": {
+          "language": "zh",
+          "value": "\u6cf0\u52d2\u00b7\u65af\u5a01\u592b\u7279"
+        },
+        "sk": {
+          "language": "sk",
+          "value": "Taylor Swiftov\u00e1"
+        },
+        "so": {
+          "language": "so",
+          "value": "Taylor Swift"
+        },
+        "ckb": {
+          "language": "ckb",
+          "value": "\u062a\u0627\u06cc\u0644\u06c6\u0631 \u0633\u0648\u06cc\u0641\u062a"
+        },
+        "ga": {
+          "language": "ga",
+          "value": "Taylor Swift"
+        },
+        "zh-cn": {
+          "language": "zh-cn",
+          "value": "\u6cf0\u52d2\u00b7\u65af\u5a01\u592b\u7279"
+        },
+        "oc": {
+          "language": "oc",
+          "value": "Taylor Swift"
+        },
+        "az": {
+          "language": "az",
+          "value": "Teylor Svift"
+        },
+        "ta": {
+          "language": "ta",
+          "value": "\u0b9f\u0bc7\u0bb2\u0bb0\u0bcd \u0bb8\u0bcd\u0bb5\u0bbf\u0b83\u0baa\u0bcd\u0b9f\u0bcd"
+        },
+        "nb": {
+          "language": "nb",
+          "value": "Taylor Swift"
+        },
+        "ur": {
+          "language": "ur",
+          "value": "\u0679\u06cc\u0644\u0631 \u0633\u0648\u0626\u0641\u0679"
+        },
+        "pa": {
+          "language": "pa",
+          "value": "\u0a1f\u0a47\u0a32\u0a30 \u0a38\u0a35\u0a3f\u0a2b\u0a1f"
+        },
+        "te": {
+          "language": "te",
+          "value": "\u0c1f\u0c47\u0c32\u0c30\u0c4d \u0c38\u0c4d\u0c35\u0c3f\u0c2b\u0c4d\u0c1f\u0c4d"
+        },
+        "yue": {
+          "language": "yue",
+          "value": "\u6cf0\u52d2\u65af\u5a01\u592b\u7279"
+        },
+        "nan": {
+          "language": "nan",
+          "value": "Taylor Swift"
+        },
+        "sh": {
+          "language": "sh",
+          "value": "Taylor Swift"
+        },
+        "lzh": {
+          "language": "lzh",
+          "value": "\u6cf0\u52d2\u00b7\u65af\u5a01\u592b\u7279"
+        },
+        "my": {
+          "language": "my",
+          "value": "\u1010\u1031\u101c\u102c\u1006\u103d\u1005\u103a\u1016\u103a"
+        },
+        "sco": {
+          "language": "sco",
+          "value": "Taylor Swift"
+        },
+        "kk": {
+          "language": "kk",
+          "value": "\u0422\u0435\u0439\u043b\u043e\u0440 \u0421\u0432\u0438\u0444\u0442"
+        },
+        "eo": {
+          "language": "eo",
+          "value": "Taylor Swift"
+        },
+        "ast": {
+          "language": "ast",
+          "value": "Taylor Swift"
+        },
+        "ku": {
+          "language": "ku",
+          "value": "Taylor Swift"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "singer-songwriter from the United States"
+        },
+        "it": {
+          "language": "it",
+          "value": "cantautrice e attrice statunitense"
+        },
+        "ca": {
+          "language": "ca",
+          "value": "cantant i compositora dels Estats Units"
+        },
+        "de": {
+          "language": "de",
+          "value": "US-amerikanische Country-S\u00e4ngerin"
+        },
+        "es": {
+          "language": "es",
+          "value": "cantante y compositora estadounidense"
+        },
+        "pl": {
+          "language": "pl",
+          "value": "piosenkarka ameryka\u0144ska"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "actrice am\u00e9ricaine"
+        },
+        "fa": {
+          "language": "fa",
+          "value": "\u062e\u0648\u0627\u0646\u0646\u062f\u0647 \u0648 \u0622\u0647\u0646\u06af\u0633\u0627\u0632 \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc\u06cc"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "Amerikaans acteur"
+        },
+        "vi": {
+          "language": "vi",
+          "value": "ca s\u0129-nh\u1ea1c s\u0129 s\u00e1ng t\u00e1c ca kh\u00fac ng\u01b0\u1eddi M\u1ef9"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u30ab\u30f3\u30c8\u30ea\u30fc\u30fb\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u6b4c\u624b\u3001\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc"
+        },
+        "ms": {
+          "language": "ms",
+          "value": "Penyanyi-penulis lagu berasal dari Amerika Syarikat"
+        },
+        "sv": {
+          "language": "sv",
+          "value": "amerikansk countrys\u00e5ngerska, l\u00e5tskrivare och sk\u00e5despelerska"
+        },
+        "sco": {
+          "language": "sco",
+          "value": "American sangster-sangwriter"
+        },
+        "ru": {
+          "language": "ru",
+          "value": "\u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u043f\u0435\u0432\u0438\u0446\u0430, \u0430\u0432\u0442\u043e\u0440 \u043f\u0435\u0441\u0435\u043d"
+        }
+      },
+      "aliases": {
+        "en": [
+          {
+            "language": "en",
+            "value": "Taylor Alison Swift"
+          }
+        ],
+        "ru": [
+          {
+            "language": "ru",
+            "value": "\u0422\u0435\u0439\u043b\u043e\u0440 \u042d\u043b\u0438\u0441\u043e\u043d \u0421\u0432\u0438\u0444\u0442"
+          },
+          {
+            "language": "ru",
+            "value": "\u0421\u0432\u0438\u0444\u0442, \u0422\u0435\u0439\u043b\u043e\u0440"
+          }
+        ],
+        "de": [
+          {
+            "language": "de",
+            "value": "Taylor Alison Swift"
+          }
+        ],
+        "ja": [
+          {
+            "language": "ja",
+            "value": "\u30c6\u30a4\u30e9\u30fc\u30fb\u30a2\u30ea\u30bd\u30f3\u30fb\u30b9\u30a6\u30a3\u30d5\u30c8"
+          }
+        ]
+      },
+      "claims": {
+        "P553": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P553",
+              "hash": "4b8a0f496629aff97b1b9149de8aa9d253a63304",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 384060,
+                  "id": "Q384060"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P554": [
+                {
+                  "snaktype": "value",
+                  "property": "P554",
+                  "hash": "cc86a0a79c5f51f6249b83f9b13a086df4955c55",
+                  "datavalue": {
+                    "value": "taylorswift",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P554"
+            ],
+            "id": "Q26876$0E7ADD28-F7FB-49DA-8ED2-8E02373568D1",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P553",
+              "hash": "113a6888d569dc2f4ad2309cb683d8f48be379f5",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 866,
+                  "id": "Q866"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P554": [
+                {
+                  "snaktype": "value",
+                  "property": "P554",
+                  "hash": "cc86a0a79c5f51f6249b83f9b13a086df4955c55",
+                  "datavalue": {
+                    "value": "taylorswift",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P554"
+            ],
+            "id": "Q26876$088F9BC7-8ECE-4992-9C6D-9334C60844C0",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P553",
+              "hash": "67605ba0bf31d2f0a39297019d4ff183a09af989",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 40629,
+                  "id": "Q40629"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P554": [
+                {
+                  "snaktype": "value",
+                  "property": "P554",
+                  "hash": "cc86a0a79c5f51f6249b83f9b13a086df4955c55",
+                  "datavalue": {
+                    "value": "taylorswift",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P554"
+            ],
+            "id": "Q26876$f923a44f-4787-da7c-ea6d-c4f1c60c9756",
+            "rank": "normal"
+          }
+        ],
+        "P22": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P22",
+              "hash": "ec19069f771eff25a5a40adbd34fd0e2b4dfe094",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 17319204,
+                  "id": "Q17319204"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q26876$7c61140b-4c7d-edcf-bc27-5e15ad6b7cc6",
+            "rank": "normal"
+          }
+        ],
+        "P21": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P21",
+              "hash": "5760796ff6ebc63aae12cdcbf509b07ebf0bd201",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 6581072,
+                  "id": "Q6581072"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "q26876$B45CC8D1-66B6-42D4-83B9-28E216036B79",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "759b2a264fff886006b6f49c3ef2f1acbfd1cef0",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "b14f8dad3de12f83b158a718b20772dc6c65fa0d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 54919,
+                          "id": "Q54919"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              },
+              {
+                "hash": "d5847b9b6032aa8b13dae3c2dfd9ed5d114d21b3",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "5a343e7e758a4282a01316d3e959b6e653b767fc",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 11920,
+                          "id": "Q11920"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              },
+              {
+                "hash": "abc9457dcf728dd069b8ed5b2e1a86035cf2b679",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "019a50b7de741e0068bde41c9d9955b22a5de47b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 36578,
+                          "id": "Q36578"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "7805df7373a5e95763e019b855686d24acee918e",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2014-04-09T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P813"
+                ]
+              },
+              {
+                "hash": "9427f34135cf37aec4d70b4e90296e9823bd3927",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "da30562523b94bc9c043e8ecdf983c520d76fa31",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 20666306,
+                          "id": "Q20666306"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "d6162a1716489623c6e595e448b17f8dca4fb2e8",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2015-10-10T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "204f071be00dd436f0909638065d7ecda270fc21",
+                      "datavalue": {
+                        "value": "http://data.bnf.fr/ark:/12148/cb16020410t",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P813",
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P106": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P106",
+              "hash": "61625db170d5128ff2a4c75eea2b5fa7612ee73e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 488205,
+                  "id": "Q488205"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "q26876$B542C4C2-7C72-4DE5-B4F4-0FF6B088E335",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "732ec1c90a6f0694c7db9a71bf09fe7f2b674172",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "9123b0de1cc9c3954366ba797d598e4e1ea4146f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 10000,
+                          "id": "Q10000"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P106",
+              "hash": "758295c4843ebfb766fc8236d4849374401bd73e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 33999,
+                  "id": "Q33999"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "q26876$8D18B84D-976D-426A-8039-C676D289D9BC",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P106",
+              "hash": "159ad2bb95da58fb6a5e8cca5b1e389a3e9d2f83",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 486748,
+                  "id": "Q486748"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q26876$9EA2039E-983D-4E15-8837-1C643A33C712",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P106",
+              "hash": "9b8faff188fd0c14a75a513826219176d2577b5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 9648008,
+                  "id": "Q9648008"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q26876$981ED803-C19E-4EFC-B7D9-42558BE7023F",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P106",
+              "hash": "7263b8947456c9026f1e8726c6773eb2ec39db24",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 639669,
+                  "id": "Q639669"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q26876$DD94073F-52BB-4B03-A1B9-58662E15E3BF",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "45995935afc338d83b11f4f9ef7edfc31adb160d",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "b949f92475f866250da42294babf8ea294fd253f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48952,
+                          "id": "Q48952"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P106",
+              "hash": "f9297a95dae016a21c3094b33ce10828ad6539e6",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36834,
+                  "id": "Q36834"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q26876$C4BFABA9-2982-48F8-A6AF-86F208691C70",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P106",
+              "hash": "b84229a0310f39be7f26bd725d2c484b415bf2e2",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 855091,
+                  "id": "Q855091"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q26876$FD00A274-5647-43CC-BEC2-EEF762546498",
+            "rank": "normal"
+          }
+        ],
+        "P358": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P358",
+              "hash": "6d8b74ddcdcc6fd23be8f3213e3bd9dd8d522239",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 276736,
+                  "id": "Q276736"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "q26876$D1EF6362-84ED-48C9-B25F-723BF0E0A54C",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P27": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P27",
+              "hash": "52d0408c7915122e0519a22577f0cbdcb28f749b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 30,
+                  "id": "Q30"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "q26876$D4F689FF-D8CB-402C-AFE6-06F8D30800E6",
+            "rank": "normal"
+          }
+        ],
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "1fd97e2e86b6b82fffd38d6d20317cc8514cd84e",
+              "datavalue": {
+                "value": "Taylor Swift",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "q26876$3A94F249-3F4E-47C7-BA53-327FC3C67ADC",
+            "rank": "normal"
+          }
+        ],
+        "P214": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P214",
+              "hash": "71e5a7cf5e27a4baef7dc3d301f093ecd5081756",
+              "datavalue": {
+                "value": "88580701",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "q26876$1E57D082-6E35-46A0-92A6-6E828003158F",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              },
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              },
+              {
+                "hash": "d5847b9b6032aa8b13dae3c2dfd9ed5d114d21b3",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "5a343e7e758a4282a01316d3e959b6e653b767fc",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 11920,
+                          "id": "Q11920"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P213": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P213",
+              "hash": "e10771f24937d93248aac86604fe1cc83bf6324d",
+              "datavalue": {
+                "value": "0000 0000 7851 9858",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "q26876$83355652-F607-41A1-ACA2-6D7A842D8F76",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a35e58d096248d4e691ec174537c3f6d9b72b56",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "7c480fd4e064375cbf944a539a8ce692dbacb82d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 423048,
+                          "id": "Q423048"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P434": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P434",
+              "hash": "322c9108dadf9e221bec82badea7292f602ea4ad",
+              "datavalue": {
+                "value": "20244d07-534f-4eff-b4d4-930878889970",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "q26876$63AB36FA-4762-4673-90FD-A4EB781EF24D",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "53a19ec471a6ea2dea08cb78c7d9ef7523dab9b4",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "218463d7b4ffecea0d668dbadc5f42ef6f88a9ab",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 14005,
+                          "id": "Q14005"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P227": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P227",
+              "hash": "5776c7b9d4bd1dc0ddd5b851aac7d5e6a48a7150",
+              "datavalue": {
+                "value": "137997698",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "q26876$8D33D77E-B897-4C8A-9225-59D358517180",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P244": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P244",
+              "hash": "5a225f763608e27ea1655bb2c3675904c43abcd1",
+              "datavalue": {
+                "value": "no2007053238",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "q26876$02698BAF-709D-46E0-8F20-BA19F921F0B3",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              },
+              {
+                "hash": "d5847b9b6032aa8b13dae3c2dfd9ed5d114d21b3",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "5a343e7e758a4282a01316d3e959b6e653b767fc",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 11920,
+                          "id": "Q11920"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P19": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P19",
+              "hash": "77e570bf2970d9d44cc86e519a647ace5f99e22f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 237896,
+                  "id": "Q237896"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "q26876$E4BB191D-972F-4C43-A854-5C86BE7CC146",
+            "rank": "normal"
+          }
+        ],
+        "P349": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P349",
+              "hash": "1a6089e7e2d007188caac7549fed331cee775a65",
+              "datavalue": {
+                "value": "01238670",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "q26876$D3A643A5-204B-46C3-86B6-70B2B6D628C6",
+            "rank": "normal"
+          }
+        ],
+        "P569": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P569",
+              "hash": "ed941c2f46bc1e7b9d86726b2462054e5843de0e",
+              "datavalue": {
+                "value": {
+                  "time": "+1989-12-13T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "q26876$54b49fb8-4b11-170e-f634-0f28f5a01145",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              },
+              {
+                "hash": "abc9457dcf728dd069b8ed5b2e1a86035cf2b679",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "019a50b7de741e0068bde41c9d9955b22a5de47b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 36578,
+                          "id": "Q36578"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "7805df7373a5e95763e019b855686d24acee918e",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2014-04-09T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P345": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P345",
+              "hash": "39f73583b8a1de936da16fa8ecbb42165dffb29c",
+              "datavalue": {
+                "value": "nm2357847",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "q26876$FAE39FF1-C03F-45FA-B258-2ECBB3E7F610",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "d5847b9b6032aa8b13dae3c2dfd9ed5d114d21b3",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "5a343e7e758a4282a01316d3e959b6e653b767fc",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 11920,
+                          "id": "Q11920"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P910": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P910",
+              "hash": "3d87cffdf470f36201770762a756049323ccfc22",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 6426827,
+                  "id": "Q6426827"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q26876$9EC35195-7B70-453F-A60A-1006AB14866F",
+            "rank": "normal"
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "945b700cedb723edcf44ab9f56c9fbca6e2dc60e",
+              "datavalue": {
+                "value": "http://taylorswift.com/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q26876$DA9AE5BB-4C46-4B66-B035-DBF55245C293",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 5,
+                  "id": "Q5"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q26876$7EBFB626-CB34-4CB9-97C7-F4A12F1DEC59",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "0ee3b3ba1c958f4c3dcba7ed8091fe4b57311348",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "cb49f6fa327b245e4a5aaf48c44b3f503bcd4265",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 30239,
+                          "id": "Q30239"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              },
+              {
+                "hash": "9427f34135cf37aec4d70b4e90296e9823bd3927",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "da30562523b94bc9c043e8ecdf983c520d76fa31",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 20666306,
+                          "id": "Q20666306"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "d6162a1716489623c6e595e448b17f8dca4fb2e8",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2015-10-10T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "204f071be00dd436f0909638065d7ecda270fc21",
+                      "datavalue": {
+                        "value": "http://data.bnf.fr/ark:/12148/cb16020410t",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P813",
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "e1ccbfd61107ad703c4ed926a1b8a9b3ffccf80b",
+              "datavalue": {
+                "value": "Swift performing on the Speak Now Tour in 2012.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q26876$43F14102-7579-45CE-AE68-CE923E545B9D",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P646": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P646",
+              "hash": "5612299faf42a8bda7becbb32dc912fa37a2f07c",
+              "datavalue": {
+                "value": "/m/0dl567",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q26876$58928DCE-0A14-463C-B470-8447A76794A8",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 15241312,
+                          "id": "Q15241312"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P577": [
+                    {
+                      "snaktype": "value",
+                      "property": "P577",
+                      "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2013-10-28T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P577"
+                ]
+              }
+            ]
+          }
+        ],
+        "P268": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P268",
+              "hash": "f56d43bcd767335b95ddab50d57cc654f4f73dc6",
+              "datavalue": {
+                "value": "16020410t",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q26876$C3A336C3-5B58-4862-97D2-AB527AA987F7",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "759b2a264fff886006b6f49c3ef2f1acbfd1cef0",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "b14f8dad3de12f83b158a718b20772dc6c65fa0d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 54919,
+                          "id": "Q54919"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P513": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P513",
+              "hash": "48c44497020b33e53093a86c1700c62ab4deb5b4",
+              "datavalue": {
+                "value": "Taylor Alison Swift",
+                "type": "string"
+              }
+            },
+            "type": "statement",
+            "id": "Q26876$C76226D4-78FE-478B-80C3-E7CEEE2DF942",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "85286a30892a5d3d6a503e9bd4640de380482b0d",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "2a15af8c2fc90cc03acc19e8f66ea016474af16e",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 766705,
+                          "id": "Q766705"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P25": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P25",
+              "hash": "60fcd0cc6b9391a78d6fe95351b103fa3c4917e5",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 17319206,
+                  "id": "Q17319206"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q26876$023a1199-41a9-4080-f7ea-e7a5cda4a7ba",
+            "rank": "normal"
+          }
+        ],
+        "P7": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P7",
+              "hash": "60fa1b581f524a3ae794d01fca80b5678de99dcf",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 17319209
+                },
+                "type": "wikibase-entityid",
+                "error": "Property data type lookup failed for: P7"
+              }
+            },
+            "type": "statement",
+            "id": "Q26876$207cc783-4f6b-c7b1-05d9-9de7e728da2e",
+            "rank": "normal"
+          }
+        ],
+        "P412": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P412",
+              "hash": "a1c510946f6837cfaab1fa668a5ee1f21ef33f8e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 186506,
+                  "id": "Q186506"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q26876$857DD224-789D-4492-9F0A-01759EC519F8",
+            "rank": "normal"
+          }
+        ],
+        "P735": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P735",
+              "hash": "76b990b08c6e4a074317d84db1c19389456bb906",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 3981665,
+                  "id": "Q3981665"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q26876$CBC9209B-FFB0-4BF5-A6DD-13411E14716F",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "b326ff6378b42fa6274e11cae4c46903e6914e70",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "019a50b7de741e0068bde41c9d9955b22a5de47b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 36578,
+                          "id": "Q36578"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P227": [
+                    {
+                      "snaktype": "value",
+                      "property": "P227",
+                      "hash": "5776c7b9d4bd1dc0ddd5b851aac7d5e6a48a7150",
+                      "datavalue": {
+                        "value": "137997698",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "0dc850f3fbd012a2905bff8d932b867556debb91",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2015-07-21T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P227",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1303": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1303",
+              "hash": "c393309850983887cab2c7d94482e80624a32b89",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 258896,
+                  "id": "Q258896"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q26876$94934F27-9A08-4159-BC95-7008F4F3795B",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P800": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P800",
+              "hash": "633ba32525ff829f57a0c413b3b725049fe4361c",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 845783,
+                  "id": "Q845783"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q26876$C5CD8A37-F993-4800-A2F1-5770B9ACF6BA",
+            "rank": "normal"
+          }
+        ],
+        "P136": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P136",
+              "hash": "9dd78357680af2d493218408760ea9a51e0833b8",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 83440,
+                  "id": "Q83440"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q26876$A0488744-7824-4956-A80B-A2D8976CABFA",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P136",
+              "hash": "63f9b478d987da2e4e469476e371cb83bb3d6193",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 37073,
+                  "id": "Q37073"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q26876$45605303-4906-6016-752c-7b57e99eb7d2",
+            "rank": "normal"
+          }
+        ],
+        "P1263": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1263",
+              "hash": "f92a89120514e987b3d72ffbacecceb5e907cfb6",
+              "datavalue": {
+                "value": "346/000159866",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q26876$9C549A12-B397-494F-AEC4-1AE72A843E75",
+            "rank": "normal"
+          }
+        ],
+        "P937": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P937",
+              "hash": "7dc042f97b5b17a49b72b1e639d9cc27de8de722",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 23197,
+                  "id": "Q23197"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q26876$A089F185-0ACC-49A7-AC0D-27D8CC9E29B8",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "069d1d349bdcb0d4a23baccd11dbfac571df8062",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "019a50b7de741e0068bde41c9d9955b22a5de47b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 36578,
+                          "id": "Q36578"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "f0bd49f0c186808be5755cb0b6f49a3a6d7e7272",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2015-04-16T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P166": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P166",
+              "hash": "7b13d6c9dcde44fdd662741744149c0c120f74b3",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 19858140,
+                  "id": "Q19858140"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q26876$167422d7-487a-6bf5-b8b5-60dfb84ee978",
+            "rank": "normal"
+          }
+        ],
+        "P2002": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2002",
+              "hash": "f46a4925d1fe7e87478c99892eeea4e663a9d495",
+              "datavalue": {
+                "value": "taylorswift13",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q26876$1F848FAD-B813-4CC7-8809-8380F5B93025",
+            "rank": "normal"
+          }
+        ],
+        "P2003": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2003",
+              "hash": "31faf1d85860b5cb03f69d7872e432b67b8e7f22",
+              "datavalue": {
+                "value": "taylorswift",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q26876$9490313B-B6FA-4B67-9937-1CA355E72BFF",
+            "rank": "normal"
+          }
+        ],
+        "P2013": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2013",
+              "hash": "e01809e4197f568d5b910e1a444d146eae966054",
+              "datavalue": {
+                "value": "TaylorSwift",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q26876$F10C6CB7-5A12-47B8-8D03-51E14BDECCF2",
+            "rank": "normal"
+          }
+        ],
+        "P1953": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1953",
+              "hash": "6571977ea81f1449bfc564d4a960d79a2cedc734",
+              "datavalue": {
+                "value": "1124645",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q26876$823c6fab-4e14-423c-1bc4-98716e31e8fe",
+            "rank": "normal"
+          }
+        ],
+        "P1728": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1728",
+              "hash": "548b66685a3886adedf0f272b93909c00a382ce6",
+              "datavalue": {
+                "value": "mn0000472102",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q26876$25d31a5e-412c-e2e9-3b49-adcb3f89f2ae",
+            "rank": "normal"
+          }
+        ],
+        "P269": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P269",
+              "hash": "9f840a4335d235d0d27cf3bc4fda1d5babee7e77",
+              "datavalue": {
+                "value": "171403037",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q26876$65901A56-68F6-4EE4-A1F8-F297EE5972DB",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "8d7bdc3fb03710d1d17b2dc26a376db8698af005",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "b14f8dad3de12f83b158a718b20772dc6c65fa0d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 54919,
+                          "id": "Q54919"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "a5fb6c3872e96e7c068b0826ff7393eaba0e8fc3",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2015-10-06T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1412": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1412",
+              "hash": "7056615ebf0fbde82a3ca3bb9b2c481669a46eb1",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1860,
+                  "id": "Q1860"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q26876$23820701-59D0-465A-BC2D-9D4354E38900",
+            "rank": "normal"
+          }
+        ],
+        "P109": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P109",
+              "hash": "40fe30d8e089429eaf93d50ce53ffb87a9fe417c",
+              "datavalue": {
+                "value": "Taylor Swift logo.svg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q26876$6c55cefd-43c8-0b3c-4c6e-ee5b62202b53",
+            "rank": "normal"
+          }
+        ],
+        "P1266": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1266",
+              "hash": "e0e68122a7f1dedeb53609608a9d6e1513025de8",
+              "datavalue": {
+                "value": "248338",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q26876$9050f637-4d6f-ba6b-9e0c-b2bc0ad930de",
+            "rank": "normal"
+          }
+        ],
+        "P2019": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2019",
+              "hash": "d68990080b6bd63962449ec2b62d708acbaf87de",
+              "datavalue": {
+                "value": "p612488",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q26876$396e96e7-4dd6-b795-04b5-58aae9c6872a",
+            "rank": "normal"
+          }
+        ],
+        "P2168": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2168",
+              "hash": "bf7f996dad61488061da556a20f3cb1356b206cf",
+              "datavalue": {
+                "value": "389134",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q26876$38db3ca8-408a-d5c7-fca8-9c9ad98a6cd4",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "afwiki": {
+          "site": "afwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://af.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "angwiki": {
+          "site": "angwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://ang.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "arwiki": {
+          "site": "arwiki",
+          "title": "\u062a\u0627\u064a\u0644\u0648\u0631 \u0633\u0648\u064a\u0641\u062a",
+          "badges": [
+            "Q17437798"
+          ],
+          "url": "https://ar.wikipedia.org/wiki/%D8%AA%D8%A7%D9%8A%D9%84%D9%88%D8%B1_%D8%B3%D9%88%D9%8A%D9%81%D8%AA"
+        },
+        "astwiki": {
+          "site": "astwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://ast.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "aswiki": {
+          "site": "aswiki",
+          "title": "\u099f\u09c7\u0987\u09b2\u09f0 \u099b\u09c1\u0987\u09ab\u09cd\u099f",
+          "badges": [],
+          "url": "https://as.wikipedia.org/wiki/%E0%A6%9F%E0%A7%87%E0%A6%87%E0%A6%B2%E0%A7%B0_%E0%A6%9B%E0%A7%81%E0%A6%87%E0%A6%AB%E0%A7%8D%E0%A6%9F"
+        },
+        "azwiki": {
+          "site": "azwiki",
+          "title": "Teylor Svift",
+          "badges": [],
+          "url": "https://az.wikipedia.org/wiki/Teylor_Svift"
+        },
+        "barwiki": {
+          "site": "barwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://bar.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "bewiki": {
+          "site": "bewiki",
+          "title": "\u0422\u044d\u0439\u043b\u0430\u0440 \u0421\u0432\u0456\u0444\u0442",
+          "badges": [],
+          "url": "https://be.wikipedia.org/wiki/%D0%A2%D1%8D%D0%B9%D0%BB%D0%B0%D1%80_%D0%A1%D0%B2%D1%96%D1%84%D1%82"
+        },
+        "bgwiki": {
+          "site": "bgwiki",
+          "title": "\u0422\u0435\u0439\u043b\u044a\u0440 \u0421\u0443\u0438\u0444\u0442",
+          "badges": [],
+          "url": "https://bg.wikipedia.org/wiki/%D0%A2%D0%B5%D0%B9%D0%BB%D1%8A%D1%80_%D0%A1%D1%83%D0%B8%D1%84%D1%82"
+        },
+        "bnwiki": {
+          "site": "bnwiki",
+          "title": "\u099f\u09c7\u0987\u09b2\u09b0 \u09b8\u09c1\u0987\u09ab\u099f",
+          "badges": [],
+          "url": "https://bn.wikipedia.org/wiki/%E0%A6%9F%E0%A7%87%E0%A6%87%E0%A6%B2%E0%A6%B0_%E0%A6%B8%E0%A7%81%E0%A6%87%E0%A6%AB%E0%A6%9F"
+        },
+        "cawiki": {
+          "site": "cawiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://ca.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "ckbwiki": {
+          "site": "ckbwiki",
+          "title": "\u062a\u06d5\u06cc\u0644\u06c6\u0631 \u0633\u0648\u06cc\u0641\u062a",
+          "badges": [],
+          "url": "https://ckb.wikipedia.org/wiki/%D8%AA%DB%95%DB%8C%D9%84%DB%86%D8%B1_%D8%B3%D9%88%DB%8C%D9%81%D8%AA"
+        },
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://cs.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "dawiki": {
+          "site": "dawiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://da.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://de.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "diqwiki": {
+          "site": "diqwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://diq.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "elwiki": {
+          "site": "elwiki",
+          "title": "\u03a4\u03ad\u03b9\u03bb\u03bf\u03c1 \u03a3\u03bf\u03c5\u03af\u03c6\u03c4",
+          "badges": [],
+          "url": "https://el.wikipedia.org/wiki/%CE%A4%CE%AD%CE%B9%CE%BB%CE%BF%CF%81_%CE%A3%CE%BF%CF%85%CE%AF%CF%86%CF%84"
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://en.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "enwikiquote": {
+          "site": "enwikiquote",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://en.wikiquote.org/wiki/Taylor_Swift"
+        },
+        "eowiki": {
+          "site": "eowiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://eo.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "eswiki": {
+          "site": "eswiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://es.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "eswikiquote": {
+          "site": "eswikiquote",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://es.wikiquote.org/wiki/Taylor_Swift"
+        },
+        "etwiki": {
+          "site": "etwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://et.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "euwiki": {
+          "site": "euwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://eu.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "fawiki": {
+          "site": "fawiki",
+          "title": "\u062a\u06cc\u0644\u0648\u0631 \u0633\u0648\u0626\u06cc\u0641\u062a",
+          "badges": [],
+          "url": "https://fa.wikipedia.org/wiki/%D8%AA%DB%8C%D9%84%D9%88%D8%B1_%D8%B3%D9%88%D8%A6%DB%8C%D9%81%D8%AA"
+        },
+        "fiwiki": {
+          "site": "fiwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://fi.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "frwiki": {
+          "site": "frwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://fr.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "gawiki": {
+          "site": "gawiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://ga.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "glwiki": {
+          "site": "glwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://gl.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "hewiki": {
+          "site": "hewiki",
+          "title": "\u05d8\u05d9\u05d9\u05dc\u05d5\u05e8 \u05e1\u05d5\u05d5\u05d9\u05e4\u05d8",
+          "badges": [
+            "Q17437796"
+          ],
+          "url": "https://he.wikipedia.org/wiki/%D7%98%D7%99%D7%99%D7%9C%D7%95%D7%A8_%D7%A1%D7%95%D7%95%D7%99%D7%A4%D7%98"
+        },
+        "hiwiki": {
+          "site": "hiwiki",
+          "title": "\u091f\u0947\u0932\u0930 \u0938\u094d\u0935\u093f\u092b\u094d\u091f",
+          "badges": [],
+          "url": "https://hi.wikipedia.org/wiki/%E0%A4%9F%E0%A5%87%E0%A4%B2%E0%A4%B0_%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%AB%E0%A5%8D%E0%A4%9F"
+        },
+        "hrwiki": {
+          "site": "hrwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://hr.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "huwiki": {
+          "site": "huwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://hu.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "hywiki": {
+          "site": "hywiki",
+          "title": "\u0539\u0565\u0575\u056c\u0578\u0580 \u054d\u057e\u056b\u0586\u0569",
+          "badges": [],
+          "url": "https://hy.wikipedia.org/wiki/%D4%B9%D5%A5%D5%B5%D5%AC%D5%B8%D6%80_%D5%8D%D5%BE%D5%AB%D6%86%D5%A9"
+        },
+        "idwiki": {
+          "site": "idwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://id.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "iswiki": {
+          "site": "iswiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://is.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "itwiki": {
+          "site": "itwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://it.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "jawiki": {
+          "site": "jawiki",
+          "title": "\u30c6\u30a4\u30e9\u30fc\u30fb\u30b9\u30a6\u30a3\u30d5\u30c8",
+          "badges": [],
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%A9%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%A6%E3%82%A3%E3%83%95%E3%83%88"
+        },
+        "jvwiki": {
+          "site": "jvwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://jv.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "kawiki": {
+          "site": "kawiki",
+          "title": "\u10e2\u10d4\u10d8\u10da\u10dd\u10e0 \u10e1\u10d5\u10d8\u10e4\u10e2\u10d8",
+          "badges": [],
+          "url": "https://ka.wikipedia.org/wiki/%E1%83%A2%E1%83%94%E1%83%98%E1%83%9A%E1%83%9D%E1%83%A0_%E1%83%A1%E1%83%95%E1%83%98%E1%83%A4%E1%83%A2%E1%83%98"
+        },
+        "kkwiki": {
+          "site": "kkwiki",
+          "title": "\u0422\u0435\u0439\u043b\u043e\u0440 \u0421\u0432\u0438\u0444\u0442",
+          "badges": [],
+          "url": "https://kk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%B9%D0%BB%D0%BE%D1%80_%D0%A1%D0%B2%D0%B8%D1%84%D1%82"
+        },
+        "knwiki": {
+          "site": "knwiki",
+          "title": "\u0c9f\u0cc8\u0cb2\u0cb0\u0ccd \u0cb8\u0ccd\u0cb5\u0cbf\u0cab\u0ccd\u0c9f\u0ccd",
+          "badges": [],
+          "url": "https://kn.wikipedia.org/wiki/%E0%B2%9F%E0%B3%88%E0%B2%B2%E0%B2%B0%E0%B3%8D_%E0%B2%B8%E0%B3%8D%E0%B2%B5%E0%B2%BF%E0%B2%AB%E0%B3%8D%E0%B2%9F%E0%B3%8D"
+        },
+        "kowiki": {
+          "site": "kowiki",
+          "title": "\ud14c\uc77c\ub7ec \uc2a4\uc704\ud504\ud2b8",
+          "badges": [],
+          "url": "https://ko.wikipedia.org/wiki/%ED%85%8C%EC%9D%BC%EB%9F%AC_%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8"
+        },
+        "kuwiki": {
+          "site": "kuwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://ku.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "lawiki": {
+          "site": "lawiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://la.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "ltwiki": {
+          "site": "ltwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://lt.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "lvwiki": {
+          "site": "lvwiki",
+          "title": "Teilora Svifta",
+          "badges": [],
+          "url": "https://lv.wikipedia.org/wiki/Teilora_Svifta"
+        },
+        "mkwiki": {
+          "site": "mkwiki",
+          "title": "\u0422\u0435\u0458\u043b\u043e\u0440 \u0421\u0432\u0438\u0444\u0442",
+          "badges": [],
+          "url": "https://mk.wikipedia.org/wiki/%D0%A2%D0%B5%D1%98%D0%BB%D0%BE%D1%80_%D0%A1%D0%B2%D0%B8%D1%84%D1%82"
+        },
+        "mlwiki": {
+          "site": "mlwiki",
+          "title": "\u0d1f\u0d46\u0d2f\u0d3f\u0d32\u0d7c \u0d38\u0d4d\u0d35\u0d3f\u0d2b\u0d4d\u0d31\u0d4d\u0d31\u0d4d",
+          "badges": [],
+          "url": "https://ml.wikipedia.org/wiki/%E0%B4%9F%E0%B5%86%E0%B4%AF%E0%B4%BF%E0%B4%B2%E0%B5%BC_%E0%B4%B8%E0%B5%8D%E0%B4%B5%E0%B4%BF%E0%B4%AB%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8D"
+        },
+        "mswiki": {
+          "site": "mswiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://ms.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "mywiki": {
+          "site": "mywiki",
+          "title": "\u1010\u1031\u101c\u102c\u1006\u103d\u1005\u103a\u1016\u103a",
+          "badges": [],
+          "url": "https://my.wikipedia.org/wiki/%E1%80%90%E1%80%B1%E1%80%9C%E1%80%AC%E1%80%86%E1%80%BD%E1%80%85%E1%80%BA%E1%80%96%E1%80%BA"
+        },
+        "newiki": {
+          "site": "newiki",
+          "title": "\u091f\u0947\u0932\u0930 \u0938\u094d\u0935\u093f\u092b\u094d\u091f",
+          "badges": [],
+          "url": "https://ne.wikipedia.org/wiki/%E0%A4%9F%E0%A5%87%E0%A4%B2%E0%A4%B0_%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%AB%E0%A5%8D%E0%A4%9F"
+        },
+        "nlwiki": {
+          "site": "nlwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://nl.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "nnwiki": {
+          "site": "nnwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://nn.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "nowiki": {
+          "site": "nowiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://no.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "ocwiki": {
+          "site": "ocwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://oc.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "pawiki": {
+          "site": "pawiki",
+          "title": "\u0a1f\u0a47\u0a32\u0a30 \u0a38\u0a35\u0a3f\u0a2b\u0a3c\u0a1f",
+          "badges": [],
+          "url": "https://pa.wikipedia.org/wiki/%E0%A8%9F%E0%A9%87%E0%A8%B2%E0%A8%B0_%E0%A8%B8%E0%A8%B5%E0%A8%BF%E0%A8%AB%E0%A8%BC%E0%A8%9F"
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://pl.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "ptwiki": {
+          "site": "ptwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://pt.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "ptwikiquote": {
+          "site": "ptwikiquote",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://pt.wikiquote.org/wiki/Taylor_Swift"
+        },
+        "rowiki": {
+          "site": "rowiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://ro.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "ruwiki": {
+          "site": "ruwiki",
+          "title": "\u0421\u0432\u0438\u0444\u0442, \u0422\u0435\u0439\u043b\u043e\u0440",
+          "badges": [],
+          "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B8%D1%84%D1%82,_%D0%A2%D0%B5%D0%B9%D0%BB%D0%BE%D1%80"
+        },
+        "ruwikinews": {
+          "site": "ruwikinews",
+          "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f:\u0422\u0435\u0439\u043b\u043e\u0440 \u0421\u0432\u0438\u0444\u0442",
+          "badges": [],
+          "url": "https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D0%B9%D0%BB%D0%BE%D1%80_%D0%A1%D0%B2%D0%B8%D1%84%D1%82"
+        },
+        "scowiki": {
+          "site": "scowiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://sco.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "shwiki": {
+          "site": "shwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://sh.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "simplewiki": {
+          "site": "simplewiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://simple.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "skwiki": {
+          "site": "skwiki",
+          "title": "Taylor Swiftov\u00e1",
+          "badges": [],
+          "url": "https://sk.wikipedia.org/wiki/Taylor_Swiftov%C3%A1"
+        },
+        "slwiki": {
+          "site": "slwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://sl.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "sowiki": {
+          "site": "sowiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://so.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "sqwiki": {
+          "site": "sqwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://sq.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "srwiki": {
+          "site": "srwiki",
+          "title": "\u0422\u0435\u0458\u043b\u043e\u0440 \u0421\u0432\u0438\u0444\u0442",
+          "badges": [],
+          "url": "https://sr.wikipedia.org/wiki/%D0%A2%D0%B5%D1%98%D0%BB%D0%BE%D1%80_%D0%A1%D0%B2%D0%B8%D1%84%D1%82"
+        },
+        "suwiki": {
+          "site": "suwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://su.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "svwiki": {
+          "site": "svwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://sv.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "swwiki": {
+          "site": "swwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://sw.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "tawiki": {
+          "site": "tawiki",
+          "title": "\u0b9f\u0bc7\u0bb2\u0bb0\u0bcd \u0bb8\u0bcd\u0bb5\u0bbf\u0b83\u0baa\u0bcd\u0b9f\u0bcd",
+          "badges": [],
+          "url": "https://ta.wikipedia.org/wiki/%E0%AE%9F%E0%AF%87%E0%AE%B2%E0%AE%B0%E0%AF%8D_%E0%AE%B8%E0%AF%8D%E0%AE%B5%E0%AE%BF%E0%AE%83%E0%AE%AA%E0%AF%8D%E0%AE%9F%E0%AF%8D"
+        },
+        "tewiki": {
+          "site": "tewiki",
+          "title": "\u0c1f\u0c47\u0c32\u0c30\u0c4d \u0c38\u0c4d\u0c35\u0c3f\u0c2b\u0c4d\u0c1f\u0c4d",
+          "badges": [],
+          "url": "https://te.wikipedia.org/wiki/%E0%B0%9F%E0%B1%87%E0%B0%B2%E0%B0%B0%E0%B1%8D_%E0%B0%B8%E0%B1%8D%E0%B0%B5%E0%B0%BF%E0%B0%AB%E0%B1%8D%E0%B0%9F%E0%B1%8D"
+        },
+        "thwiki": {
+          "site": "thwiki",
+          "title": "\u0e40\u0e17\u0e22\u0e4c\u0e40\u0e25\u0e2d\u0e23\u0e4c \u0e2a\u0e27\u0e34\u0e1f\u0e15\u0e4c",
+          "badges": [],
+          "url": "https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B9%80%E0%B8%A5%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B8%AA%E0%B8%A7%E0%B8%B4%E0%B8%9F%E0%B8%95%E0%B9%8C"
+        },
+        "thwikiquote": {
+          "site": "thwikiquote",
+          "title": "\u0e40\u0e17\u0e22\u0e4c\u0e40\u0e25\u0e2d\u0e23\u0e4c \u0e2a\u0e27\u0e34\u0e1f\u0e15\u0e4c",
+          "badges": [],
+          "url": "https://th.wikiquote.org/wiki/%E0%B9%80%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B9%80%E0%B8%A5%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B8%AA%E0%B8%A7%E0%B8%B4%E0%B8%9F%E0%B8%95%E0%B9%8C"
+        },
+        "tlwiki": {
+          "site": "tlwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://tl.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "trwiki": {
+          "site": "trwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://tr.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "trwikiquote": {
+          "site": "trwikiquote",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://tr.wikiquote.org/wiki/Taylor_Swift"
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "\u0422\u0435\u0439\u043b\u043e\u0440 \u0421\u0432\u0456\u0444\u0442",
+          "badges": [],
+          "url": "https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%B9%D0%BB%D0%BE%D1%80_%D0%A1%D0%B2%D1%96%D1%84%D1%82"
+        },
+        "urwiki": {
+          "site": "urwiki",
+          "title": "\u0679\u06cc\u0644\u0631 \u0633\u0648\u0626\u0641\u0679",
+          "badges": [],
+          "url": "https://ur.wikipedia.org/wiki/%D9%B9%DB%8C%D9%84%D8%B1_%D8%B3%D9%88%D8%A6%D9%81%D9%B9"
+        },
+        "uzwiki": {
+          "site": "uzwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://uz.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "viwiki": {
+          "site": "viwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://vi.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "viwikiquote": {
+          "site": "viwikiquote",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://vi.wikiquote.org/wiki/Taylor_Swift"
+        },
+        "yiwiki": {
+          "site": "yiwiki",
+          "title": "\u05d8\u05e2\u05d9\u05dc\u05d0\u05e8 \u05e1\u05d5\u05d5\u05d9\u05e4\u05d8",
+          "badges": [],
+          "url": "https://yi.wikipedia.org/wiki/%D7%98%D7%A2%D7%99%D7%9C%D7%90%D7%A8_%D7%A1%D7%95%D7%95%D7%99%D7%A4%D7%98"
+        },
+        "zh_min_nanwiki": {
+          "site": "zh_min_nanwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://zh-min-nan.wikipedia.org/wiki/Taylor_Swift"
+        },
+        "zh_yuewiki": {
+          "site": "zh_yuewiki",
+          "title": "\u6cf0\u52d2\u65af\u5a01\u592b\u7279",
+          "badges": [],
+          "url": "https://zh-yue.wikipedia.org/wiki/%E6%B3%B0%E5%8B%92%E6%96%AF%E5%A8%81%E5%A4%AB%E7%89%B9"
+        },
+        "zhwiki": {
+          "site": "zhwiki",
+          "title": "\u6cf0\u52d2\u00b7\u65af\u5a01\u592b\u7279",
+          "badges": [],
+          "url": "https://zh.wikipedia.org/wiki/%E6%B3%B0%E5%8B%92%C2%B7%E6%96%AF%E5%A8%81%E5%A4%AB%E7%89%B9"
+        }
+      }
+    }
+  }
+}

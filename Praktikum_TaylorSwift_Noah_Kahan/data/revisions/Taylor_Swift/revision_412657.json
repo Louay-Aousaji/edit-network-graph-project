@@ -1,0 +1,28 @@
+{
+  "entities": {
+    "Q26876": {
+      "pageid": 30291,
+      "ns": 0,
+      "title": "Q26876",
+      "lastrevid": 412657,
+      "modified": "2012-11-12T02:35:30Z",
+      "type": "item",
+      "id": "Q26876",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "Taylor_Swift"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "Singer-songwriter"
+        }
+      },
+      "aliases": {},
+      "claims": {},
+      "sitelinks": {}
+    }
+  }
+}

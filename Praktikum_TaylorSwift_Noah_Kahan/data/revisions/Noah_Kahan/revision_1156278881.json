@@ -1,0 +1,759 @@
+{
+  "entities": {
+    "Q53832755": {
+      "pageid": 54289488,
+      "ns": 0,
+      "title": "Q53832755",
+      "lastrevid": 1156278881,
+      "modified": "2020-04-12T20:54:43Z",
+      "type": "item",
+      "id": "Q53832755",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "Noah Kahan"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "Noah Kahan"
+        },
+        "es": {
+          "language": "es",
+          "value": "Noah Kahan"
+        },
+        "ast": {
+          "language": "ast",
+          "value": "Noah Kahan"
+        },
+        "sv": {
+          "language": "sv",
+          "value": "Noah Kahan"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "Noah Kahan"
+        },
+        "he": {
+          "language": "he",
+          "value": "\u05e0\u05d5\u05d7 \u05db\u05d4\u05d0\u05df"
+        },
+        "ga": {
+          "language": "ga",
+          "value": "Noah Kahan"
+        },
+        "id": {
+          "language": "id",
+          "value": "Noah Kahan"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "American singer-songwriter"
+        },
+        "es": {
+          "language": "es",
+          "value": "cantautor estadounidense"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "zanger"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "chanteur am\u00e9ricain"
+        },
+        "ga": {
+          "language": "ga",
+          "value": "amhr\u00e1na\u00ed agus cumad\u00f3ir Meirice\u00e1nach"
+        }
+      },
+      "aliases": {},
+      "claims": {
+        "P434": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P434",
+              "hash": "fbc646bb088c3d2fc52c05b35ebdd7f99a227c62",
+              "datavalue": {
+                "value": "a2a3f910-b188-43e7-81d0-f1ac2a2f3e12",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q53832755$bb2f2991-4f09-feac-9e8d-71280e4ce483",
+            "rank": "normal"
+          }
+        ],
+        "P1728": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1728",
+              "hash": "4a9a8773dc4063715d5633cfce5952cf6b276984",
+              "datavalue": {
+                "value": "mn0003592649",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q53832755$97dd8bf7-410c-879d-731d-0113733bbe1e",
+            "rank": "normal"
+          }
+        ],
+        "P1953": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1953",
+              "hash": "4d3dfecc4fc9097ee7f11a98a9238037a15236f3",
+              "datavalue": {
+                "value": "5951449",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q53832755$8271f575-4fec-0855-da5f-5b48917a3c23",
+            "rank": "normal"
+          }
+        ],
+        "P2013": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2013",
+              "hash": "384a4e4e2187a81c1863aa748b845306cac31949",
+              "datavalue": {
+                "value": "noahkahanmusic",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q53832755$ac67949b-4a24-0dd7-9062-e01f8ec167ca",
+            "rank": "normal"
+          }
+        ],
+        "P2002": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2002",
+              "hash": "e941a7ca42820a208a938dfaaf5258359da69a68",
+              "datavalue": {
+                "value": "noahkahan",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q53832755$84003c4d-460b-4550-4592-6fddf5ac6809",
+            "rank": "normal"
+          }
+        ],
+        "P3040": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3040",
+              "hash": "d385b76679376eac5d09541ddb2a54590cefbc41",
+              "datavalue": {
+                "value": "noahkahan",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q53832755$aea5456e-4dbe-d5c7-2e40-33bc73cebdbb",
+            "rank": "normal"
+          }
+        ],
+        "P2003": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2003",
+              "hash": "d635aa0a815f6b8a40287fc29150529ccf1281d3",
+              "datavalue": {
+                "value": "noahkahanmusic",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q53832755$c2bb1a5a-4847-a0df-cae7-549632f4e477",
+            "rank": "normal"
+          }
+        ],
+        "P2850": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2850",
+              "hash": "54a5cf5682e14ddfd7b38a9153aabac7544f380c",
+              "datavalue": {
+                "value": "328583953",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q53832755$27b6ecbd-45f3-cdf1-2aaa-27116e1c65bb",
+            "rank": "normal"
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 5,
+                  "id": "Q5"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q53832755$E7DC73EC-15A1-45DA-9938-63F29B9B57F3",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P19": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P19",
+              "hash": "ff7a966535239a89f557b82fac14884c48dda840",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2305933,
+                  "id": "Q2305933"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q53832755$FE495CDA-34D0-4D2F-B3E3-BB7D26D2561E",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "03aaa10b745caeeb2c3da5d40adae5a301cbadad",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "4356efdece2a57027787428d125897db038dbca3",
+                      "datavalue": {
+                        "value": "https://en.wikipedia.org/w/index.php?title=Noah_Kahan&oldid=852390645",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ],
+        "P106": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P106",
+              "hash": "5d9aed2c3197fcda899ff4eb02863355294acc5b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 177220,
+                  "id": "Q177220"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q53832755$00d485a2-ca4a-4537-9c7c-864b1de283d2",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P106",
+              "hash": "61625db170d5128ff2a4c75eea2b5fa7612ee73e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 488205,
+                  "id": "Q488205"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q53832755$4962CF85-861D-4364-B340-33BE0B7B5201",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "a764e1058773900e6f0ee5f3496f90447c2d1037",
+                "snaks": {
+                  "P3452": [
+                    {
+                      "snaktype": "value",
+                      "property": "P3452",
+                      "hash": "b7e711d8d07b5f474ee72a635f4407307dde5362",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 6543754,
+                          "id": "Q6543754"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "b878c506460bfde5171b53b8dabada6fbe4301af",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2019-05-22T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P3452",
+                  "P813",
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P21": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P21",
+              "hash": "85ad4b1c7348f7a5aac521135040d74e91fb5939",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 6581097,
+                  "id": "Q6581097"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q53832755$f285377e-1fda-4858-be79-277b9a7e9c68",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P569": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P569",
+              "hash": "bd58b22b19d8c7bc28e768a4ff07b105207ff020",
+              "datavalue": {
+                "value": {
+                  "time": "+1997-01-01T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q53832755$84744EEE-8780-4D8A-8C06-4D466C29F423",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P4208": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P4208",
+              "hash": "4876ad19a37e8b08301c6d7ab4b9ffb7fcf7a843",
+              "datavalue": {
+                "value": "noah-kahan",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q53832755$75090E73-DE23-47B5-9A2D-B3E36615AEDF",
+            "rank": "normal"
+          }
+        ],
+        "P1303": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1303",
+              "hash": "51446aa88f4758a24ef3452a1ff1c6ff2a2add2e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 17172850,
+                  "id": "Q17172850"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q53832755$7F36D2EB-70CC-4E76-9937-E6ED7379BBEA",
+            "rank": "normal"
+          }
+        ],
+        "P2031": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2031",
+              "hash": "a25771fbd26f485ee30d29cb71acfe9fbf5eecfe",
+              "datavalue": {
+                "value": {
+                  "time": "+2017-00-00T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 9,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q53832755$4BE774A3-CF1C-4E83-8E68-B3F2BFE24E2D",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "0beb09e61175ab97457f90985a3c39a7d88f9445",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "78551c572e2b88aee41eb0fd4f91d7bdee12962e",
+                      "datavalue": {
+                        "value": "https://en.wikipedia.org/w/index.php?title=Noah_Kahan&oldid=898775324",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ],
+        "P2397": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2397",
+              "hash": "4523486d2585541bbf2a704a17742b3c5f56a431",
+              "datavalue": {
+                "value": "UCXY5pi3MbsaP1WEgClmglsA",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q53832755$b0049ed7-4eca-3f85-c1e0-94e64f84d946",
+            "rank": "normal"
+          }
+        ],
+        "P734": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P734",
+              "hash": "383de6dc16e868d2278b6075ca04887c98b87f11",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 37046104,
+                  "id": "Q37046104"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q53832755$D4FC2A94-7995-463D-98B0-01CB5811D737",
+            "rank": "normal"
+          }
+        ],
+        "P214": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P214",
+              "hash": "3fa4cd1e2b16d084071fec6a656e2ef4ad04a568",
+              "datavalue": {
+                "value": "3782156223654805400005",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q53832755$EB4725D1-A2FF-4088-BAC4-0C9FADE078E6",
+            "rank": "normal"
+          }
+        ],
+        "P7859": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P7859",
+              "hash": "f80930eacab7be1cd48c2c8f586ef0a80ca38b0a",
+              "datavalue": {
+                "value": "viaf-3782156223654805400005",
+                "type": "string"
+              }
+            },
+            "type": "statement",
+            "id": "Q53832755$56FBCE8E-D38E-4BD7-BA97-F5E9E8CFA7B9",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "eef1ee16d8312e877bfc60105c35ca6ecb938756",
+                "snaks": {
+                  "P214": [
+                    {
+                      "snaktype": "value",
+                      "property": "P214",
+                      "hash": "3fa4cd1e2b16d084071fec6a656e2ef4ad04a568",
+                      "datavalue": {
+                        "value": "3782156223654805400005",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P214"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "sitelinks": {
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Noah Kahan",
+          "badges": [],
+          "url": "https://en.wikipedia.org/wiki/Noah_Kahan"
+        },
+        "idwiki": {
+          "site": "idwiki",
+          "title": "Noah Kahan",
+          "badges": [],
+          "url": "https://id.wikipedia.org/wiki/Noah_Kahan"
+        },
+        "svwiki": {
+          "site": "svwiki",
+          "title": "Noah Kahan",
+          "badges": [],
+          "url": "https://sv.wikipedia.org/wiki/Noah_Kahan"
+        }
+      }
+    }
+  }
+}

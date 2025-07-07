@@ -1,0 +1,42 @@
+{
+  "entities": {
+    "Q26876": {
+      "pageid": 30291,
+      "ns": 0,
+      "title": "Q26876",
+      "lastrevid": 412670,
+      "modified": "2012-11-12T02:36:24Z",
+      "type": "item",
+      "id": "Q26876",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "Taylor Swift"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "Singer-songwriter"
+        }
+      },
+      "aliases": {
+        "en": [
+          {
+            "language": "en",
+            "value": "Taylor Alison Swift"
+          }
+        ]
+      },
+      "claims": {},
+      "sitelinks": {
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Taylor Swift",
+          "badges": [],
+          "url": "https://en.wikipedia.org/wiki/Taylor_Swift"
+        }
+      }
+    }
+  }
+}

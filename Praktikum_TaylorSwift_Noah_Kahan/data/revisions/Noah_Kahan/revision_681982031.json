@@ -1,0 +1,35 @@
+{
+  "entities": {
+    "Q53832755": {
+      "pageid": 54289488,
+      "ns": 0,
+      "title": "Q53832755",
+      "lastrevid": 681982031,
+      "modified": "2018-05-20T10:33:28Z",
+      "type": "item",
+      "id": "Q53832755",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "Noah Kahan"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "American singer-songwriter"
+        }
+      },
+      "aliases": {},
+      "claims": {},
+      "sitelinks": {
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Noah Kahan",
+          "badges": [],
+          "url": "https://en.wikipedia.org/wiki/Noah_Kahan"
+        }
+      }
+    }
+  }
+}

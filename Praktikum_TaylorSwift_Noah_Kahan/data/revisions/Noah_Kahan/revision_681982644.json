@@ -1,0 +1,87 @@
+{
+  "entities": {
+    "Q53832755": {
+      "pageid": 54289488,
+      "ns": 0,
+      "title": "Q53832755",
+      "lastrevid": 681982644,
+      "modified": "2018-05-20T10:34:49Z",
+      "type": "item",
+      "id": "Q53832755",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "Noah Kahan"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "American singer-songwriter"
+        }
+      },
+      "aliases": {},
+      "claims": {
+        "P434": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P434",
+              "hash": "fbc646bb088c3d2fc52c05b35ebdd7f99a227c62",
+              "datavalue": {
+                "value": "a2a3f910-b188-43e7-81d0-f1ac2a2f3e12",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q53832755$bb2f2991-4f09-feac-9e8d-71280e4ce483",
+            "rank": "normal"
+          }
+        ],
+        "P1728": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1728",
+              "hash": "4a9a8773dc4063715d5633cfce5952cf6b276984",
+              "datavalue": {
+                "value": "mn0003592649",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q53832755$97dd8bf7-410c-879d-731d-0113733bbe1e",
+            "rank": "normal"
+          }
+        ],
+        "P1953": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1953",
+              "hash": "4d3dfecc4fc9097ee7f11a98a9238037a15236f3",
+              "datavalue": {
+                "value": "5951449",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q53832755$8271f575-4fec-0855-da5f-5b48917a3c23",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Noah Kahan",
+          "badges": [],
+          "url": "https://en.wikipedia.org/wiki/Noah_Kahan"
+        }
+      }
+    }
+  }
+}
