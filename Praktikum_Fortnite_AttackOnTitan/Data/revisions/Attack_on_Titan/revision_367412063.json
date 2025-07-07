@@ -1,0 +1,1106 @@
+{
+  "entities": {
+    "Q586025": {
+      "pageid": 551367,
+      "ns": 0,
+      "title": "Q586025",
+      "lastrevid": 367412063,
+      "modified": "2016-08-20T23:43:06Z",
+      "type": "item",
+      "id": "Q586025",
+      "labels": {
+        "es": {
+          "language": "es",
+          "value": "Ataque a los titanes"
+        },
+        "en": {
+          "language": "en",
+          "value": "Attack on Titan"
+        },
+        "it": {
+          "language": "it",
+          "value": "L'attacco dei giganti"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "\u9032\u6483\u306e\u5de8\u4eba"
+        },
+        "ko": {
+          "language": "ko",
+          "value": "\uc9c4\uaca9\uc758 \uac70\uc778"
+        },
+        "pt": {
+          "language": "pt",
+          "value": "Shingeki no Kyojin"
+        },
+        "zh": {
+          "language": "zh",
+          "value": "\u9032\u64ca\u7684\u5de8\u4eba"
+        },
+        "uk": {
+          "language": "uk",
+          "value": "Shingeki no Kyojin"
+        },
+        "th": {
+          "language": "th",
+          "value": "\u0e1c\u0e48\u0e32\u0e1e\u0e34\u0e20\u0e1e\u0e44\u0e17\u0e17\u0e31\u0e19"
+        },
+        "ms": {
+          "language": "ms",
+          "value": "Attack on Titan"
+        },
+        "en-gb": {
+          "language": "en-gb",
+          "value": "Attack on Titan"
+        },
+        "de": {
+          "language": "de",
+          "value": "Attack on Titan"
+        },
+        "en-ca": {
+          "language": "en-ca",
+          "value": "Attack on Titan"
+        },
+        "ru": {
+          "language": "ru",
+          "value": "Shingeki no Kyojin"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "L'Attaque des Titans"
+        },
+        "lv": {
+          "language": "lv",
+          "value": "Attack on Titan"
+        },
+        "fa": {
+          "language": "fa",
+          "value": "\u062d\u0645\u0644\u0647 \u0628\u0647 \u062a\u0627\u06cc\u062a\u0627\u0646"
+        },
+        "tl": {
+          "language": "tl",
+          "value": "Attack on Titan"
+        },
+        "he": {
+          "language": "he",
+          "value": "attack on titan"
+        },
+        "fi": {
+          "language": "fi",
+          "value": "Shingeki no kyojin"
+        },
+        "ar": {
+          "language": "ar",
+          "value": "\u0647\u062c\u0648\u0645 \u0627\u0644\u0639\u0645\u0627\u0644\u0642\u0629"
+        },
+        "id": {
+          "language": "id",
+          "value": "Attack on Titan"
+        },
+        "pl": {
+          "language": "pl",
+          "value": "Attack on Titan"
+        },
+        "vi": {
+          "language": "vi",
+          "value": "Attack On Titan"
+        },
+        "hu": {
+          "language": "hu",
+          "value": "Singeki no kjodzsin"
+        },
+        "gl": {
+          "language": "gl",
+          "value": "Shingeki no Kyojin"
+        },
+        "os": {
+          "language": "os",
+          "value": "\u0411\u044b\u0440\u0441\u00e6\u0433 \u0443\u00e6\u0439\u0433\u0443\u044b\u0442\u00e6"
+        },
+        "sv": {
+          "language": "sv",
+          "value": "Attack on Titan"
+        },
+        "nan": {
+          "language": "nan",
+          "value": "Ch\u00ecn-kek \u00ea K\u012b-j\u00een"
+        },
+        "cs": {
+          "language": "cs",
+          "value": "\u0160ingeki no kjod\u017ein"
+        },
+        "hy": {
+          "language": "hy",
+          "value": "\u054f\u056b\u057f\u0561\u0576\u0576\u0565\u0580\u056b \u0563\u0580\u0578\u0570\u0568"
+        },
+        "sc": {
+          "language": "sc",
+          "value": "S'attaccu de sos Zigantes"
+        },
+        "tr": {
+          "language": "tr",
+          "value": "Titan'a Sald\u0131r\u0131"
+        },
+        "ca": {
+          "language": "ca",
+          "value": "Shingeki no Kyojin"
+        },
+        "zh-hans": {
+          "language": "zh-hans",
+          "value": "\u8fdb\u51fb\u7684\u5de8\u4eba"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "Attack on Titan"
+        },
+        "el": {
+          "language": "el",
+          "value": "\u0395\u03c0\u03af\u03b8\u03b5\u03c3\u03b7 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03c4\u03b9\u03c4\u03ac\u03bd\u03b5\u03c2"
+        },
+        "az": {
+          "language": "az",
+          "value": "Attack on Titan"
+        },
+        "sh": {
+          "language": "sh",
+          "value": "Attack on Titan"
+        },
+        "nb": {
+          "language": "nb",
+          "value": "Attack On Titan"
+        },
+        "be": {
+          "language": "be",
+          "value": "\u0410\u0442\u0430\u043a\u0430 \u0442\u044b\u0442\u0430\u043d\u0430\u045e"
+        },
+        "kk": {
+          "language": "kk",
+          "value": "\u0422\u0438\u0442\u0430\u043d\u0434\u0430\u0440\u0493\u0430 \u0448\u0430\u0431\u0443\u044b\u043b"
+        },
+        "sco": {
+          "language": "sco",
+          "value": "Attack on Titan"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "Manga und Animeserie"
+        },
+        "en": {
+          "language": "en",
+          "value": "Japanese manga series"
+        },
+        "en-ca": {
+          "language": "en-ca",
+          "value": "Japanese manga series"
+        },
+        "en-gb": {
+          "language": "en-gb",
+          "value": "Japanese manga series"
+        },
+        "es": {
+          "language": "es",
+          "value": "historieta japonesa"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "manga van Yasuko Kobayashi"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "manga"
+        }
+      },
+      "aliases": {
+        "es": [
+          {
+            "language": "es",
+            "value": "Shingeki no Kyojin"
+          }
+        ],
+        "el": [
+          {
+            "language": "el",
+            "value": "\u0395\u03c0\u03af\u03b8\u03b5\u03c3\u03b7 \u03c4\u03c9\u03bd \u03c4\u03b9\u03c4\u03ac\u03bd\u03c9\u03bd"
+          },
+          {
+            "language": "el",
+            "value": "\u0395\u03c0\u03af\u03b8\u03b5\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b3\u03b9\u03b3\u03ac\u03bd\u03c4\u03c9\u03bd"
+          }
+        ],
+        "pt": [
+          {
+            "language": "pt",
+            "value": "Ataque dos Tit\u00e3s"
+          },
+          {
+            "language": "pt",
+            "value": "Attack on Titan"
+          }
+        ]
+      },
+      "claims": {
+        "P725": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P725",
+              "hash": "b36d270eb2b796a38e8d2cb70627683465e918f4",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 6127127,
+                  "id": "Q6127127"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q586025$449515c3-4a53-0cf6-b5a2-30a553fa2786",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P725",
+              "hash": "d6e58079950b2e9e6edc16195c59a6856c115413",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1066065,
+                  "id": "Q1066065"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q586025$26F3F079-3129-4DA0-9740-F65B196A83A6",
+            "rank": "normal"
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "485ffbaef33c2e903c52093ac85ea6dfe867a516",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 8274,
+                  "id": "Q8274"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "q586025$9e77e3e0-4791-3ba3-5cf7-cd8607701596",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "7e2126c332842a3a1d02cb200bb4d770cd90fb2c",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1107,
+                  "id": "Q1107"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "q586025$bca1a2a5-44fa-f5f1-f1db-c8fac6be8d49",
+            "rank": "normal"
+          }
+        ],
+        "P646": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P646",
+              "hash": "d3f553e98c8602f61dbf5ad5aaa32c7848aaa0df",
+              "datavalue": {
+                "value": "/m/0gtxdb2",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q586025$A8CBFCCC-CCD6-41A3-9263-A6EAC2F4F3F8",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 15241312,
+                          "id": "Q15241312"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P577": [
+                    {
+                      "snaktype": "value",
+                      "property": "P577",
+                      "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2013-10-28T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P577"
+                ]
+              }
+            ]
+          }
+        ],
+        "P50": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P50",
+              "hash": "d6002760657a0764774ad57752421d0602465076",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 8050028,
+                  "id": "Q8050028"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q586025$E9599ED8-472C-4124-BF46-B8397F5DBA96",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P136": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P136",
+              "hash": "350ead75f275d27f0e97e57526a4fd0750bc9be8",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 15637293,
+                  "id": "Q15637293"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q586025$65657935-A66A-4436-B683-C1F66327CEEF",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P136",
+              "hash": "5506ece371dfc08a70a616f000d04feafa2873b9",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 231302,
+                  "id": "Q231302"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q586025$6B949A4E-BCDE-4D20-A746-0D8B7E8111AF",
+            "rank": "normal"
+          }
+        ],
+        "P910": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P910",
+              "hash": "e966595c00fa5acfe3600096bd9877b9e1c55c22",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 15099773,
+                  "id": "Q15099773"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q586025$95AAE8B3-0FF0-4292-9E42-724633A32E6C",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P495": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P495",
+              "hash": "e9d62405b1bb9b7b979f00006a344891e4c4f072",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 17,
+                  "id": "Q17"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q586025$8498ED78-0708-48A1-B7C9-98E5A8F9E79D",
+            "rank": "normal"
+          }
+        ],
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "6e7d114b86a1ed494dc9cf60f1ca3869ef062648",
+              "datavalue": {
+                "value": "Shingeki no Kyojin",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q586025$b6eaa676-49c3-4632-4976-4ad65c01e9e8",
+            "rank": "normal"
+          }
+        ],
+        "P2002": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2002",
+              "hash": "86bf75c356e6fd6c0a28d79763d001cdaf8d720a",
+              "datavalue": {
+                "value": "ShingekiKyojin",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q586025$290AF164-3F3B-4097-BC66-CA04F814356E",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "25a4d21968b0d413d0e84a337a2ce84c91198a0d",
+              "datavalue": {
+                "value": "http://shingeki.net/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q586025$7E4BE28A-5F47-47D7-BD09-508A2BB167FE",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1688": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1688",
+              "hash": "9e1c9ad98fb995b54a614aabb8db44dcae3565af",
+              "datavalue": {
+                "value": "anime/9541",
+                "type": "string"
+              }
+            },
+            "type": "statement",
+            "id": "Q586025$B9DFE4D1-2FE2-41FB-A65B-8047548B9124",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "60cce5d0acf0cc060796196012001192a048d885",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "390e3b73e7cd926978cab220968d0e3451cfb814",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 199698,
+                          "id": "Q199698"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P57": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P57",
+              "hash": "d4c37be6c49b0493ec4afb671bdbde2e6146616d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 900501,
+                  "id": "Q900501"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q586025$11FA257D-601B-4E04-99E0-833A2253B9E7",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 177837,
+                          "id": "Q177837"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1113": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1113",
+              "hash": "ee5435370668f4df39ce5d6d15ddda4cdc73aa8b",
+              "datavalue": {
+                "value": {
+                  "amount": "+25",
+                  "unit": "1",
+                  "upperBound": "+25",
+                  "lowerBound": "+25"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "id": "Q586025$024504EE-2CA6-40F0-BE31-A0208AE1C3D0",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "4493bdf16e0e2efb3788a75424f2ad6718d07f10",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "3adb792fd79692b356aa27987763bef78bcc382d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 15977310,
+                          "id": "Q15977310"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P580": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P580",
+              "hash": "11732ae823343206a28edd88abf17d759a44b922",
+              "datavalue": {
+                "value": {
+                  "time": "+2009-09-09T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q586025$03882aa7-4d4b-d355-dc85-41fd60d246d1",
+            "rank": "normal"
+          }
+        ],
+        "P154": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "ae52ec976756e615706a4c37724dbfaddbd007c2",
+              "datavalue": {
+                "value": "Shingeki no Kyojin in Hirigana.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q586025$17dd6a36-4510-b397-4c31-a5203e56f599",
+            "rank": "normal"
+          }
+        ],
+        "P2635": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2635",
+              "hash": "19258665780b50cafcf2a4f1769f22b94bf05af6",
+              "datavalue": {
+                "value": {
+                  "amount": "+20",
+                  "unit": "1",
+                  "upperBound": "+20",
+                  "lowerBound": "+20"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "id": "Q586025$6e2f86aa-417a-b84a-ae23-ce1d1d2001b6",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "arwiki": {
+          "site": "arwiki",
+          "title": "\u0647\u062c\u0648\u0645 \u0627\u0644\u0639\u0645\u0627\u0644\u0642\u0629",
+          "badges": [],
+          "url": "https://ar.wikipedia.org/wiki/%D9%87%D8%AC%D9%88%D9%85_%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84%D9%82%D8%A9"
+        },
+        "azwiki": {
+          "site": "azwiki",
+          "title": "N\u0259h\u0259ngl\u0259rin h\u00fccumu",
+          "badges": [],
+          "url": "https://az.wikipedia.org/wiki/N%C9%99h%C9%99ngl%C9%99rin_h%C3%BCcumu"
+        },
+        "bewiki": {
+          "site": "bewiki",
+          "title": "\u0410\u0442\u0430\u043a\u0430 \u0442\u044b\u0442\u0430\u043d\u0430\u045e",
+          "badges": [],
+          "url": "https://be.wikipedia.org/wiki/%D0%90%D1%82%D0%B0%D0%BA%D0%B0_%D1%82%D1%8B%D1%82%D0%B0%D0%BD%D0%B0%D1%9E"
+        },
+        "cawiki": {
+          "site": "cawiki",
+          "title": "Shingeki no Kyojin",
+          "badges": [],
+          "url": "https://ca.wikipedia.org/wiki/Shingeki_no_Kyojin"
+        },
+        "cswiki": {
+          "site": "cswiki",
+          "title": "\u00datok tit\u00e1n\u016f",
+          "badges": [],
+          "url": "https://cs.wikipedia.org/wiki/%C3%9Atok_tit%C3%A1n%C5%AF"
+        },
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Attack on Titan",
+          "badges": [],
+          "url": "https://de.wikipedia.org/wiki/Attack_on_Titan"
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Attack on Titan",
+          "badges": [
+            "Q17437798"
+          ],
+          "url": "https://en.wikipedia.org/wiki/Attack_on_Titan"
+        },
+        "eswiki": {
+          "site": "eswiki",
+          "title": "Shingeki no Kyojin",
+          "badges": [],
+          "url": "https://es.wikipedia.org/wiki/Shingeki_no_Kyojin"
+        },
+        "fawiki": {
+          "site": "fawiki",
+          "title": "\u062d\u0645\u0644\u0647 \u0628\u0647 \u062a\u0627\u06cc\u062a\u0627\u0646",
+          "badges": [],
+          "url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D9%84%D9%87_%D8%A8%D9%87_%D8%AA%D8%A7%DB%8C%D8%AA%D8%A7%D9%86"
+        },
+        "fiwiki": {
+          "site": "fiwiki",
+          "title": "Titaanien sota \u2013 Attack on Titan",
+          "badges": [],
+          "url": "https://fi.wikipedia.org/wiki/Titaanien_sota_%E2%80%93_Attack_on_Titan"
+        },
+        "frwiki": {
+          "site": "frwiki",
+          "title": "L'Attaque des Titans",
+          "badges": [
+            "Q17437798"
+          ],
+          "url": "https://fr.wikipedia.org/wiki/L%27Attaque_des_Titans"
+        },
+        "glwiki": {
+          "site": "glwiki",
+          "title": "Shingeki no Kyojin",
+          "badges": [],
+          "url": "https://gl.wikipedia.org/wiki/Shingeki_no_Kyojin"
+        },
+        "hewiki": {
+          "site": "hewiki",
+          "title": "\u05de\u05ea\u05e7\u05e4\u05ea \u05d4\u05d8\u05d9\u05d8\u05d0\u05e0\u05d9\u05dd",
+          "badges": [],
+          "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%AA%D7%A7%D7%A4%D7%AA_%D7%94%D7%98%D7%99%D7%98%D7%90%D7%A0%D7%99%D7%9D"
+        },
+        "huwiki": {
+          "site": "huwiki",
+          "title": "Singeki no kjodzsin",
+          "badges": [],
+          "url": "https://hu.wikipedia.org/wiki/Singeki_no_kjodzsin"
+        },
+        "hywiki": {
+          "site": "hywiki",
+          "title": "\u054f\u056b\u057f\u0561\u0576\u0576\u0565\u0580\u056b \u0563\u0580\u0578\u0570\u0568",
+          "badges": [],
+          "url": "https://hy.wikipedia.org/wiki/%D5%8F%D5%AB%D5%BF%D5%A1%D5%B6%D5%B6%D5%A5%D6%80%D5%AB_%D5%A3%D6%80%D5%B8%D5%B0%D5%A8"
+        },
+        "idwiki": {
+          "site": "idwiki",
+          "title": "Attack on Titan",
+          "badges": [],
+          "url": "https://id.wikipedia.org/wiki/Attack_on_Titan"
+        },
+        "itwiki": {
+          "site": "itwiki",
+          "title": "L'attacco dei Giganti",
+          "badges": [],
+          "url": "https://it.wikipedia.org/wiki/L%27attacco_dei_Giganti"
+        },
+        "itwikiquote": {
+          "site": "itwikiquote",
+          "title": "L'attacco dei Giganti",
+          "badges": [],
+          "url": "https://it.wikiquote.org/wiki/L%27attacco_dei_Giganti"
+        },
+        "jawiki": {
+          "site": "jawiki",
+          "title": "\u9032\u6483\u306e\u5de8\u4eba",
+          "badges": [],
+          "url": "https://ja.wikipedia.org/wiki/%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA"
+        },
+        "kkwiki": {
+          "site": "kkwiki",
+          "title": "\u0422\u0438\u0442\u0430\u043d\u0434\u0430\u0440\u0493\u0430 \u0448\u0430\u0431\u0443\u044b\u043b (Atack on titan)",
+          "badges": [],
+          "url": "https://kk.wikipedia.org/wiki/%D0%A2%D0%B8%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D2%93%D0%B0_%D1%88%D0%B0%D0%B1%D1%83%D1%8B%D0%BB_(Atack_on_titan)"
+        },
+        "kowiki": {
+          "site": "kowiki",
+          "title": "\uc9c4\uaca9\uc758 \uac70\uc778",
+          "badges": [],
+          "url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EA%B2%A9%EC%9D%98_%EA%B1%B0%EC%9D%B8"
+        },
+        "kowikiquote": {
+          "site": "kowikiquote",
+          "title": "\uc9c4\uaca9\uc758 \uac70\uc778",
+          "badges": [],
+          "url": "https://ko.wikiquote.org/wiki/%EC%A7%84%EA%B2%A9%EC%9D%98_%EA%B1%B0%EC%9D%B8"
+        },
+        "lvwiki": {
+          "site": "lvwiki",
+          "title": "Tit\u0101nu uzbrukums",
+          "badges": [],
+          "url": "https://lv.wikipedia.org/wiki/Tit%C4%81nu_uzbrukums"
+        },
+        "mswiki": {
+          "site": "mswiki",
+          "title": "Attack on Titan",
+          "badges": [],
+          "url": "https://ms.wikipedia.org/wiki/Attack_on_Titan"
+        },
+        "nlwiki": {
+          "site": "nlwiki",
+          "title": "Attack on Titan",
+          "badges": [],
+          "url": "https://nl.wikipedia.org/wiki/Attack_on_Titan"
+        },
+        "nowiki": {
+          "site": "nowiki",
+          "title": "Attack On Titan",
+          "badges": [],
+          "url": "https://no.wikipedia.org/wiki/Attack_On_Titan"
+        },
+        "oswiki": {
+          "site": "oswiki",
+          "title": "\u0411\u044b\u0440\u0441\u00e6\u0433 \u0443\u00e6\u0439\u0433\u0443\u044b\u0442\u00e6",
+          "badges": [],
+          "url": "https://os.wikipedia.org/wiki/%D0%91%D1%8B%D1%80%D1%81%C3%A6%D0%B3_%D1%83%C3%A6%D0%B9%D0%B3%D1%83%D1%8B%D1%82%C3%A6"
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "Atak Tytan\u00f3w",
+          "badges": [],
+          "url": "https://pl.wikipedia.org/wiki/Atak_Tytan%C3%B3w"
+        },
+        "ptwiki": {
+          "site": "ptwiki",
+          "title": "Shingeki no Kyojin",
+          "badges": [],
+          "url": "https://pt.wikipedia.org/wiki/Shingeki_no_Kyojin"
+        },
+        "ruwiki": {
+          "site": "ruwiki",
+          "title": "\u0410\u0442\u0430\u043a\u0430 \u0442\u0438\u0442\u0430\u043d\u043e\u0432",
+          "badges": [],
+          "url": "https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%B0%D0%BA%D0%B0_%D1%82%D0%B8%D1%82%D0%B0%D0%BD%D0%BE%D0%B2"
+        },
+        "scowiki": {
+          "site": "scowiki",
+          "title": "Attack on Titan",
+          "badges": [],
+          "url": "https://sco.wikipedia.org/wiki/Attack_on_Titan"
+        },
+        "scwiki": {
+          "site": "scwiki",
+          "title": "S'attaccu de sos Zigantes",
+          "badges": [],
+          "url": "https://sc.wikipedia.org/wiki/S%27attaccu_de_sos_Zigantes"
+        },
+        "shwiki": {
+          "site": "shwiki",
+          "title": "Attack on Titan",
+          "badges": [],
+          "url": "https://sh.wikipedia.org/wiki/Attack_on_Titan"
+        },
+        "simplewiki": {
+          "site": "simplewiki",
+          "title": "Attack on Titan",
+          "badges": [],
+          "url": "https://simple.wikipedia.org/wiki/Attack_on_Titan"
+        },
+        "svwiki": {
+          "site": "svwiki",
+          "title": "Attack on Titan",
+          "badges": [],
+          "url": "https://sv.wikipedia.org/wiki/Attack_on_Titan"
+        },
+        "thwiki": {
+          "site": "thwiki",
+          "title": "\u0e1c\u0e48\u0e32\u0e1e\u0e34\u0e20\u0e1e\u0e44\u0e17\u0e17\u0e31\u0e19",
+          "badges": [],
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%9E%E0%B8%B4%E0%B8%A0%E0%B8%9E%E0%B9%84%E0%B8%97%E0%B8%97%E0%B8%B1%E0%B8%99"
+        },
+        "tlwiki": {
+          "site": "tlwiki",
+          "title": "Attack on Titan",
+          "badges": [],
+          "url": "https://tl.wikipedia.org/wiki/Attack_on_Titan"
+        },
+        "trwiki": {
+          "site": "trwiki",
+          "title": "Attack on Titan",
+          "badges": [],
+          "url": "https://tr.wikipedia.org/wiki/Attack_on_Titan"
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "Shingeki no Kyojin",
+          "badges": [],
+          "url": "https://uk.wikipedia.org/wiki/Shingeki_no_Kyojin"
+        },
+        "viwiki": {
+          "site": "viwiki",
+          "title": "\u0110\u1ea1i chi\u1ebfn Titan",
+          "badges": [],
+          "url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_chi%E1%BA%BFn_Titan"
+        },
+        "zh_min_nanwiki": {
+          "site": "zh_min_nanwiki",
+          "title": "Ch\u00ecn-kek \u00ea K\u012b-j\u00een",
+          "badges": [],
+          "url": "https://zh-min-nan.wikipedia.org/wiki/Ch%C3%ACn-kek_%C3%AA_K%C4%AB-j%C3%AEn"
+        },
+        "zhwiki": {
+          "site": "zhwiki",
+          "title": "\u9032\u64ca\u7684\u5de8\u4eba",
+          "badges": [],
+          "url": "https://zh.wikipedia.org/wiki/%E9%80%B2%E6%93%8A%E7%9A%84%E5%B7%A8%E4%BA%BA"
+        }
+      }
+    }
+  }
+}

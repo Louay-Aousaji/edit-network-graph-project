@@ -1,0 +1,50 @@
+{
+  "entities": {
+    "Q349375": {
+      "pageid": 333926,
+      "ns": 0,
+      "title": "Q349375",
+      "lastrevid": 858507,
+      "modified": "2012-12-04T01:29:48Z",
+      "type": "item",
+      "id": "Q349375",
+      "labels": {
+        "pt": {
+          "language": "pt",
+          "value": "Fortnite"
+        },
+        "en": {
+          "language": "en",
+          "value": "Fortnite"
+        },
+        "uk": {
+          "language": "uk",
+          "value": "Fortnite"
+        }
+      },
+      "descriptions": {},
+      "aliases": {},
+      "claims": {},
+      "sitelinks": {
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://en.wikipedia.org/wiki/Fortnite"
+        },
+        "ptwiki": {
+          "site": "ptwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://pt.wikipedia.org/wiki/Fortnite"
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://uk.wikipedia.org/wiki/Fortnite"
+        }
+      }
+    }
+  }
+}

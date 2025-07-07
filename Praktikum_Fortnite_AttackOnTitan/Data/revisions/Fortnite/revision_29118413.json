@@ -1,0 +1,72 @@
+{
+  "entities": {
+    "Q349375": {
+      "pageid": 333926,
+      "ns": 0,
+      "title": "Q349375",
+      "lastrevid": 29118413,
+      "modified": "2013-04-21T20:57:57Z",
+      "type": "item",
+      "id": "Q349375",
+      "labels": {
+        "pt": {
+          "language": "pt",
+          "value": "Fortnite"
+        },
+        "en": {
+          "language": "en",
+          "value": "Fortnite"
+        },
+        "uk": {
+          "language": "uk",
+          "value": "Fortnite"
+        }
+      },
+      "descriptions": {},
+      "aliases": {},
+      "claims": {
+        "P306": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P306",
+              "hash": "372b598ec10a56c64b0db84314aeca97e8818e67",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1406,
+                  "id": "Q1406"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "q349375$7BE2C6BB-772B-4913-8E1D-816C451DD2DD",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://en.wikipedia.org/wiki/Fortnite"
+        },
+        "ptwiki": {
+          "site": "ptwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://pt.wikipedia.org/wiki/Fortnite"
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://uk.wikipedia.org/wiki/Fortnite"
+        }
+      }
+    }
+  }
+}

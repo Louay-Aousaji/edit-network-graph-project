@@ -1,0 +1,126 @@
+{
+  "entities": {
+    "Q349375": {
+      "pageid": 333926,
+      "ns": 0,
+      "title": "Q349375",
+      "lastrevid": 63154186,
+      "modified": "2013-08-02T09:57:32Z",
+      "type": "item",
+      "id": "Q349375",
+      "labels": {
+        "pt": {
+          "language": "pt",
+          "value": "Fortnite"
+        },
+        "en": {
+          "language": "en",
+          "value": "Fortnite"
+        },
+        "uk": {
+          "language": "uk",
+          "value": "Fortnite"
+        },
+        "ru": {
+          "language": "ru",
+          "value": "Fortnite"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "Fortnite"
+        }
+      },
+      "descriptions": {
+        "ru": {
+          "language": "ru",
+          "value": "\u0432\u0438\u0434\u0435\u043e\u0438\u0433\u0440\u0430 1913 \u0433\u043e\u0434\u0430"
+        }
+      },
+      "aliases": {},
+      "claims": {
+        "P306": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P306",
+              "hash": "372b598ec10a56c64b0db84314aeca97e8818e67",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1406,
+                  "id": "Q1406"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "q349375$7BE2C6BB-772B-4913-8E1D-816C451DD2DD",
+            "rank": "normal"
+          }
+        ],
+        "P107": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P107",
+              "hash": "09d435f9eb9e7b57999ec78ecb711ccaba01fa8e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 386724,
+                  "id": "Q386724"
+                },
+                "type": "wikibase-entityid"
+              }
+            },
+            "type": "statement",
+            "id": "q349375$7218a61f-42a9-c1fa-80fe-af1c0f22cbf3",
+            "rank": "normal"
+          }
+        ],
+        "P404": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P404",
+              "hash": "fa46012bbed0e66866faab0fdce0bb03722740e3",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2667186,
+                  "id": "Q2667186"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "q349375$6EE65378-087B-4F81-9AF6-B3792B14779A",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://en.wikipedia.org/wiki/Fortnite"
+        },
+        "ptwiki": {
+          "site": "ptwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://pt.wikipedia.org/wiki/Fortnite"
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://uk.wikipedia.org/wiki/Fortnite"
+        }
+      }
+    }
+  }
+}

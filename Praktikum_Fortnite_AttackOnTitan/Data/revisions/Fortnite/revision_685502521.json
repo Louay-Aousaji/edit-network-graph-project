@@ -1,0 +1,1354 @@
+{
+  "entities": {
+    "Q349375": {
+      "pageid": 333926,
+      "ns": 0,
+      "title": "Q349375",
+      "lastrevid": 685502521,
+      "modified": "2018-05-26T21:49:04Z",
+      "type": "item",
+      "id": "Q349375",
+      "labels": {
+        "pt": {
+          "language": "pt",
+          "value": "Fortnite"
+        },
+        "en": {
+          "language": "en",
+          "value": "Fortnite"
+        },
+        "uk": {
+          "language": "uk",
+          "value": "Fortnite"
+        },
+        "ru": {
+          "language": "ru",
+          "value": "Fortnite"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "Fortnite"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "Fortnite"
+        },
+        "es": {
+          "language": "es",
+          "value": "Fortnite"
+        },
+        "it": {
+          "language": "it",
+          "value": "Fortnite"
+        },
+        "fi": {
+          "language": "fi",
+          "value": "Fortnite"
+        },
+        "en-ca": {
+          "language": "en-ca",
+          "value": "Fortnite"
+        },
+        "en-gb": {
+          "language": "en-gb",
+          "value": "Fortnite"
+        },
+        "pt-br": {
+          "language": "pt-br",
+          "value": "Fortnite"
+        },
+        "ar": {
+          "language": "ar",
+          "value": "\u0641\u0648\u0631\u062a\u0646\u0627\u064a\u062a"
+        },
+        "de": {
+          "language": "de",
+          "value": "Fortnite"
+        },
+        "he": {
+          "language": "he",
+          "value": "Fortnite"
+        },
+        "hu": {
+          "language": "hu",
+          "value": "Fortnite"
+        },
+        "ast": {
+          "language": "ast",
+          "value": "Fortnite"
+        },
+        "ca": {
+          "language": "ca",
+          "value": "Fortnite"
+        },
+        "el": {
+          "language": "el",
+          "value": "Fortnite"
+        },
+        "eu": {
+          "language": "eu",
+          "value": "Fortnite"
+        },
+        "ga": {
+          "language": "ga",
+          "value": "Fortnite"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "\u30d5\u30a9\u30fc\u30c8\u30ca\u30a4\u30c8"
+        },
+        "nb": {
+          "language": "nb",
+          "value": "Fortnite"
+        },
+        "pl": {
+          "language": "pl",
+          "value": "Fortnite"
+        },
+        "sv": {
+          "language": "sv",
+          "value": "Fortnite"
+        },
+        "vi": {
+          "language": "vi",
+          "value": "Fortnite"
+        },
+        "zh": {
+          "language": "zh",
+          "value": "\u5821\u5792\u4e4b\u591c"
+        },
+        "sco": {
+          "language": "sco",
+          "value": "Fortnite"
+        },
+        "tr": {
+          "language": "tr",
+          "value": "Fortnite"
+        },
+        "da": {
+          "language": "da",
+          "value": "Fortnite"
+        }
+      },
+      "descriptions": {
+        "ru": {
+          "language": "ru",
+          "value": "\u041a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u0430\u044f \u0438\u0433\u0440\u0430 2017 \u0433\u043e\u0434\u0430"
+        },
+        "en": {
+          "language": "en",
+          "value": "co-op sandbox survival game developed by Epic Games"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "jeu vid\u00e9o"
+        },
+        "nl": {
+          "language": "nl",
+          "value": "computerspel van Epic Games"
+        },
+        "el": {
+          "language": "el",
+          "value": "\u03b2\u03b9\u03bd\u03c4\u03b5\u03bf\u03c0\u03b1\u03b9\u03c7\u03bd\u03af\u03b4\u03b9 \u03c4\u03bf\u03c5 2017"
+        },
+        "sco": {
+          "language": "sco",
+          "value": "video gemme"
+        },
+        "ca": {
+          "language": "ca",
+          "value": "videojoc de 2017"
+        },
+        "it": {
+          "language": "it",
+          "value": "videogioco del 2017"
+        },
+        "pt-br": {
+          "language": "pt-br",
+          "value": "jogo eletr\u00f4nico de 2017"
+        },
+        "cs": {
+          "language": "cs",
+          "value": "videohra z roku 2017"
+        },
+        "es": {
+          "language": "es",
+          "value": "videojuego de 2017"
+        },
+        "en-gb": {
+          "language": "en-gb",
+          "value": "co-op sandbox survival video game"
+        },
+        "nn": {
+          "language": "nn",
+          "value": "dataspel fr\u00e5 2017"
+        },
+        "nb": {
+          "language": "nb",
+          "value": "videospill fra 2017"
+        },
+        "tr": {
+          "language": "tr",
+          "value": "2017 video oyunu"
+        },
+        "lv": {
+          "language": "lv",
+          "value": "videosp\u0113le"
+        },
+        "ro": {
+          "language": "ro",
+          "value": "joc video din 2017"
+        },
+        "pl": {
+          "language": "pl",
+          "value": "gra komputerowa z 2017 roku"
+        },
+        "bg": {
+          "language": "bg",
+          "value": "\u0432\u0438\u0434\u0435\u043e\u0438\u0433\u0440\u0430 \u043e\u0442 2017 \u0433\u043e\u0434\u0438\u043d\u0430"
+        },
+        "hr": {
+          "language": "hr",
+          "value": "videoigra"
+        },
+        "de": {
+          "language": "de",
+          "value": "Videospiel aus dem Jahr 2017"
+        },
+        "da": {
+          "language": "da",
+          "value": "computerspil fra 2017"
+        },
+        "bs": {
+          "language": "bs",
+          "value": "videoigra"
+        },
+        "fi": {
+          "language": "fi",
+          "value": "2017 verkkopeli"
+        },
+        "hu": {
+          "language": "hu",
+          "value": "videoj\u00e1t\u00e9k"
+        },
+        "en-ca": {
+          "language": "en-ca",
+          "value": "2017 video game"
+        },
+        "pt": {
+          "language": "pt",
+          "value": "v\u00eddeojogo de 2017"
+        },
+        "sr": {
+          "language": "sr",
+          "value": "\u0432\u0438\u0434\u0435\u043e-\u0438\u0433\u0440\u0430"
+        },
+        "sv": {
+          "language": "sv",
+          "value": "datorspel fr\u00e5n 2017"
+        },
+        "mk": {
+          "language": "mk",
+          "value": "\u0432\u0438\u0434\u0435\u043e\u0438\u0433\u0440\u0430 \u043e\u0434 2017 \u0433\u043e\u0434\u0438\u043d\u0430"
+        },
+        "sk": {
+          "language": "sk",
+          "value": "po\u010d\u00edta\u010dov\u00e1 hra z 2017"
+        },
+        "sh": {
+          "language": "sh",
+          "value": "videoigra"
+        },
+        "uk": {
+          "language": "uk",
+          "value": "\u0432\u0456\u0434\u0435\u043e\u0433\u0440\u0430 2017 \u0440\u043e\u043a\u0443"
+        },
+        "sl": {
+          "language": "sl",
+          "value": "videoigra iz leta 2017"
+        },
+        "ar": {
+          "language": "ar",
+          "value": "\u0644\u0639\u0628\u0629 \u0642\u062a\u0627\u0644\u064a\u0629"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30b2\u30fc\u30e0"
+        },
+        "he": {
+          "language": "he",
+          "value": "2017 \u05de\u05e9\u05d7\u05e7 \u05d5\u05d9\u05d3\u05d0\u05d5"
+        }
+      },
+      "aliases": {
+        "he": [
+          {
+            "language": "he",
+            "value": "fortnite battle royal"
+          }
+        ]
+      },
+      "claims": {
+        "P404": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P404",
+              "hash": "f531543a173c09df91c7aaa53d323267c827e491",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 208850,
+                  "id": "Q208850"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "q349375$6EE65378-087B-4F81-9AF6-B3792B14779A",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P404",
+              "hash": "9bb63ba571e570485d659cd90c92f475f978c1b6",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1758804,
+                  "id": "Q1758804"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q349375$3464E26F-6F72-423F-9A21-80BE579724AF",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "f3dd1dd01b7ae1ae8763a37c2bae42b94b696849",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "27e7de7ab86f481701da0da5c9b318d3bf1e145a",
+                      "datavalue": {
+                        "value": "https://www.polygon.com/e3/2017/6/8/15761278/fortnite-early-access-release-date-ps4-xbox-one-pc-mac-price-preview",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P400": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P400",
+              "hash": "0b7430c76aa932002363740d965c9f0a5cd61191",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1406,
+                  "id": "Q1406"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q349375$3F3251BC-4DDF-49A2-A3A1-E878996E11F9",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P400",
+              "hash": "fd458c3f1c6ad0c620d2551f6e682dcf6ba6cb47",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 14116,
+                  "id": "Q14116"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q349375$9B044370-FEDD-4692-9716-499F55263663",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P400",
+              "hash": "33b09c200f075ccaeda157f9f5e0a0baa0a654cf",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 5014725,
+                  "id": "Q5014725"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q349375$5adb8268-440a-70fc-3d97-6ed76a139616",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P400",
+              "hash": "9911730726388d7d7f7e8eeae654b34da3cab2d3",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 13361286,
+                  "id": "Q13361286"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q349375$412f508b-4e3e-b521-152d-373c1215f954",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P400",
+              "hash": "83a943dbd81997a157d590b44d411746c9341031",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 48493,
+                  "id": "Q48493"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q349375$cf155a71-4711-a182-2ef2-2f5045828156",
+            "rank": "normal"
+          }
+        ],
+        "P408": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P408",
+              "hash": "d2f5272f8b538836d4d22c4704082506f1ce5c6f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 13156652,
+                  "id": "Q13156652"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q349375$b914b702-4564-1088-c228-839d7a291bd4",
+            "rank": "normal"
+          }
+        ],
+        "P86": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P86",
+              "hash": "3a01ed1b0b484edf54bbd7180dff00117451db11",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 253336,
+                  "id": "Q253336"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q349375$219EAECD-39FA-4DE9-AC74-249CE4D6F631",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P136": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P136",
+              "hash": "ac9268d285db307fa1def4d77206f12c95915ac8",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 21030988,
+                  "id": "Q21030988"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q349375$F8F46316-6F07-4824-8D8C-BA04C63306D5",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P178": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P178",
+              "hash": "8a9c2d101dd3bc01efb7e6df683b914705e0235a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 739711,
+                  "id": "Q739711"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q349375$417AEFDB-DF13-4099-8EE7-03B0308536A8",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P178",
+              "hash": "e5a73c13bdde21de913df836489a4b822615582f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1799063,
+                  "id": "Q1799063"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q349375$1e2f0df6-4f39-8fdd-57d4-21e51ad09b70",
+            "rank": "normal"
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "7e3f04b97b9ed8e04ba51d58857b1a147a2afc8a",
+              "datavalue": {
+                "value": "http://fortnitegame.com/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q349375$7E65F71D-B4B1-426A-8266-545606733609",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P2002": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2002",
+              "hash": "7c74a98cf59fc9fc445a26f2c4efaf124e18f94b",
+              "datavalue": {
+                "value": "FortniteGame",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3744": [
+                {
+                  "snaktype": "value",
+                  "property": "P3744",
+                  "hash": "88712653725b6a4bec44e5c6d00ee4d267d9453f",
+                  "datavalue": {
+                    "value": {
+                      "amount": "+3791322",
+                      "unit": "1"
+                    },
+                    "type": "quantity"
+                  },
+                  "datatype": "quantity"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3744"
+            ],
+            "id": "Q349375$e9769593-4ee0-c52c-a43a-131b5a774ade",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "830e0d3d65e6b91e769889d7d1177706b5c1e0ca",
+                "snaks": {
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "cd8210fc3215a6112ebad72d11663d1a56b14d67",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2018-05-10T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P852": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P852",
+              "hash": "0cafbd64f7a47aca6b6b48099f9aebcc3547c2d9",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 14864330,
+                  "id": "Q14864330"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q349375$cc74ea49-4b3c-aaf8-9651-3bcbe5b8930e",
+            "rank": "normal"
+          }
+        ],
+        "P3984": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3984",
+              "hash": "9f6d0831d67cedc6d1b727c2b4525aef384dc5e4",
+              "datavalue": {
+                "value": "FORTnITE",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3744": [
+                {
+                  "snaktype": "value",
+                  "property": "P3744",
+                  "hash": "bb70ddfe3fe0f0a21d4dd260dca255ecba724c2c",
+                  "datavalue": {
+                    "value": {
+                      "amount": "+165809",
+                      "unit": "1"
+                    },
+                    "type": "quantity"
+                  },
+                  "datatype": "quantity"
+                }
+              ],
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1860,
+                      "id": "Q1860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P3744",
+              "P407"
+            ],
+            "id": "Q349375$00927421-4f65-2d2d-6874-c952e477f599",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "848c7514b88b1f487526b9556ccde288c97daabd",
+                "snaks": {
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "be0f82c1f563fe0acd805d40974b9ab3e372c220",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2018-05-06T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P2397": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2397",
+              "hash": "04cd4a2c06effc52bb0c4c41ebcc426a07a3d7c0",
+              "datavalue": {
+                "value": "UClG8odDC8TS6Zpqk9CGVQiQ",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q349375$97ca8dd9-4ceb-64ad-94eb-06f09d82ed26",
+            "rank": "normal"
+          }
+        ],
+        "P3417": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3417",
+              "hash": "307c476e0cc013cb159754c6f778db5e4632aa34",
+              "datavalue": {
+                "value": "Fortnite",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q349375$5cd80e53-4e7e-ed0c-f48a-cd38eeefb26a",
+            "rank": "normal"
+          }
+        ],
+        "P2847": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2847",
+              "hash": "e5632c8dbf55416eb73ab83e9d572c52f710e4be",
+              "datavalue": {
+                "value": "109635769902698454523",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q349375$D2920011-3B8F-4E1D-ACA0-F80FA35CB15F",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "edd05009c3d816dbb83b8f96e87a577677f09626",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "c90e7462649b1190c4629d36d98dbe3ef87d2472",
+                      "datavalue": {
+                        "value": "https://www.youtube.com/channel/UClG8odDC8TS6Zpqk9CGVQiQ",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1933": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1933",
+              "hash": "88741a3fa5faf409ebaaefc94694133d4281a8a4",
+              "datavalue": {
+                "value": "fortnite-standard-founders-pack",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q349375$CB3F44E4-30E7-470D-B3DF-AA2A1F87DDAB",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "1f1ad4e8b24154f402e1afe4c76421acd00932f9",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "889b94c40f0dc1125270051a5044b24e92e7236a",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 175482,
+                          "id": "Q175482"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P908": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P908",
+              "hash": "1a26d117f14630dcb5c309c70c5dc2228c4688f3",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 14915515,
+                  "id": "Q14915515"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q349375$ed6dde95-490c-5ca2-8be4-9f4ca63a0554",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "1f1ad4e8b24154f402e1afe4c76421acd00932f9",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "889b94c40f0dc1125270051a5044b24e92e7236a",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 175482,
+                          "id": "Q175482"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P479": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P479",
+              "hash": "5d130fb9b194f9860d5be417e1f479654590363e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 250,
+                  "id": "Q250"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q349375$5b68a3ad-4925-c5fe-ba76-d3387106483c",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P479",
+              "hash": "31572df666d47386ed5b7cd53e12a75e337de890",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 865422,
+                  "id": "Q865422"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q349375$45dccffb-454d-a3ce-2f08-b6fa65c7caff",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P479",
+              "hash": "0ef4d77ceab2d6a5f2293742b8034142756a4d1e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 7987,
+                  "id": "Q7987"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q349375$1c4716e8-434e-6ecb-b9b8-7028769103fd",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P479",
+              "hash": "f0184888d87098b82f63ef021c77329be6790481",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 165970,
+                  "id": "Q165970"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q349375$a34ad333-41b0-64f4-3df0-56b3fd5c119e",
+            "rank": "normal"
+          }
+        ],
+        "P345": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P345",
+              "hash": "f8cde9a9dd45c63fc36f34755d94384fbdcf387c",
+              "datavalue": {
+                "value": "tt8020008",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q349375$5c8c5a55-499c-342a-45b1-40ceb56c503b",
+            "rank": "normal"
+          }
+        ],
+        "P4467": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P4467",
+              "hash": "c2e8c1a4d25cbd1a0468ffdce98a15bcaf65ad22",
+              "datavalue": {
+                "value": "Fortnite",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q349375$106f94bb-43dc-c2ba-857b-298e581bc1bf",
+            "rank": "normal"
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "03d2d8ec4a899b29435a104a9ce7c189a31ae380",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 7889,
+                  "id": "Q7889"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q349375$f685f8b6-4406-aa3e-e5a1-0f5f2aec1f2c",
+            "rank": "normal"
+          }
+        ],
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "d30559f18c9035143c3ab9a7d27620b11a0f0353",
+              "datavalue": {
+                "value": "Fortnite",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q349375$b430938f-4c7e-156f-b51b-72a71a86418a",
+            "rank": "normal"
+          }
+        ],
+        "P154": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "c2dcc9e0ac3248bc04db0fbc4f42e4d8f2f1e913",
+              "datavalue": {
+                "value": "Fortnite Battle Royale.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q349375$76325210-456e-4159-19e8-32a4a99ee080",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "arwiki": {
+          "site": "arwiki",
+          "title": "\u0641\u0648\u0631\u062a\u0646\u0627\u064a\u062a",
+          "badges": [],
+          "url": "https://ar.wikipedia.org/wiki/%D9%81%D9%88%D8%B1%D8%AA%D9%86%D8%A7%D9%8A%D8%AA"
+        },
+        "astwiki": {
+          "site": "astwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://ast.wikipedia.org/wiki/Fortnite"
+        },
+        "cawiki": {
+          "site": "cawiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://ca.wikipedia.org/wiki/Fortnite"
+        },
+        "commonswiki": {
+          "site": "commonswiki",
+          "title": "Category:Fortnite",
+          "badges": [],
+          "url": "https://commons.wikimedia.org/wiki/Category:Fortnite"
+        },
+        "dawiki": {
+          "site": "dawiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://da.wikipedia.org/wiki/Fortnite"
+        },
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://de.wikipedia.org/wiki/Fortnite"
+        },
+        "elwiki": {
+          "site": "elwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://el.wikipedia.org/wiki/Fortnite"
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://en.wikipedia.org/wiki/Fortnite"
+        },
+        "eswiki": {
+          "site": "eswiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://es.wikipedia.org/wiki/Fortnite"
+        },
+        "euwiki": {
+          "site": "euwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://eu.wikipedia.org/wiki/Fortnite"
+        },
+        "fawiki": {
+          "site": "fawiki",
+          "title": "\u0641\u0648\u0631\u062a\u0646\u0627\u06cc\u062a",
+          "badges": [],
+          "url": "https://fa.wikipedia.org/wiki/%D9%81%D9%88%D8%B1%D8%AA%D9%86%D8%A7%DB%8C%D8%AA"
+        },
+        "fiwiki": {
+          "site": "fiwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://fi.wikipedia.org/wiki/Fortnite"
+        },
+        "frwiki": {
+          "site": "frwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://fr.wikipedia.org/wiki/Fortnite"
+        },
+        "gawiki": {
+          "site": "gawiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://ga.wikipedia.org/wiki/Fortnite"
+        },
+        "huwiki": {
+          "site": "huwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://hu.wikipedia.org/wiki/Fortnite"
+        },
+        "itwiki": {
+          "site": "itwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://it.wikipedia.org/wiki/Fortnite"
+        },
+        "jawiki": {
+          "site": "jawiki",
+          "title": "\u30d5\u30a9\u30fc\u30c8\u30ca\u30a4\u30c8 (\u30b2\u30fc\u30e0)",
+          "badges": [],
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%83%8A%E3%82%A4%E3%83%88_(%E3%82%B2%E3%83%BC%E3%83%A0)"
+        },
+        "nlwiki": {
+          "site": "nlwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://nl.wikipedia.org/wiki/Fortnite"
+        },
+        "nowiki": {
+          "site": "nowiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://no.wikipedia.org/wiki/Fortnite"
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://pl.wikipedia.org/wiki/Fortnite"
+        },
+        "ptwiki": {
+          "site": "ptwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://pt.wikipedia.org/wiki/Fortnite"
+        },
+        "ruwiki": {
+          "site": "ruwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://ru.wikipedia.org/wiki/Fortnite"
+        },
+        "scowiki": {
+          "site": "scowiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://sco.wikipedia.org/wiki/Fortnite"
+        },
+        "srwiki": {
+          "site": "srwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://sr.wikipedia.org/wiki/Fortnite"
+        },
+        "svwiki": {
+          "site": "svwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://sv.wikipedia.org/wiki/Fortnite"
+        },
+        "trwiki": {
+          "site": "trwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://tr.wikipedia.org/wiki/Fortnite"
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://uk.wikipedia.org/wiki/Fortnite"
+        },
+        "viwiki": {
+          "site": "viwiki",
+          "title": "Fortnite",
+          "badges": [],
+          "url": "https://vi.wikipedia.org/wiki/Fortnite"
+        },
+        "zhwiki": {
+          "site": "zhwiki",
+          "title": "\u5821\u5792\u4e4b\u591c",
+          "badges": [],
+          "url": "https://zh.wikipedia.org/wiki/%E5%A0%A1%E5%9E%92%E4%B9%8B%E5%A4%9C"
+        }
+      }
+    }
+  }
+}

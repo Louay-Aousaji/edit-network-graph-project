@@ -1,0 +1,128 @@
+{
+  "entities": {
+    "Q586025": {
+      "pageid": 551367,
+      "ns": 0,
+      "title": "Q586025",
+      "lastrevid": 45272007,
+      "modified": "2013-05-23T06:08:57Z",
+      "type": "item",
+      "id": "Q586025",
+      "labels": {
+        "es": {
+          "language": "es",
+          "value": "Shingeki no Kyojin"
+        },
+        "en": {
+          "language": "en",
+          "value": "Attack on Titan"
+        },
+        "it": {
+          "language": "it",
+          "value": "L'attacco dei giganti"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "\u9032\u6483\u306e\u5de8\u4eba"
+        },
+        "ko": {
+          "language": "ko",
+          "value": "\uc9c4\uaca9\uc758 \uac70\uc778"
+        },
+        "pt": {
+          "language": "pt",
+          "value": "Shingeki no Kyojin"
+        },
+        "zh": {
+          "language": "zh",
+          "value": "\u9032\u64ca\u7684\u5de8\u4eba"
+        },
+        "uk": {
+          "language": "uk",
+          "value": "Shingeki no Kyojin"
+        },
+        "th": {
+          "language": "th",
+          "value": "\u0e1c\u0e48\u0e32\u0e1e\u0e34\u0e20\u0e1e\u0e44\u0e17\u0e17\u0e31\u0e19"
+        }
+      },
+      "descriptions": {},
+      "aliases": {},
+      "claims": {},
+      "sitelinks": {
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Shingeki no Kyojin",
+          "badges": [],
+          "url": "https://de.wikipedia.org/wiki/Shingeki_no_Kyojin"
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Attack on Titan",
+          "badges": [],
+          "url": "https://en.wikipedia.org/wiki/Attack_on_Titan"
+        },
+        "eswiki": {
+          "site": "eswiki",
+          "title": "Shingeki no Kyojin",
+          "badges": [],
+          "url": "https://es.wikipedia.org/wiki/Shingeki_no_Kyojin"
+        },
+        "frwiki": {
+          "site": "frwiki",
+          "title": "L'Attaque des Titans",
+          "badges": [],
+          "url": "https://fr.wikipedia.org/wiki/L%27Attaque_des_Titans"
+        },
+        "itwiki": {
+          "site": "itwiki",
+          "title": "L'attacco dei Giganti",
+          "badges": [],
+          "url": "https://it.wikipedia.org/wiki/L%27attacco_dei_Giganti"
+        },
+        "jawiki": {
+          "site": "jawiki",
+          "title": "\u9032\u6483\u306e\u5de8\u4eba",
+          "badges": [],
+          "url": "https://ja.wikipedia.org/wiki/%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA"
+        },
+        "kowiki": {
+          "site": "kowiki",
+          "title": "\uc9c4\uaca9\uc758 \uac70\uc778",
+          "badges": [],
+          "url": "https://ko.wikipedia.org/wiki/%EC%A7%84%EA%B2%A9%EC%9D%98_%EA%B1%B0%EC%9D%B8"
+        },
+        "ptwiki": {
+          "site": "ptwiki",
+          "title": "Shingeki no Kyojin",
+          "badges": [],
+          "url": "https://pt.wikipedia.org/wiki/Shingeki_no_Kyojin"
+        },
+        "ruwiki": {
+          "site": "ruwiki",
+          "title": "Shingeki no Kyojin",
+          "badges": [],
+          "url": "https://ru.wikipedia.org/wiki/Shingeki_no_Kyojin"
+        },
+        "thwiki": {
+          "site": "thwiki",
+          "title": "\u0e1c\u0e48\u0e32\u0e1e\u0e34\u0e20\u0e1e\u0e44\u0e17\u0e17\u0e31\u0e19",
+          "badges": [],
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%9E%E0%B8%B4%E0%B8%A0%E0%B8%9E%E0%B9%84%E0%B8%97%E0%B8%97%E0%B8%B1%E0%B8%99"
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "Shingeki no Kyojin",
+          "badges": [],
+          "url": "https://uk.wikipedia.org/wiki/Shingeki_no_Kyojin"
+        },
+        "zhwiki": {
+          "site": "zhwiki",
+          "title": "\u9032\u64ca\u7684\u5de8\u4eba",
+          "badges": [],
+          "url": "https://zh.wikipedia.org/wiki/%E9%80%B2%E6%93%8A%E7%9A%84%E5%B7%A8%E4%BA%BA"
+        }
+      }
+    }
+  }
+}
